@@ -33,10 +33,9 @@ Martin Chiang 曾以一個月考取美國健身教練四大進階證照在PTT跟
 
 如果你想知道更多關於Martin關於美國運動生理學碩班申請的過程，以及美國健身產業介紹和工作面試分享，歡迎參考Martin的部落格，如果你剛好在紐約生活或有朋友在紐約，非常推薦找訓練知識和經驗都超級豐富的Martin當你的私人教練!記得他服務健身房是Midtown 42nd street 的Life Time Athletic at Sky！
 
-＊馬上訂閱好奇槓鈴！聆聽更多運動健身領域的教練、創業家、醫療專業人員、以及運動研究工作者分享訓練相關的專業知識以及他們的人生故事．
 
 延伸資源：
 
-**Martin Chiang** [https://www.facebook.com/martinchiang17](https://www.facebook.com/martinchiang17)
+[**Martin Chiang**](https://www.facebook.com/martinchiang17)
 
-**銷售聖經** [https://www.books.com.tw/products/0010641905](https://www.books.com.tw/products/0010641905)
+[**銷售聖經**](https://www.books.com.tw/products/0010641905)

@@ -38,23 +38,7 @@ categories:
 ### **了解更多運動與性別：**
 
 -   填寫問卷一起加入討論：
--   You can play [http://youcanplayproject.org](http://youcanplayproject.org/)
--   Outsports [https://www.outsports.com](https://www.outsports.com/)
--   EGLSF [https://www.eglsf.info](https://www.eglsf.info/)
--   AthleteAlly [https://www.athleteally.org](https://www.athleteally.org/)
-
-**Connect with us!**
-
--   加入好奇槓鈴Email [https://mit886.substack.com/](https://mit886.substack.com/)
--   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
--   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
--   官網 [https://angiecreates.io](https://angiecreates.io)
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
-
-**在其他平台上收聽：**
-
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube:
--   Google Podcast
--   Overcast, Anchor、Castro、Pocket Cast, Breaker
+-   [You can play](http://youcanplayproject.org/)
+-   [Outsports](https://www.outsports.com/)
+-   [EGLSF](https://www.eglsf.info/)
+-   [AthleteAlly](https://www.athleteally.org/)

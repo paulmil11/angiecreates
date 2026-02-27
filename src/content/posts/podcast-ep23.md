@@ -41,19 +41,11 @@ Wei胡哲瑋是一名健身教練，也是運動生物力學的博士生，就�
 延伸資源：
 
 -   運動科學海外台灣人交流網絡
--   Ｗei FB: https://www.facebook.com/fitnesswefit/
+-   [Ｗei FB](https://www.facebook.com/fitnesswefit/)
 -   Wei IG: Fitness\_wefit1
 
 了解更多:
 
 -   Facebook & IG搜尋: Curious Barbell
 -   Website: angiecreates.io
--   E-mail: angie@angiecreates.io
-
-在其他下平台收聽：
-
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube: 
--   Google Podcast
--   Overcast, Anchor、Castro、Pocket Cast, Breaker
+-   E-mail: angiewangcreates@gmail.com

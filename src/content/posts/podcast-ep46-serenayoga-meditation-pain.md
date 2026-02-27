@@ -36,9 +36,9 @@ categories: []
 
 ### Connect with us!
 
--   加入好奇槓鈴Email [https://mit886.substack.com/](https://mit886.substack.com/)
--   好奇槓鈴IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
--   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
--   Serena yoga [https://reurl.cc/lLAVAq](https://reurl.cc/lLAVAq)
--   Fb page [https://www.facebook.com/serenaprivateyoga/](https://www.facebook.com/serenaprivateyoga/)
--   Fb group for yoga and somatic movement teachers [https://www.facebook.com/groups/yogateachergrowth/](https://www.facebook.com/groups/yogateachergrowth/)
+-   [加入好奇槓鈴Email](https://mit886.substack.com/)
+-   [好奇槓鈴IG](https://www.instagram.com/angiewangcreates/)
+-   [Facebook](https://www.facebook.com/angiewangcreates/)
+-   [Serena yoga](https://reurl.cc/lLAVAq)
+-   [Fb page](https://www.facebook.com/serenaprivateyoga/)
+-   [Fb group for yoga and somatic movement teachers](https://www.facebook.com/groups/yogateachergrowth/)

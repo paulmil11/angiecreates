@@ -42,20 +42,12 @@ tags:
 
 ## Connect with us!
 
--   加入好奇槓鈴Email [https://mit886.substack.com/](https://mit886.substack.com/)
--   May IG ＠may8572fit [https://www.instagram.com/may8572fit/](https://www.instagram.com/may8572fit/)
--   May 研究論文-你 follow 她了嗎？Instagram 網紅的人類學觀察[http://ianthro.ioe.sinica.edu.tw/wp-content/uploads/2019/01/FM26-1.pdf](http://ianthro.ioe.sinica.edu.tw/wp-content/uploads/2019/01/FM26-1.pdf)
+-   [加入好奇槓鈴Email](https://mit886.substack.com/)
+-   [May IG ＠may8572fit](https://www.instagram.com/may8572fit/)
+-   [May 研究論文-你 follow 她了嗎？Instagram 網紅的人類學觀察](http://ianthro.ioe.sinica.edu.tw/wp-content/uploads/2019/01/FM26-1.pdf)
 
 ## 追蹤好奇槓鈴：
 
--   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
--   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
-
-在其他平台上收聽：
-
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube:
--   Google Podcast
--   Overcast, Anchor、Castro、Pocket Cast, Breaker
+-   [IG](https://www.instagram.com/angiewangcreates/)
+-   [Facebook](https://www.facebook.com/angiewangcreates/)
+-   E-mail: [angiewangcreates@gmail.com](mailto:angiewangcreates@gmail.com)

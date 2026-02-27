@@ -42,23 +42,9 @@ Jeff 陳玠言教練曾在台北私人工作室GYMEFIT擔任私人教練，之�
 
 -   Jeff 部落格: [www.jeffchensports.com](https://www.jeffchensports.com)
 -   Jeff IG: [@jeffchensports](https://www.instagram.com/jeffchensports/)
--   Jeff ALTIS Foundation Course 分享文 [https://www.jeffchensports.com/blog/tag/ALTIS](https://www.jeffchensports.com/blog/tag/ALTIS)
--   Simply faster [https://simplifaster.com/](https://simplifaster.com/)
--   Plae [https://watch.plae.pro/labs-1/season:1/videos/nob34rhea](https://watch.plae.pro/labs-1/season:1/videos/nob34rhea)
--   Sorinex [https://www.sorinex.com/](https://www.sorinex.com/)
--   Elitefts [https://www.elitefts.com/](https://www.elitefts.com/)
--   Nsca podcast [https://www.nsca.com/education/podcasts/](https://www.nsca.com/education/podcasts/)
-
-追蹤聯絡好奇槓鈴:
-
--   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
--   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
-
-在其他平台聆聽：
-
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube: 
--   Google Podcast
--   Overcast, Anchor、Castro、Pocket Cast, Breaker
+-   [Jeff ALTIS Foundation Course 分享文](https://www.jeffchensports.com/blog/tag/ALTIS)
+-   [Simply faster](https://simplifaster.com/)
+-   [Plae](https://watch.plae.pro/labs-1/season:1/videos/nob34rhea)
+-   [Sorinex](https://www.sorinex.com/)
+-   [Elitefts](https://www.elitefts.com/)
+-   [Nsca podcast](https://www.nsca.com/education/podcasts/)

@@ -40,16 +40,10 @@ tags:
 
 \[運動科學海外留學生活資源\]
 
--   最新活動 [/blog/](/blog/)
--   運動科學海外人交流網絡 [/blog/](/blog/)
--   四月份線上meet-up [https://www.facebook.com/events/1121129544906245/](https://www.facebook.com/events/1121129544906245/)
--   FB社團 [https://www.facebook.com/groups/666490810818917/](https://www.facebook.com/groups/666490810818917/)
--   公費留學簡章[https://www.scholarship.moe.gov.tw/files/MOE%20108%20Scholarship.pdf](https://www.scholarship.moe.gov.tw/files/MOE%20108%20Scholarship.pdf)
--   Sam的聯絡方式：[https://www.facebook.com/profile.php?id=100000293510339](/podcast-ep19/)
+-   [最新活動](/blog/)
+-   [運動科學海外人交流網絡](/blog/)
+-   [四月份線上meet-up](https://www.facebook.com/events/1121129544906245/)
+-   [FB社團](https://www.facebook.com/groups/666490810818917/)
+-   [公費留學簡章](https://www.scholarship.moe.gov.tw/files/MOE%20108%20Scholarship.pdf)
+-   [Sam的聯絡方式：](/podcast-ep19/)
 -   email: samas9944@gmail.com
-
-了解更多：
-
--   Facebook & IG搜尋: Curious Barbell
--   Website: angiecreates.io
--   E-mail:angie@angiecreates.io

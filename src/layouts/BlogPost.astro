@@ -16,9 +16,34 @@ interface Props {
 
 const { title, description, date, slug, author = 'Angie Wang', image, categories = [], content } = Astro.props;
 const readingTime = getReadingTime(content);
+const siteUrl = 'https://angiecreates.io';
+const postUrl = `${siteUrl}/${slug}/`;
+const postImage = image ? (image.startsWith('http') ? image : `${siteUrl}${image}`) : `${siteUrl}/images/posts/IMG_8674-2-scaled.avif`;
 ---
 
 <Layout title={title} description={description || title} image={image} slug={slug}>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": title,
+    "description": description || title,
+    "image": postImage,
+    "datePublished": date,
+    "author": {
+      "@type": "Person",
+      "name": author,
+      "url": siteUrl
+    },
+    "publisher": {
+      "@type": "Person",
+      "name": "Angie Wang"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": postUrl
+    },
+    "inLanguage": "zh-TW"
+  })} />
   <article class="post">
     <div class="post-header container">
       <a href="/blog/" class="back-link">&larr; 所有文章</a>

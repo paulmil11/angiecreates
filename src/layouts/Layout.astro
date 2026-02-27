@@ -43,6 +43,15 @@ const fullTitle = title === 'Angie Wang 安吉' ? title : `${title} | Angie Wang
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={fullTitle} />
   <meta name="twitter:description" content={description} />
+  {image && <meta name="twitter:image" content={image.startsWith('http') ? image : `${siteUrl}${image}`} />}
+
+  <!-- Theme -->
+  <meta name="theme-color" content="#FDFBF7" />
+
+  <!-- Language alternates -->
+  <link rel="alternate" hreflang="zh-TW" href={siteUrl} />
+  <link rel="alternate" hreflang="en" href={`${siteUrl}/english/`} />
+  <link rel="alternate" hreflang="x-default" href={siteUrl} />
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="Angie Wang 安吉" href="/rss.xml" />

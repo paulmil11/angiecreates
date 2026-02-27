@@ -53,4 +53,4 @@ tags:
 
 -   Facebook & IG搜尋: Curious Barbell
 -   Website: angiecreates.io
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
+-   E-mail: [angiewangcreates@gmail.com](mailto:angiewangcreates@gmail.com)

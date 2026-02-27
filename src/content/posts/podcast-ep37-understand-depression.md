@@ -32,4 +32,4 @@ categories:
 -   訂閱E-mail，收到最新活動訊息[**https://mit886.substack.com/**](https://mit886.substack.com/)
 -   加入好奇槓鈴社團！[**https://www.facebook.com/groups/2692476911006899/**](https://www.facebook.com/groups/2692476911006899/)
 -   IG [**https://www.instagram.com/angiewangcreates/**](https://www.instagram.com/angiewangcreates/) 收聽喂喂你還好不好 [linktr.ee/ww.howbuhow](https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fww.howbuhow&e=ATNm_nK6bCJNyaC9iOiukzZQqfa6YFhPb1hYE7I9PUOq6PDkU_4PsgpskPx-8HzUBQQP5523KtB7YzLGOOXnAg&s=1)
--   雞蛋糕推薦的書籍都在： https://bit.ly/2YTtuUG
+-   [雞蛋糕推薦的書籍都在](https://bit.ly/2YTtuUG)

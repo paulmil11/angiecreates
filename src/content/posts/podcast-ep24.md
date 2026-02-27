@@ -38,10 +38,10 @@ Bruce林佳佑是一名ACE教練、目前是美國亞利桑那州立大學運動
 
 本集相關連結：
 
--   海外運動科學台灣人的交流網絡[/blog/](/blog/)
+-   [海外運動科學台灣人的交流網絡](/blog/)
 -   預約加入Sam Chen UT Austin運動生理學博士班公費留學線上訪談
--   Bruce臉書[https://www.facebook.com/profile.php?id=1678254915](https://www.facebook.com/profile.php?id=1678254915)
+-   [Bruce臉書](https://www.facebook.com/profile.php?id=1678254915)
 -   Bruce e-mail- clin172@asu.edu       
--   ACSM Career Center [https://careers.acsm.org/](https://careers.acsm.org/)
--   NSCA Job Board [https://www.nsca.com/professional-development/nsca-job-award/](https://www.nsca.com/professional-development/nsca-job-award/)
--   Glenn Gaesser [https://chs.asu.edu/glenn-gaesser](https://chs.asu.edu/glenn-gaesser)
+-   [ACSM Career Center](https://careers.acsm.org/)
+-   [NSCA Job Board](https://www.nsca.com/professional-development/nsca-job-award/)
+-   [Glenn Gaesser](https://chs.asu.edu/glenn-gaesser)

@@ -23,19 +23,11 @@ Kevin在訪談裡分享創辦Akrofitness 健身頻道的初衷-藉由幫助別�
 
 延伸資源：
 
--   Kevin IG @akrobatikkAkrofitness 健身部落格 [https://www.facebook.com/Akrofitness/](https://www.facebook.com/Akrofitness/)
--   前勁體能交流社團 [https://www.facebook.com/groups/732050330226771/](https://www.facebook.com/groups/732050330226771/)
--   The Jordan B. Peterson Podcast [https://open.spotify.com/show/1Zw2DKjelPnuEYpydFlhgN](https://open.spotify.com/show/1Zw2DKjelPnuEYpydFlhgN)  
+-   [Kevin IG @akrobatikkAkrofitness 健身部落格](https://www.facebook.com/Akrofitness/)
+-   [前勁體能交流社團](https://www.facebook.com/groups/732050330226771/)
+-   [The Jordan B. Peterson Podcast](https://open.spotify.com/show/1Zw2DKjelPnuEYpydFlhgN)  
     
 
 -   Contacts:Facebook & IG 搜尋: Curious Barbell
 -   Website: angiecreates.io
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)  
-    
-
-在其他下平台收聽：
-
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube:
--   Google Podcast, Overcast, Anchor、Castro、Pocket Cast, Breaker
+-   E-mail: [angiewangcreates@gmail.com](mailto:angiewangcreates@gmail.com)  

@@ -35,7 +35,7 @@ Curious Barbell 好奇槓鈴的Podcast，我是主持人郁秀Angie，在本節�
 
 感謝你收聽這一集好奇槓鈴節目，你可以在下方，找到我們本集討論到的/相關資源，以及好奇槓鈴的youtube和官方連結．
 
-如果你對節目內容/有任何想法，歡迎你到Curious Barbell 的粉專留言，或寫信到我的email信箱 angie@angiecreates.io，告訴我你希望/在未來/聽到什麼樣的主題或哪一位專家的分享．
+如果你對節目內容/有任何想法，歡迎你到Curious Barbell 的粉專留言，或寫信到我的email信箱 angiewangcreates@gmail.com，告訴我你希望/在未來/聽到什麼樣的主題或哪一位專家的分享．
 
 如果你喜歡我們的節目內容，別忘了推建給你周遭的朋友，也歡迎你在我們的粉專或你的收聽平台留下評論，你的支持能讓好奇槓鈴的節目被更多人聽見，也讓我們可以在未來邀請你想深入認識的專家，到節目上分享他們專業知識與人生故事．那再次感謝你的收聽，我們下次見囉！
 
@@ -44,8 +44,3 @@ Curious Barbell 好奇槓鈴的Podcast，我是主持人郁秀Angie，在本節�
 延伸資源：
 
 -   [AI產品規劃到健身教練的轉職路](/tech-to-coach-career-transition/)
-
-Contacts:
-
--   Facebook & IG搜尋: [Curious Barbell](https://www.instagram.com/angiewangcreates/)
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)

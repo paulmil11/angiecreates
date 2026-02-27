@@ -33,20 +33,11 @@ categories:
 -   作為人的基本價值與信念、如何釐清心底真正的渴望
 -   什麼是極限體能王
 
-＊馬上訂閱好奇槓鈴！聆聽更多運動健身領域的教練、創業家、醫療專業人員、以及運動研究工作者分享訓練相關的專業知識以及他們的人生故事．
 
 延伸資源：
 
--   GYMEFIT [https://gymefit.tw/](https://gymefit.tw/)
+-   [GYMEFIT](https://gymefit.tw/)
 -   本集專訪影片版
 -   Anything You Want by Derek Sivers
 -   Tim Ferriss Fear Setting
--   精實創業 [https://www.books.com.tw/products/0010768288](https://www.books.com.tw/products/0010768288)
-
-在其他下平台收聽：
-
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube:
--   Google Podcast
--   Overcast, Anchor、Castro、Pocket Cast, Breaker
+-   [精實創業](https://www.books.com.tw/products/0010768288)

@@ -26,23 +26,15 @@ categories:
 
 最後，我們探討calling是否真的存在、找不到calling的人如何可以利用「設計你的人生」書裡的三個不同人生來創造從未想過的人生選項，以及分享在離開有穩定升遷制度的產業後，我們怎麼定義成長這件事、如何「靠緊握來放手」，並嘗試走出自己定義的pathless path-沒有明確道路的人生之路．
 
-＊馬上訂閱好奇槓鈴！聆聽更多運動健身領域的教練、創業家、醫療專業人員、以及運動研究工作者分享訓練相關的專業知識以及他們的人生故事．
 
 延伸資源：
 
--   珍珍教練粉專[https://www.facebook.com/TrainerJenJen/](https://www.facebook.com/TrainerJenJen/)
--   優秀的綿羊 [https://www.books.com.tw/products/CN11341937](https://www.books.com.tw/products/CN11341937)
--   做自己的生命設計師 [https://www.books.com.tw/products/0010733134](https://www.books.com.tw/products/0010733134)
--   One Thousand True Fans [https://kk.org/thetechnium/1000-true-fans/](https://kk.org/thetechnium/1000-true-fans/)
-
-Contacts:
-
--   Facebook & IG搜尋: Curious Barbell
--   Website: angiecreates.io
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
+-   [珍珍教練粉專](https://www.facebook.com/TrainerJenJen/)
+-   [優秀的綿羊](https://www.books.com.tw/products/CN11341937)
+-   [做自己的生命設計師](https://www.books.com.tw/products/0010733134)
+-   [One Thousand True Fans](https://kk.org/thetechnium/1000-true-fans/)
 
 你也可以在以下平台收聽Curious Barbell的節目：
 
 -   Apple Podcast、Anchor、Castro、Pocket Cast
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Youtube:
+-   [Spotify](https://spoti.fi/2qeqEfT)

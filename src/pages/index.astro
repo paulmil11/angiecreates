@@ -106,6 +106,11 @@ const recentPosts = posts
 
   .book-hero-image img {
     max-width: 300px;
+    transition: transform 0.3s ease;
+  }
+
+  .book-hero-image img:hover {
+    transform: translateY(-4px);
   }
 
   .book-hero h1 {
@@ -170,7 +175,13 @@ const recentPosts = posts
 
   /* ── About ───────────────────────────────────────────── */
   .about-section {
-    background: var(--color-bg-alt);
+    background: linear-gradient(
+      to bottom,
+      var(--color-bg) 0%,
+      var(--color-bg-alt) 10%,
+      var(--color-bg-alt) 90%,
+      var(--color-bg) 100%
+    );
   }
 
   .about-inner {
@@ -186,6 +197,12 @@ const recentPosts = posts
     border-radius: 12px;
     object-fit: cover;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .about-image img:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.12);
   }
 
   /* ── Podcast ─────────────────────────────────────────── */
@@ -213,6 +230,7 @@ const recentPosts = posts
 
   .podcast-link:hover {
     border-color: var(--color-accent);
+    background: var(--color-bg-alt);
     color: var(--color-primary);
   }
 
@@ -246,12 +264,13 @@ const recentPosts = posts
     background: #fff;
     border: 1px solid var(--color-border);
     border-radius: 8px;
-    transition: all 0.2s ease;
+    transition: all 0.25s ease;
   }
 
   .post-card:hover {
+    transform: translateY(-3px);
     border-color: var(--color-accent);
-    box-shadow: 0 2px 12px rgba(139, 105, 20, 0.06);
+    box-shadow: 0 8px 24px rgba(139, 105, 20, 0.08);
   }
 
   .post-card-title {
@@ -274,6 +293,12 @@ const recentPosts = posts
     text-align: center;
     padding-top: 3rem;
     padding-bottom: 3rem;
+    background: linear-gradient(
+      to bottom,
+      var(--color-bg) 0%,
+      var(--color-bg-alt) 40%,
+      var(--color-bg-alt) 100%
+    );
   }
 
   .substack-section h2 {

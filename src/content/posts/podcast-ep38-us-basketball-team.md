@@ -24,11 +24,3 @@ Eric Liu 劉又瑄在台灣曾是甲組籃球員，後來赴美攻讀運動科�
 **他在本集聊到：**剛開始到美國直接進球隊的挑戰 留學生活的語言挑戰及克服 運動科學研究所的介紹 NIRSA介紹 聽眾對於台美運動科學訓練討論的Q&A時間．
 
 直播將會在好奇槓鈴Youtube上！
-
-**Connect with us!**
-
--   加入好奇槓鈴Email [https://mit886.substack.com/](https://mit886.substack.com/) 
--   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/) 
--   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/) 
--   Honest Sport [https://www.instagram.com/\_honest\_sports/?hl=zh-tw](https://www.instagram.com/_honest_sports/?hl=zh-tw) 
--   Eric IG [https://www.instagram.com/yuhsuaneliu/](https://www.instagram.com/yuhsuaneliu/)

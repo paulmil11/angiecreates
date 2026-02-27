@@ -37,6 +37,6 @@ categories:
 
 -   Mia FB: [女子力量實驗室 Ladies’ Strength Lab](https://www.facebook.com/%E5%A5%B3%E5%AD%90%E5%8A%9B%E9%87%8F%E5%AF%A6%E9%A9%97%E5%AE%A4-Ladies-Strength-Lab-107933021030138/) 
 -   Mia IG: [@letmiafixyou](https://www.instagram.com/letmiafixyou/) 
--   加入好奇槓鈴Email [https://mit886.substack.com/](https://mit886.substack.com/) 
--   好奇槓鈴IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/) 
--   好奇槓鈴Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)[](https://www.facebook.com/dialog/share?app_id=446611785530020&href=https://anchor.fm/curiousbarbell/episodes/61---ft---Mia-eqltu7&redirect_uri=https://anchor.fm/curiousbarbell/episodes/61---ft---Mia-eqltu7)[](https://twitter.com/intent/tweet?text=Listen%20to%20%22#61%20%E9%82%8A%E9%AA%A8%E6%8A%98%E9%82%8A%E6%8B%BF%E8%8B%B1%E5%9C%8B%E8%88%89%E9%87%8D%E5%86%A0%E8%BB%8D-%E5%9C%A8%E7%94%9F%E5%91%BD%E7%9A%84%E7%9B%A1%E9%A0%AD%E7%9C%8B%E5%88%B0%E8%BD%89%E6%A9%9F%20ft.%20%E5%A5%B3%E5%8A%9B%E5%A3%AB%20Mia%22%20by%20Curious%20Barbell%20%E5%A5%BD%E5%A5%87%E6%A7%93%E9%88%B4-%E5%81%A5%E8%BA%AB%E8%88%87%E4%BA%BA%E7%94%9F%E7%9A%84%E5%B0%8D%E8%A9%B1.%20%E2%9A%93%20https://anchor.fm/curiousbarbell/episodes/61---ft---Mia-eqltu7)
+-   [加入好奇槓鈴Email](https://mit886.substack.com/) 
+-   [好奇槓鈴IG](https://www.instagram.com/angiewangcreates/) 
+-   [好奇槓鈴Facebook](https://www.facebook.com/angiewangcreates/)

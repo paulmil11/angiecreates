@@ -32,17 +32,17 @@ categories:
 
 \[運動科學海外留學生活資源\]
 
--   訂閱最新活動訊息 [https://mit886.substack.com/](https://mit886.substack.com/)
--   運動科學海外人交流網絡 [/blog/](/blog/)
--   四月份線上meet-up [https://www.facebook.com/events/1121129544906245/](https://www.facebook.com/events/1121129544906245/)
--   FB社團 [https://www.facebook.com/groups/666490810818917/](https://www.facebook.com/groups/666490810818917/)
--   最新活動 [/blog/](/blog/)
--   Grad Café [https://www.thegradcafe.com/](https://www.thegradcafe.com/)
--   Sam FB [https://www.facebook.com/profile.php?id=100000293510339](https://www.facebook.com/profile.php?id=100000293510339)
+-   [訂閱最新活動訊息](https://mit886.substack.com/)
+-   [運動科學海外人交流網絡](/blog/)
+-   [四月份線上meet-up](https://www.facebook.com/events/1121129544906245/)
+-   [FB社團](https://www.facebook.com/groups/666490810818917/)
+-   [最新活動](/blog/)
+-   [Grad Café](https://www.thegradcafe.com/)
+-   [Sam FB](https://www.facebook.com/profile.php?id=100000293510339)
 -   Email- samas9944@gmail.com
 
 認識好奇槓鈴：
 
 -   Facebook & IG搜尋: Curious Barbell
 -   Website: angiecreates.io
--   E-mail:angie@angiecreates.io
+-   E-mail:angiewangcreates@gmail.com

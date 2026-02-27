@@ -36,12 +36,4 @@ categories:
 
 各位運動科學朋友們，你，準備好了嗎？  
 
-賓狗單字IG [https://www.instagram.com/bingobilingual\_bb/](https://www.instagram.com/bingobilingual_bb/?fbclid=IwAR3cdJqQAOmfzT0cluERh8lFAU-aig7e_5kqdRGHisSnprA8Z1rnVPm7eEk)
-
-在其他平台收聽：
-
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube:
--   Google Podcast
--   Overcast, Anchor、Castro、Pocket Cast, Breaker
+[賓狗單字IG](https://www.instagram.com/bingobilingual_bb/?fbclid=IwAR3cdJqQAOmfzT0cluERh8lFAU-aig7e_5kqdRGHisSnprA8Z1rnVPm7eEk)

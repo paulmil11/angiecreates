@@ -58,27 +58,19 @@ Justin Lu賈教練著有「把私人教練帶回家」一書，也是台大醫�
 **本集相關連結：**
 
 -   Justin IG @justin\_lu724
--   Justin Youtube  [https://www.youtube.com/channel/UCjhtvONEqBbCn3DT\_xzlrWw](https://www.youtube.com/channel/UCjhtvONEqBbCn3DT_xzlrWw)
--   Justin FB https://www.facebook.com/justinlu724/
+-   [Justin Youtube](https://www.youtube.com/channel/UCjhtvONEqBbCn3DT_xzlrWw)
+-   [Justin FB](https://www.facebook.com/justinlu724/)
 -   Justin講座-運動解密：跳躍力科學 Fitness Leaks: Jump Science
 
 -   [https://docs.google.com/forms/d/e/1FAIpQLSdB78AqEAFPzUZy8JmGrJA8a6v5C6gKiULM-A953JjiJb33bg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdB78AqEAFPzUZy8JmGrJA8a6v5C6gKiULM-A953JjiJb33bg/viewform)
 -   4月份海外人線上Meet up 歐美場
 -   Meet up亞洲大洋洲場-
--   High Performance habits [https://www.books.com.tw/products/F013903642](https://www.books.com.tw/products/F013903642)
--   Project pure athlete [https://projectpureathlete.com/](https://projectpureathlete.com/)
+-   [High Performance habits](https://www.books.com.tw/products/F013903642)
+-   [Project pure athlete](https://projectpureathlete.com/)
 
 了解更多:
 
--   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
--   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
--   Website: [https://angiecreates.io](https://angiecreates.io)
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
-
-在其他平台聆聽：
-
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube:
--   Google Podcast
--   Overcast, Anchor、Castro、Pocket Cast, Breaker
+-   [Facebook](https://www.facebook.com/angiewangcreates/)
+-   [IG](https://www.instagram.com/angiewangcreates/)
+-   [Website](https://angiecreates.io)
+-   E-mail: [angiewangcreates@gmail.com](mailto:angiewangcreates@gmail.com)

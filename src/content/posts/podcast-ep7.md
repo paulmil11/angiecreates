@@ -44,16 +44,7 @@ tags:
 -   [《精準減脂》課程](https://www.facebook.com/events/1769899013317853/)
 -   [《安排自己的訓練課表》課程](https://www.facebook.com/events/916696638731950/)
 
-Contacts:
-
--   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
--   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
-
 了解更多:
 
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube: 
--   Google Podcast
--   Overcast, Anchor、Castro、Pocket Cast, Breaker
+-   [Spotify](https://spoti.fi/2qeqEfT)
+-   [Apple Podcast](https://apple.co/2pPzr7K)

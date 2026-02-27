@@ -34,7 +34,5 @@ categories:
 -   從彼此身上學到寶貴的事有哪些？
 -   給想要在運動相關領域裡，一起創業的情侶的建議
 
-**Connect With Us!**
-
-野式夫妻IG [https://www.instagram.com/carpediem\_wild\_m\_/?hl=zh-tw](https://www.instagram.com/carpediem_wild_m_/?hl=zh-tw) 加入好奇槓鈴Email [https://mit886.substack.com/](https://mit886.substack.com/) 好奇槓鈴IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/) 好奇槓鈴Facebook [https://www.facebook.com/angiewangcreates/  
-](https://www.facebook.com/angiewangcreates/)[](https://www.facebook.com/dialog/share?app_id=446611785530020&href=https://anchor.fm/curiousbarbell/episodes/59--ft--Wild-Couple-Fitness--G-eomji3&redirect_uri=https://anchor.fm/curiousbarbell/episodes/59--ft--Wild-Couple-Fitness--G-eomji3)[](https://twitter.com/intent/tweet?text=Listen%20to%20%22#59%20%E9%87%8E%E5%BC%8F%E5%A4%AB%E5%A6%BB%E5%90%88%E9%96%8B%E7%91%9C%E4%BC%BD%E9%AB%94%E8%83%BD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%B9%8B%E8%B7%AF%20ft.%20Wild%20Couple%20Fitness%20%E8%B3%A2%E5%93%A5%20%EF%BC%86%E7%91%AAG%22%20by%20Curious%20Barbell%20%E5%A5%BD%E5%A5%87%E6%A7%93%E9%88%B4-%E5%81%A5%E8%BA%AB%E8%88%87%E4%BA%BA%E7%94%9F%E7%9A%84%E5%B0%8D%E8%A9%B1.%20%E2%9A%93%20https://anchor.fm/curiousbarbell/episodes/59--ft--Wild-Couple-Fitness--G-eomji3)
+[[野式夫妻IG](https://www.instagram.com/carpediem_wild_m_/?hl=zh-tw) 加入好奇槓鈴Email](https://mit886.substack.com/) 好奇槓鈴IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/) 好奇槓鈴Facebook [https://www.facebook.com/angiewangcreates/  
+[](](https://www.facebook.com/angiewangcreates/))

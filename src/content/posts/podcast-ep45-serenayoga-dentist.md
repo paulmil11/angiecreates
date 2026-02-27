@@ -35,12 +35,3 @@ categories:
 5.  一路上最大的挑戰與收穫是什麼？
 
 如果你也正在摸索如何打造一個不同於傳統社會金字塔地職涯，相信你一定會對這一集非常有共鳴。在Podcast上認識祖寧是個峰迴路轉的歷程，也是我人生一個非常重要的轉折點，為什麼這麼說呢? 來聽聽就知道囉!  
-
-**Connect with us!**
-
--   加入好奇槓鈴Email [https://mit886.substack.com/](https://mit886.substack.com/)
--   好奇槓鈴IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
--   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
--   Serena yoga [https://reurl.cc/lLAVAq](https://reurl.cc/lLAVAq)
--   Fb page [https://www.facebook.com/serenaprivateyoga/](https://www.facebook.com/serenaprivateyoga/)
--   Fb group for yoga and somatic movement teachers [https://www.facebook.com/groups/yogateachergrowth/](https://www.facebook.com/groups/yogateachergrowth/)

@@ -36,7 +36,6 @@ Candice Tsuei 是新加坡Vaga Wellness 的創辦人，她在台灣出生、加�
 -   冥想(meditation)帶來對於身體、情緒、思緒的覺知，增進自我的覺知、加強自我與身體的連結，如何可以改善暴飲暴食與其他上癮症
 -   教練不只是指導學生運動與營養，而是能夠以身心靈多方角度去看健康這件事
 
-＊馬上訂閱好奇槓鈴！聆聽更多運動健身領域的教練、創業家、醫療專業人員、以及運動研究工作者分享訓練相關的專業知識以及他們的人生故事．
 
 ## **Listen Here:**
 
@@ -44,9 +43,8 @@ Candice Tsuei 是新加坡Vaga Wellness 的創辦人，她在台灣出生、加�
 
 ## 在其他下平台收聽：
 
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube: 
+-   [Spotify](https://spoti.fi/2qeqEfT)
+-   [Apple Podcast](https://apple.co/2pPzr7K)
 -   Google Podcast, Overcast, Anchor、Castro、Pocket Cast, Breaker  
     
 
@@ -61,4 +59,4 @@ Candice Tsuei 是新加坡Vaga Wellness 的創辦人，她在台灣出生、加�
 ## Follow:
 
 -   Facebook & IG搜尋: Curious Barbell
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
+-   E-mail: [angiewangcreates@gmail.com](mailto:angiewangcreates@gmail.com)

@@ -37,20 +37,7 @@ Orson Lee曾擔任World Gym大安店的管理職位，在轉為自由健身教�
 -   如何定義自我成長？
 -   教練職業作為一個打開世界的方式
 
-＊馬上訂閱好奇槓鈴！聆聽更多運動健身領域的教練、創業家、醫療專業人員、以及運動研究工作者分享訓練相關的專業知識以及他們的人生故事．
 
 延伸資源：
 
-Orson 教練IG: [https://www.instagram.com/orsonleekeepfit/](https://www.instagram.com/orsonleekeepfit/)
-
-Contacts:
-
--   Facebook & IG搜尋: Curious Barbell
--   Website: angiecreates.io
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
-
-在其他下平台收聽：
-
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube: Google Podcast, Overcast, Anchor、Castro、Pocket Cast, Breaker
+[Orson 教練IG](https://www.instagram.com/orsonleekeepfit/)

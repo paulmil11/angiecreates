@@ -42,16 +42,16 @@ Jessica Lin是The Foodie Fitness 享吃吧的創辦人，她在本集中與我�
 **本集連結：**
 
 -   IG抽獎貼文
--   Foodie fitness 官網 [https://www.thefoodiefitness.com/](https://www.thefoodiefitness.com/)
+-   [Foodie fitness 官網](https://www.thefoodiefitness.com/)
 -   IG- @thefoodiefitness
--   FB [https://www.facebook.com/thefoodiefitness/](https://www.facebook.com/thefoodiefitness/)
--   30天 搶救體脂大作戰線上課程 [https://www.thefoodiefitness.com/30day-challenge/](https://www.thefoodiefitness.com/30day-challenge/)
--   kresser institute [https://kresserinstitute.com/](https://kresserinstitute.com/)
--   脆弱的力量 [https://www.books.com.tw/products/0010610327](https://www.books.com.tw/products/0010610327)
+-   [FB](https://www.facebook.com/thefoodiefitness/)
+-   [30天 搶救體脂大作戰線上課程](https://www.thefoodiefitness.com/30day-challenge/)
+-   [kresser institute](https://kresserinstitute.com/)
+-   [脆弱的力量](https://www.books.com.tw/products/0010610327)
 
 **了解更多：**
 
--   好奇槓鈴未來活動  [/blog/](/blog/)
--   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
--   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
+-   [好奇槓鈴未來活動](/blog/)
+-   [Facebook](https://www.facebook.com/angiewangcreates/)
+-   [IG](https://www.instagram.com/angiewangcreates/)
+-   E-mail: [angiewangcreates@gmail.com](mailto:angiewangcreates@gmail.com)

@@ -43,25 +43,13 @@ tags:
 -   KPI(key performance index)和OKR(objective key result)的差異是什麼？
 -   推薦的運動管理學或管理學書籍？
 
-＊馬上訂閱好奇槓鈴！聆聽更多運動健身領域的教練、創業家、醫療專業人員、以及運動研究工作者分享訓練相關的專業知識以及他們的人生故事．
 
 延伸資源：
 
 -   家榮Facebook
 -   E-mail- b01701215@gmail.com
--   台大運管所[http://master.pe.ntu.edu.tw/](http://master.pe.ntu.edu.tw/)
--   師大運管所[https://www.slhm.ntnu.edu.tw/](https://www.slhm.ntnu.edu.tw/)
--   宜蘭國民運動中心 [https://yilansports.com.tw/](https://yilansports.com.tw/)
-
-Contacts:
-
--   Facebook & IG搜尋: Curious Barbell
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
-
-在其他下平台收聽：
-
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube: 
+-   [台大運管所](http://master.pe.ntu.edu.tw/)
+-   [師大運管所](https://www.slhm.ntnu.edu.tw/)
+-   [宜蘭國民運動中心](https://yilansports.com.tw/)
 
 Google Podcast, Overcast, Anchor、Castro、Pocket Cast, Breaker

@@ -52,24 +52,21 @@ tags:
 -   牙齒咬合、動作與呼吸間的關聯性
 -   淺談代償的呼吸動作、 呼吸相關的常見軀幹與上下肢失能模式
 
-＊馬上訂閱好奇槓鈴！聆聽更多運動健身領域的教練、創業家、醫療專業人員、以及運動研究工作者分享訓練相關的專業知識以及他們的人生故事．  
 
 **瞭解更多：**
 
 Physiomotionlab 動作實驗室-
 
--   FB: [https://www.facebook.com/physomotionlabTW/](https://www.facebook.com/physomotionlabTW/)
--   Website: [http://physiomotionlab.com](http://physiomotionlab.com/?fbclid=IwAR1LYLglRWwSK5X1VFagRtmCteNO2amxIw8p-lWfDecWHz_BoUrmc1MuFtw)
--   Youtube:
+-   [FB](https://www.facebook.com/physomotionlabTW/)
+-   [Website](http://physiomotionlab.com/?fbclid=IwAR1LYLglRWwSK5X1VFagRtmCteNO2amxIw8p-lWfDecWHz_BoUrmc1MuFtw)
 
 -   報名Physiomotion lab研習講座：
--   台灣動作專家協會[https://www.facebook.com/TMSAservice/](https://www.facebook.com/TMSAservice/)
--   PRI: [https://www.posturalrestoration.com/](https://www.posturalrestoration.com/)  
+-   [台灣動作專家協會](https://www.facebook.com/TMSAservice/)
+-   [PRI](https://www.posturalrestoration.com/)  
     
 
 **在其他下平台收聽：**
 
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube:
+-   [Spotify](https://spoti.fi/2qeqEfT)
+-   [Apple Podcast](https://apple.co/2pPzr7K)
 -   Google Podcast, Overcast, Anchor、Castro、Pocket Cast, Breaker

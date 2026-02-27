@@ -29,9 +29,9 @@ Anita 現在是美國威斯康辛大學 （University of Wisconsin-Eau Claire）
 如果你希望在線上與Anita親自互動、提問，請填寫本表單獲得zoom會議室連結
 
 \[Anita 相關連結\]  
-運動防護專業知識 FB 專頁: [https://www.facebook.com/athletictrainingtw/](https://www.facebook.com/athletictrainingtw/)  
-運動防護專業知識網站: [https://athletictrainingtw.com/](https://l.facebook.com/l.php?u=https%3A%2F%2Fathletictrainingtw.com%2F%3Ffbclid%3DIwAR0fYOTl4voETG052oe81K5wBM-qoE2vKslWiuDRAh-Dv77OLeZN8WAGs88&h=AT2EKv8aFclIbbr_E4GV5nJg0mQtxWRWPf4DczLaq1-ArFCNppcZkujdtgfxBssbLbUz16YvA6QPOKkWHqN2CdxpMfQ0ygH0p5NagJ1rbGCqoVppu4fsUIwpDtmvPCJGhuNLN2s)  
-運動傷害防護 (Athletic Training) 知識與資訊分享討論區: [https://www.facebook.com/groups/1561489567407767/](https://www.facebook.com/groups/1561489567407767/)
+[運動防護專業知識 FB 專頁](https://www.facebook.com/athletictrainingtw/)  
+[運動防護專業知識網站](https://l.facebook.com/l.php?u=https%3A%2F%2Fathletictrainingtw.com%2F%3Ffbclid%3DIwAR0fYOTl4voETG052oe81K5wBM-qoE2vKslWiuDRAh-Dv77OLeZN8WAGs88&h=AT2EKv8aFclIbbr_E4GV5nJg0mQtxWRWPf4DczLaq1-ArFCNppcZkujdtgfxBssbLbUz16YvA6QPOKkWHqN2CdxpMfQ0ygH0p5NagJ1rbGCqoVppu4fsUIwpDtmvPCJGhuNLN2s)  
+[運動傷害防護 (Athletic Training) 知識與資訊分享討論區](https://www.facebook.com/groups/1561489567407767/)
 
 ## 牙醫師到瑜伽老師-楊祖寧的身心靈探索之旅
 
@@ -81,8 +81,8 @@ Serena yoga
 
 \[時間\] 本週六台北時間晚上8點  
 \[哪裡\] 好奇槓鈴及賓狗單字IG限動直播  
-好奇槓鈴 IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/?fbclid=IwAR0mHRtiTOMa_95HtgOFJURHMvDOmNM3opjv_t8k8w3t6WXMZ6tWEYrDS-Q)  
-賓狗單字IG [https://www.instagram.com/bingobilingual\_bb/](https://www.instagram.com/bingobilingual_bb/?fbclid=IwAR3qGkeCSrBZjEYtm6PYUOt8rGcdkQbZAns8vIAa5T-SLOfGLhyo-6CO5fk)
+[好奇槓鈴 IG](https://www.instagram.com/angiewangcreates/?fbclid=IwAR0mHRtiTOMa_95HtgOFJURHMvDOmNM3opjv_t8k8w3t6WXMZ6tWEYrDS-Q)  
+[賓狗單字IG](https://www.instagram.com/bingobilingual_bb/?fbclid=IwAR3qGkeCSrBZjEYtm6PYUOt8rGcdkQbZAns8vIAa5T-SLOfGLhyo-6CO5fk)
 
 <<賓狗單字介紹>>  
 \-用少少 5 個英文單字，讓大眾秒懂複雜的時事議題  
@@ -99,7 +99,7 @@ Serena yoga
 
 4/27 22:30 (台北時間) 好奇槓鈴的主持人Angie將與正在加州念運動科學碩班的 [Eric Liu](https://www.facebook.com/eric07118) 進行線上LIVE訪談！
 
-本次訪談將在好奇槓鈴的粉專上進行直播，如果對美國碩班求學或是留學生活有興趣的人，也歡迎到下面的表單註冊一同加入zoom會議室與Eric互動的機會： [https://zoom.us/meeting/register/upIsd-2hrDMohT8yjlW5\_k2J91ansrFJ2A](https://zoom.us/meeting/register/upIsd-2hrDMohT8yjlW5_k2J91ansrFJ2A?fbclid=IwAR0-gctiCQqJVUHgdqGbsv9o7CK0lKKARV-DStox20Woed-xxDaKbMAy63o)
+[本次訪談將在好奇槓鈴的粉專上進行直播，如果對美國碩班求學或是留學生活有興趣的人，也歡迎到下面的表單註冊一同加入zoom會議室與Eric互動的機會：](https://zoom.us/meeting/register/upIsd-2hrDMohT8yjlW5_k2J91ansrFJ2A?fbclid=IwAR0-gctiCQqJVUHgdqGbsv9o7CK0lKKARV-DStox20Woed-xxDaKbMAy63o)
 
 本次訪談我們將討論：  
 • Eric 從台灣高中到美國念運動科學學士、碩士的路程  
@@ -153,7 +153,7 @@ Eric 在喬西咖啡沙龍的訪談分享：
 2\. 你希望這個社群有什麼活動？  
 4.其他你想要聊的話題
 
-＊4月共有兩場Meet Up，你現在看到的是Angie主持的歐美非洲Meet up場．如果你位於地球西半邊，歡迎加入由Wei Hu主持的亞洲、大洋洲場，報名網址：[https://us02web.zoom.us/meeting/register/u5wqc-yrqDojvEPt3fMQQYQsHNXXb8183A?timezone\_id=Asia%2FTaipei](https://us02web.zoom.us/meeting/register/u5wqc-yrqDojvEPt3fMQQYQsHNXXb8183A?timezone_id=Asia/Taipei&fbclid=IwAR3yGMgVCmp230pfI7ELBTXFjQuwEQE7FVAXn3l4ix4z74swcS4KRINoheQ)
+[＊4月共有兩場Meet Up，你現在看到的是Angie主持的歐美非洲Meet up場．如果你位於地球西半邊，歡迎加入由Wei Hu主持的亞洲、大洋洲場，報名網址：](https://us02web.zoom.us/meeting/register/u5wqc-yrqDojvEPt3fMQQYQsHNXXb8183A?timezone_id=Asia/Taipei&fbclid=IwAR3yGMgVCmp230pfI7ELBTXFjQuwEQE7FVAXn3l4ix4z74swcS4KRINoheQ)
 
 \[注意事項\]  
 1\. 兩場Meet Up都會直播＋錄影，讓無法參加的人可以之後觀看  

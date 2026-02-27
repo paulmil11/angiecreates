@@ -34,22 +34,8 @@ tags:
 -   歐耶教練與學生的關係，以及他在學生與醫生溝通中扮演的角色
 -   怎麼理解與處理面對不同訓練證照的理論框架或操作方式相異的內容
 
-＊馬上訂閱好奇槓鈴！聆聽更多運動健身領域的教練、創業家、醫療專業人員、以及運動研究工作者分享訓練相關的專業知識以及他們的人生故事．
 
 了解更多:
 
--   歐耶教練個人網站 [https://www.vincenthan.com.tw/](https://www.vincenthan.com.tw/)
+-   [歐耶教練個人網站](https://www.vincenthan.com.tw/)
 -   歐耶教練粉專
-
-Contacts:
-
--   Facebook & IG搜尋: Curious Barbell
--   Website: angiecreates.io
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
-
-在其他下平台收聽：
-
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube: 
--   Google Podcast, Overcast, Anchor、Castro、Pocket Cast, Breaker

@@ -33,31 +33,16 @@ categories:
 -   那一路上如何修正我們的目標與方向
 -   節目未來的發展
 
-喜歡Anne的理念嗎？ Girlpowertalk 女力心聲節目快訂閱起來！[https://www.grlpwrtalks.com/](https://www.grlpwrtalks.com/)
+[喜歡Anne的理念嗎？ Girlpowertalk 女力心聲節目快訂閱起來！](https://www.grlpwrtalks.com/)
 
-＊馬上訂閱好奇槓鈴！聆聽更多運動健身領域的教練、創業家、醫療專業人員、以及運動研究工作者分享訓練相關的專業知識以及他們的人生故事．延伸資源：
 
 -   加拿大女性健力選手Podcast This is Female Powerlifting
 -   The Tim Ferriss show-Humans of New York 訪談
 -   做自己的生命設計師
--   科技島讀 [https://daodu.tech/](https://daodu.tech/)
+-   [科技島讀](https://daodu.tech/)
 -   談性說愛
--   Girlboss [https://www.girlboss.com/podcast](https://www.girlboss.com/podcast)
--   How I Built This [https://n.pr/3c191Dm](https://n.pr/3c191Dm)
--   Startup [https://gimletmedia.com/shows/startup](https://gimletmedia.com/shows/startup)
--   Pitch [https://gimletmedia.com/shows/the-pitch](https://gimletmedia.com/shows/the-pitch)
--   Without Fail [https://gimletmedia.com/shows/without-fail](https://gimletmedia.com/shows/without-fail)
-
-Contacts:
-
--   Facebook & IG搜尋: Curious Barbell
--   Website: angiecreates.io
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
-
-在其他下平台收聽：
-
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube:
--   Google Podcast
--   Overcast, Anchor、Castro、Pocket Cast, Breaker
+-   [Girlboss](https://www.girlboss.com/podcast)
+-   [How I Built This](https://n.pr/3c191Dm)
+-   [Startup](https://gimletmedia.com/shows/startup)
+-   [Pitch](https://gimletmedia.com/shows/the-pitch)
+-   [Without Fail](https://gimletmedia.com/shows/without-fail)

@@ -65,14 +65,11 @@ categories:
 -   [chhuang0906@gmail.com](mailto:chhuang0906@gmail.com)
 -   FB：Chun-Hao Huang
 -   [運動科學海外人社團](https://www.facebook.com/groups/666490810818917/)
--   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
--   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
--   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
+-   [Facebook](https://www.facebook.com/angiewangcreates/)
+-   [IG](https://www.instagram.com/angiewangcreates/)
+-   E-mail: [angiewangcreates@gmail.com](mailto:angiewangcreates@gmail.com)
 
 ### 馬上訂閱好奇槓鈴，不錯過任何精采訪談！
 
--   Spotify: [https://spoti.fi/2qeqEfT](https://spoti.fi/2qeqEfT)
--   Apple Podcast [https://apple.co/2pPzr7K](https://apple.co/2pPzr7K)
--   Youtube: 
--   Google Podcast
--   Overcast, Anchor、Castro、Pocket Cast, Breaker
+-   [Spotify](https://spoti.fi/2qeqEfT)
+-   [Apple Podcast](https://apple.co/2pPzr7K)
