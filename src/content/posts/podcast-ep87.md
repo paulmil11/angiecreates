@@ -15,7 +15,7 @@ categories:
 
 (Note: this episode was recorded back in June 2023)
 
-My guest today is Valerie! Valerie is @vals_pals_ on Twitter. She is a computer science graduate, work in finance, and a writer. Valerie is relentless in mining her emotions. She writes personal essays about sticky, taboo topics that people don’t normally talk about, such as jealousy of fellow creatives or feeling like a failure for not winning at the status game.
+My guest today is Valerie! Valerie is [@vals_pals_](https://twitter.com/vals_pals_) on Twitter. She is a computer science graduate, works in finance, and a writer. Valerie is relentless in mining her emotions. She writes personal essays about sticky, taboo topics that people don’t normally talk about, such as jealousy of fellow creatives or feeling like a failure for not winning at the status game.
 
 Follow Valerie:
 

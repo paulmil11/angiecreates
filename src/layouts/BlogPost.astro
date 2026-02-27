@@ -65,6 +65,10 @@ const postImage = image ? (image.startsWith('http') ? image : `${siteUrl}${image
     </div>
 
     <div class="post-content container">
+      <div class="book-callout">
+        <span>📖</span>
+        <p>我的第一本書《臺灣製造》已經出版了！<a href="https://www.books.com.tw/products/0011045853?sloc=main" target="_blank" rel="noopener">立即購買</a> · <a href="https://mit886.com" target="_blank" rel="noopener">了解更多 →</a></p>
+      </div>
       <slot />
     </div>
   </article>
@@ -142,6 +146,40 @@ const postImage = image ? (image.startsWith('http') ? image : `${siteUrl}${image
   .post-image img {
     width: 100%;
     border-radius: 8px;
+  }
+
+  /* ── Book callout ────────────────────────────────────── */
+  .book-callout {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    background: var(--color-bg-alt);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 2rem;
+    font-family: var(--font-sans);
+    font-size: 0.9375rem;
+  }
+
+  .book-callout span {
+    font-size: 1.25rem;
+    flex-shrink: 0;
+  }
+
+  .book-callout p {
+    margin: 0;
+    line-height: 1.5;
+  }
+
+  .book-callout a {
+    color: var(--color-primary);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .book-callout a:hover {
+    text-decoration: underline;
   }
 
   /* ── Post content ────────────────────────────────────── */
