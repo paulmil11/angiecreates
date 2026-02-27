@@ -1,0 +1,159 @@
+---
+const currentPath = Astro.url.pathname;
+---
+
+<header class="header">
+  <div class="header-inner container">
+    <a href="/" class="logo">Angie Wang <span class="logo-zh">安吉</span></a>
+    <nav class="nav-desktop">
+      <a href="/#book" class:list={[{ active: currentPath === '/' }]}>我的書</a>
+      <a href="/blog/" class:list={[{ active: currentPath.startsWith('/blog') }]}>文章</a>
+      <a href="/#podcast">訪談</a>
+      <a href="/#about">關於</a>
+    </nav>
+    <button class="mobile-toggle" aria-label="選單">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+  <nav class="nav-mobile">
+    <a href="/#book">我的書</a>
+    <a href="/blog/">文章</a>
+    <a href="/#podcast">訪談</a>
+    <a href="/#about">關於</a>
+  </nav>
+</header>
+
+<script>
+  const toggle = document.querySelector('.mobile-toggle');
+  const mobileNav = document.querySelector('.nav-mobile');
+
+  toggle?.addEventListener('click', () => {
+    toggle.classList.toggle('active');
+    mobileNav?.classList.toggle('open');
+  });
+</script>
+
+<style>
+  .header {
+    background: var(--color-bg);
+    border-bottom: 1px solid var(--color-border);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 64px;
+  }
+
+  .logo {
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--color-dark);
+    letter-spacing: -0.01em;
+  }
+
+  .logo:hover {
+    color: var(--color-primary);
+  }
+
+  .logo-zh {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    color: var(--color-text-muted);
+    margin-left: 0.25rem;
+  }
+
+  .nav-desktop {
+    display: flex;
+    gap: 2rem;
+  }
+
+  .nav-desktop a {
+    font-family: var(--font-sans);
+    font-size: 0.9375rem;
+    color: var(--color-text-light);
+    padding: 0.25rem 0;
+    border-bottom: 2px solid transparent;
+    transition: all 0.15s ease;
+  }
+
+  .nav-desktop a:hover,
+  .nav-desktop a.active {
+    color: var(--color-dark);
+    border-bottom-color: var(--color-accent);
+  }
+
+  .mobile-toggle {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+  }
+
+  .mobile-toggle span {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background: var(--color-dark);
+    transition: all 0.2s ease;
+  }
+
+  .mobile-toggle.active span:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+  }
+  .mobile-toggle.active span:nth-child(2) {
+    opacity: 0;
+  }
+  .mobile-toggle.active span:nth-child(3) {
+    transform: rotate(-45deg) translate(5px, -5px);
+  }
+
+  .nav-mobile {
+    display: none;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .nav-mobile.open {
+    max-height: 300px;
+  }
+
+  .nav-mobile a {
+    display: block;
+    padding: 0.75rem 1.5rem;
+    font-family: var(--font-sans);
+    font-size: 0.9375rem;
+    color: var(--color-text);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .nav-mobile a:hover {
+    background: var(--color-bg-alt);
+  }
+
+  @media (max-width: 768px) {
+    .nav-desktop {
+      display: none;
+    }
+
+    .mobile-toggle {
+      display: flex;
+    }
+
+    .nav-mobile {
+      display: block;
+    }
+  }
+</style>

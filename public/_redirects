@@ -1,0 +1,5 @@
+# Cloudflare Pages redirects (also works on Netlify)
+/feed/ /rss.xml 301
+/feed /rss.xml 301
+/coaching/ / 301
+/sample-page/ / 301

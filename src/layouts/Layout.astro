@@ -1,0 +1,201 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  slug?: string;
+}
+
+const {
+  title = 'Angie Wang 安吉',
+  description = '作家、創作者、Podcast主持人。寫關於跨文化生活、創作、與成為母親的故事。',
+  image = '/images/posts/IMG_8674-2-scaled.avif',
+  slug = '',
+} = Astro.props;
+
+const siteUrl = 'https://angiecreates.io';
+const pageUrl = slug ? `${siteUrl}/${slug}` : siteUrl;
+const fullTitle = title === 'Angie Wang 安吉' ? title : `${title} | Angie Wang 安吉`;
+---
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={pageUrl} />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={pageUrl} />
+  <meta property="og:locale" content="zh_TW" />
+  <meta property="og:site_name" content="Angie Wang 安吉" />
+  {image && <meta property="og:image" content={image.startsWith('http') ? image : `${siteUrl}${image}`} />}
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={fullTitle} />
+  <meta name="twitter:description" content={description} />
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="Angie Wang 安吉" href="/rss.xml" />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+  <!-- Fonts - Playfair Display for display headings -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet" />
+
+  <!-- JSON-LD -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Angie Wang",
+    "alternateName": "安吉",
+    "url": siteUrl,
+    "description": "作家、創作者、Podcast主持人",
+    "sameAs": [
+      "https://www.instagram.com/angiecreates",
+      "https://www.youtube.com/@angiecreates",
+      "https://mit886.substack.com"
+    ]
+  })} />
+</head>
+<body>
+  <Header />
+  <main>
+    <slot />
+  </main>
+  <Footer />
+</body>
+</html>
+
+<style is:global>
+  /* ── Reset ─────────────────────────────────────────────── */
+  *, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* ── CSS Variables ─────────────────────────────────────── */
+  :root {
+    /* Warm Earth palette */
+    --color-primary: #8B6914;
+    --color-primary-light: #A8841A;
+    --color-accent: #C9A96E;
+    --color-dark: #2C2420;
+    --color-bg: #FDFBF7;
+    --color-bg-alt: #F5F0E8;
+    --color-text: #333333;
+    --color-text-light: #666666;
+    --color-text-muted: #8A8178;
+    --color-border: #E8E2D8;
+    --color-link: #7A5C2E;
+    --color-link-hover: #8B6914;
+
+    /* Typography */
+    --font-display: 'Playfair Display', 'Noto Serif CJK TC', 'Source Han Serif TC', Georgia, serif;
+    --font-serif: 'Noto Serif CJK TC', 'Source Han Serif TC', 'PMingLiU', Georgia, 'Times New Roman', serif;
+    --font-sans: -apple-system, BlinkMacSystemFont, 'PingFang TC', 'Noto Sans CJK TC', 'Microsoft JhengHei', sans-serif;
+
+    /* Spacing */
+    --max-width: 1100px;
+    --content-width: 680px;
+  }
+
+  /* ── Base ───────────────────────────────────────────────── */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: var(--font-serif);
+    color: var(--color-text);
+    background: var(--color-bg);
+    line-height: 1.9;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* ── Typography ────────────────────────────────────────── */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+    color: var(--color-dark);
+  }
+
+  h1 { font-size: clamp(1.8rem, 4vw, 2.5rem); }
+  h2 { font-size: clamp(1.4rem, 3vw, 1.8rem); margin-top: 2.5rem; }
+  h3 { font-size: 1.25rem; margin-top: 2rem; }
+
+  p {
+    margin-bottom: 1.5em;
+  }
+
+  a {
+    color: var(--color-link);
+    text-decoration: none;
+    transition: color 0.15s ease;
+  }
+
+  a:hover {
+    color: var(--color-link-hover);
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+
+  blockquote {
+    background: var(--color-bg-alt);
+    padding: 1rem 1.5rem;
+    border-left: 4px solid var(--color-accent);
+    border-radius: 0 6px 6px 0;
+    margin: 1.5em 0;
+    font-style: italic;
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid var(--color-border);
+    margin: 2.5rem 0;
+  }
+
+  ::selection {
+    background: var(--color-accent);
+    color: var(--color-dark);
+  }
+
+  /* ── Utilities ─────────────────────────────────────────── */
+  .container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }
+
+  .section {
+    padding: 4rem 0;
+  }
+
+  /* ── Iframe styling (Transistor, YouTube, etc.) ────────── */
+  iframe {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+</style>

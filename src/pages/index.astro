@@ -1,0 +1,346 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('posts', ({ data }) => {
+  return import.meta.env.PROD ? !data.draft : true;
+});
+
+const recentPosts = posts
+  .sort((a, b) => new Date(b.data.rawDate || b.data.date).getTime() - new Date(a.data.rawDate || a.data.date).getTime())
+  .slice(0, 6);
+---
+
+<Layout>
+  <!-- Hero -->
+  <section class="hero section">
+    <div class="hero-inner container">
+      <div class="hero-text">
+        <h1>嗨！我是安吉</h1>
+        <p class="hero-subtitle">作家、創作者、Podcast主持人。</p>
+        <p>我正在寫《臺灣製造》這本回憶錄。寫關於跨文化生活、創作、數位遊牧與成為母親的故事。</p>
+        <div class="hero-links">
+          <a href="https://mit886.substack.com" target="_blank" rel="noopener" class="btn btn-primary">訂閱電子報</a>
+          <a href="/blog/" class="btn btn-outline">閱讀文章</a>
+        </div>
+      </div>
+      <div class="hero-image">
+        <img src="/images/posts/IMG_8674-2-scaled.avif" alt="Angie Wang 安吉" />
+      </div>
+    </div>
+  </section>
+
+  <!-- Book -->
+  <section id="book" class="book-section section">
+    <div class="book-inner container">
+      <div class="book-image">
+        <img src="/images/posts/%E5%8F%B0%E7%81%A3%E8%A3%BD%E9%80%A0%E5%9C%96%E7%A4%BA%E7%89%88-642x1024.avif" alt="臺灣製造" />
+      </div>
+      <div class="book-text">
+        <h2>《臺灣製造》</h2>
+        <p class="book-subtitle">最難的不是出走，而是回家</p>
+        <p>一本講述從放牛學生誤闖菁英校園、留學後的身份衝擊、從傳統成功道路到追求創作、數位遊牧跟跨文化婚姻，以及成為母親的回憶錄。</p>
+        <p>預計 2025 年秋季出版。</p>
+        <a href="https://mit886.substack.com" target="_blank" rel="noopener" class="btn btn-outline">追蹤出版消息</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Podcast -->
+  <section id="podcast" class="podcast-section section">
+    <div class="container">
+      <h2>Angie Creates Podcast</h2>
+      <p class="section-desc">前身為《好奇槓鈴 Curious Barbell》，專訪健身教練、創業者、醫療專業人士與運動科學研究者，聊訓練專業與人生故事。</p>
+      <div class="podcast-links">
+        <a href="https://angiecreates.transistor.fm" target="_blank" rel="noopener" class="podcast-link">
+          所有集數
+        </a>
+        <a href="https://open.spotify.com/show/2YHxGifGEBCkpKs7iyLbpq" target="_blank" rel="noopener" class="podcast-link">
+          Spotify
+        </a>
+        <a href="https://podcasts.apple.com/podcast/id1484887576" target="_blank" rel="noopener" class="podcast-link">
+          Apple Podcasts
+        </a>
+        <a href="https://www.youtube.com/@angiecreates" target="_blank" rel="noopener" class="podcast-link">
+          YouTube
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Recent Posts -->
+  <section class="recent-section section">
+    <div class="container">
+      <div class="section-header">
+        <h2>最新文章</h2>
+        <a href="/blog/" class="see-all">所有文章 &rarr;</a>
+      </div>
+      <div class="posts-grid">
+        {recentPosts.map(post => (
+          <a href={`/${post.slug}/`} class="post-card">
+            <h3 class="post-card-title">{post.data.title}</h3>
+            <span class="post-card-date">{post.data.date}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section id="about" class="about-section section">
+    <div class="about-inner container">
+      <div class="about-image">
+        <img src="/images/posts/Angie-Wang.png" alt="Angie Wang" />
+      </div>
+      <div class="about-text">
+        <h2>關於安吉</h2>
+        <p>我是 Angie Wang（安吉），台灣出生、美國長大。台大畢業、哥大碩士後進入科技業，但在那裡找不到生命的動力。於是轉職成為健身教練，創辦了台灣最早的健身深度訪談 Podcast 之一，然後和先生保羅開始在西班牙和墨西哥數位遊牧。</p>
+        <p>現在住在台灣，專注於寫作和養育孩子。我的第一本書《臺灣製造》講述了我在跨文化身份、冒牌者症候群、和找到自己聲音的旅程。</p>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  /* ── Hero ─────────────────────────────────────────────── */
+  .hero {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+
+  .hero-inner {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: center;
+  }
+
+  .hero h1 {
+    font-size: clamp(2rem, 5vw, 3rem);
+    margin-bottom: 0.5rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.125rem;
+    color: var(--color-text-muted);
+    margin-bottom: 1rem;
+  }
+
+  .hero-links {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  .hero-image img {
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  }
+
+  /* ── Buttons ─────────────────────────────────────────── */
+  .btn {
+    display: inline-block;
+    font-family: var(--font-sans);
+    font-size: 0.9375rem;
+    font-weight: 500;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  .btn-primary {
+    background: var(--color-dark);
+    color: #fff;
+  }
+
+  .btn-primary:hover {
+    background: var(--color-primary);
+    color: #fff;
+  }
+
+  .btn-outline {
+    border: 1.5px solid var(--color-dark);
+    color: var(--color-dark);
+    background: transparent;
+  }
+
+  .btn-outline:hover {
+    background: var(--color-dark);
+    color: #fff;
+  }
+
+  /* ── Book ─────────────────────────────────────────────── */
+  .book-section {
+    background: var(--color-bg-alt);
+  }
+
+  .book-inner {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 4rem;
+    align-items: center;
+  }
+
+  .book-image img {
+    max-width: 280px;
+    border-radius: 8px;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+  }
+
+  .book-subtitle {
+    font-family: var(--font-display);
+    font-size: 1.125rem;
+    color: var(--color-text-muted);
+    font-style: italic;
+    margin-bottom: 1rem;
+    margin-top: -0.5rem;
+  }
+
+  /* ── Podcast ─────────────────────────────────────────── */
+  .section-desc {
+    color: var(--color-text-light);
+    max-width: var(--content-width);
+    margin-bottom: 1.5rem;
+  }
+
+  .podcast-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .podcast-link {
+    font-family: var(--font-sans);
+    font-size: 0.875rem;
+    padding: 0.5rem 1.25rem;
+    border: 1px solid var(--color-border);
+    border-radius: 20px;
+    color: var(--color-text);
+    transition: all 0.15s ease;
+  }
+
+  .podcast-link:hover {
+    border-color: var(--color-accent);
+    color: var(--color-primary);
+  }
+
+  /* ── Recent Posts ────────────────────────────────────── */
+  .section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 1.5rem;
+  }
+
+  .see-all {
+    font-family: var(--font-sans);
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+  }
+
+  .see-all:hover {
+    color: var(--color-primary);
+  }
+
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.25rem;
+  }
+
+  .post-card {
+    display: block;
+    padding: 1.25rem;
+    background: #fff;
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    transition: all 0.2s ease;
+  }
+
+  .post-card:hover {
+    border-color: var(--color-accent);
+    box-shadow: 0 2px 12px rgba(139, 105, 20, 0.06);
+  }
+
+  .post-card-title {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-dark);
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+  }
+
+  .post-card-date {
+    font-family: var(--font-sans);
+    font-size: 0.8125rem;
+    color: var(--color-text-muted);
+  }
+
+  /* ── About ───────────────────────────────────────────── */
+  .about-section {
+    background: var(--color-bg-alt);
+  }
+
+  .about-inner {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 3rem;
+    align-items: center;
+  }
+
+  .about-image img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  }
+
+  /* ── Responsive ──────────────────────────────────────── */
+  @media (max-width: 768px) {
+    .hero-inner {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+
+    .hero-image {
+      order: -1;
+    }
+
+    .hero-links {
+      flex-direction: column;
+    }
+
+    .book-inner {
+      grid-template-columns: 1fr;
+      text-align: center;
+    }
+
+    .book-image img {
+      max-width: 200px;
+      margin: 0 auto;
+    }
+
+    .about-inner {
+      grid-template-columns: 1fr;
+      text-align: center;
+    }
+
+    .about-image img {
+      margin: 0 auto;
+    }
+
+    .posts-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .section-header {
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+  }
+</style>

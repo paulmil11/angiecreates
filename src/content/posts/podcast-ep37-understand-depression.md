@@ -1,0 +1,35 @@
+---
+title: "EP37 喂喂你還好不好？今天我們談談憂鬱症"
+description: "今天我們和雞蛋糕聊聊他所主持的「喂喂你還好不好」Podcast節目，一起認識憂鬱症"
+date: "June 27, 2020"
+rawDate: "2020-06-27 15:38:42"
+author: "Angie Wang"
+image: "/images/posts/%E5%96%82%E5%96%82.jpg"
+categories:
+  - "Podcast"
+  - "運動健身訓練知識 Sports Science"
+---
+
+<iframe src="https://share.transistor.fm/e//s/19bbc969" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+
+
+今天我們和雞蛋糕聊聊他所主持的「喂喂你還好不好」Podcast節目，一起認識憂鬱症．**雞蛋糕在本集分享：**
+
+<iframe src="/images/posts/37--ft-eflbf0.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+\[podcast\_subscribe id="2512"\]
+
+-   喂喂你還好不好節目內容
+-   憂鬱症的污名化
+-   被小鬱亂入的生活」
+-   什麼是憂鬱症
+-   被「診斷」是憂鬱症，對雞蛋糕的影響？
+-   如果我們生活周遭有憂鬱症的親友，我們可以怎麼做？
+-   教練指導有憂鬱症的學生，怎樣的教學才是較適合的方式？
+
+**認識我們！**
+
+-   訂閱E-mail，收到最新活動訊息[**https://curiousbarbell.com/subscribe/**](https://curiousbarbell.com/subscribe/)
+-   加入好奇槓鈴社團！[**https://www.facebook.com/groups/2692476911006899/**](https://www.facebook.com/groups/2692476911006899/)
+-   IG [**https://www.instagram.com/curiousbarbell/**](https://www.instagram.com/curiousbarbell/) 收聽喂喂你還好不好 [linktr.ee/ww.howbuhow](https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fww.howbuhow&e=ATNm_nK6bCJNyaC9iOiukzZQqfa6YFhPb1hYE7I9PUOq6PDkU_4PsgpskPx-8HzUBQQP5523KtB7YzLGOOXnAg&s=1)
+-   雞蛋糕推薦的書籍都在： https://bit.ly/2YTtuUG

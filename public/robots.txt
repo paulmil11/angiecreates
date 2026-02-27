@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://angiecreates.io/sitemap-index.xml

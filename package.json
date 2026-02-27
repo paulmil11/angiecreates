@@ -1,0 +1,19 @@
+{
+  "name": "angiecreates",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "migrate": "node scripts/import-wordpress.js && node scripts/convert-posts.mjs && node scripts/download-images.mjs && node scripts/add-podcast-embeds.mjs"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.15",
+    "@astrojs/sitemap": "^3.2.1",
+    "@playform/compress": "^0.2.1",
+    "astro": "^4.0.0",
+    "turndown": "^7.2.2",
+    "xml2js": "^0.6.2"
+  }
+}

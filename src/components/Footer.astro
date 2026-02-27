@@ -1,0 +1,112 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="footer">
+  <div class="footer-inner container">
+    <div class="footer-brand">
+      <a href="/" class="footer-logo">Angie Wang 安吉</a>
+      <p class="footer-tagline">作家、創作者、Podcast主持人</p>
+    </div>
+    <div class="footer-links">
+      <h4>頁面</h4>
+      <a href="/#book">我的書</a>
+      <a href="/blog/">文章</a>
+      <a href="/#podcast">訪談</a>
+      <a href="/#about">關於</a>
+    </div>
+    <div class="footer-links">
+      <h4>連結</h4>
+      <a href="https://mit886.substack.com" target="_blank" rel="noopener">Newsletter</a>
+      <a href="https://www.instagram.com/angiecreates" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://www.youtube.com/@angiecreates" target="_blank" rel="noopener">YouTube</a>
+      <a href="https://angiecreates.transistor.fm" target="_blank" rel="noopener">Podcast</a>
+    </div>
+    <div class="footer-copyright">
+      <p>&copy; {year} Angie Wang. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    background: var(--color-dark);
+    color: #d4cdc4;
+    padding: 3rem 0 2rem;
+    margin-top: 4rem;
+  }
+
+  .footer-inner {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 3rem;
+  }
+
+  .footer-logo {
+    font-family: var(--font-display);
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #fff;
+  }
+
+  .footer-logo:hover {
+    color: var(--color-accent);
+  }
+
+  .footer-tagline {
+    font-size: 0.875rem;
+    color: #9e9588;
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+  }
+
+  .footer-links h4 {
+    font-family: var(--font-sans);
+    font-size: 0.8125rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #9e9588;
+    margin-bottom: 0.75rem;
+  }
+
+  .footer-links a {
+    display: block;
+    font-size: 0.9375rem;
+    color: #d4cdc4;
+    padding: 0.25rem 0;
+  }
+
+  .footer-links a:hover {
+    color: var(--color-accent);
+  }
+
+  .footer-copyright {
+    grid-column: 1 / -1;
+    border-top: 1px solid #4a433b;
+    padding-top: 1.5rem;
+    font-size: 0.8125rem;
+    color: #6e675f;
+  }
+
+  .footer-copyright p {
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 768px) {
+    .footer-inner {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .footer-brand {
+      grid-column: 1 / -1;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .footer-inner {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+  }
+</style>

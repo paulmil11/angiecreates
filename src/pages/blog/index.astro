@@ -1,0 +1,207 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('posts', ({ data }) => {
+  return import.meta.env.PROD ? !data.draft : true;
+});
+
+const sorted = posts.sort((a, b) =>
+  new Date(b.data.rawDate || b.data.date).getTime() - new Date(a.data.rawDate || a.data.date).getTime()
+);
+
+// Collect unique categories
+const allCategories = new Set<string>();
+for (const post of sorted) {
+  for (const cat of (post.data.categories || [])) {
+    if (cat !== 'Uncategorized') allCategories.add(cat);
+  }
+}
+const categories = ['全部', ...Array.from(allCategories).sort()];
+---
+
+<Layout title="文章" description="Angie Wang的文章、Podcast筆記與生活觀察。">
+  <section class="blog-page section">
+    <div class="container">
+      <h1 class="page-title">文章</h1>
+      <p class="page-desc">寫作、健身、數位遊牧、與生活的觀察。</p>
+
+      <div class="category-filters">
+        {categories.map(cat => (
+          <button class="filter-btn" data-category={cat === '全部' ? 'all' : cat}>
+            {cat}
+          </button>
+        ))}
+      </div>
+
+      <div class="posts-grid">
+        {sorted.map(post => (
+          <a
+            href={`/${post.slug}/`}
+            class="post-card"
+            data-categories={(post.data.categories || []).join(',')}
+          >
+            {post.data.image && (
+              <img src={post.data.image} alt={post.data.title} class="post-card-image" loading="lazy" />
+            )}
+            <div class="post-card-body">
+              <h2 class="post-card-title">{post.data.title}</h2>
+              {post.data.description && (
+                <p class="post-card-desc">{post.data.description.substring(0, 100)}{post.data.description.length > 100 ? '...' : ''}</p>
+              )}
+              <div class="post-card-meta">
+                <time>{post.data.date}</time>
+                {(post.data.categories || []).filter(c => c !== 'Uncategorized').length > 0 && (
+                  <span class="post-card-cats">
+                    {(post.data.categories || []).filter(c => c !== 'Uncategorized').slice(0, 2).join(', ')}
+                  </span>
+                )}
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<script>
+  const buttons = document.querySelectorAll('.filter-btn');
+  const cards = document.querySelectorAll('.post-card');
+
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const category = btn.getAttribute('data-category') || 'all';
+
+      buttons.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+
+      cards.forEach(card => {
+        const el = card as HTMLElement;
+        if (category === 'all') {
+          el.style.display = '';
+          return;
+        }
+        const cats = el.getAttribute('data-categories') || '';
+        el.style.display = cats.includes(category) ? '' : 'none';
+      });
+    });
+  });
+
+  // Set "全部" active by default
+  buttons[0]?.classList.add('active');
+</script>
+
+<style>
+  .page-title {
+    font-size: clamp(2rem, 5vw, 2.5rem);
+    margin-bottom: 0.5rem;
+  }
+
+  .page-desc {
+    color: var(--color-text-muted);
+    font-size: 1.0625rem;
+    margin-bottom: 2rem;
+  }
+
+  .category-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .filter-btn {
+    font-family: var(--font-sans);
+    font-size: 0.8125rem;
+    padding: 0.4rem 0.9rem;
+    border: 1px solid var(--color-border);
+    border-radius: 20px;
+    background: transparent;
+    color: var(--color-text-light);
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+
+  .filter-btn:hover {
+    border-color: var(--color-accent);
+    color: var(--color-dark);
+  }
+
+  .filter-btn.active {
+    background: var(--color-dark);
+    color: #fff;
+    border-color: var(--color-dark);
+  }
+
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+  }
+
+  .post-card {
+    display: block;
+    background: #fff;
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all 0.2s ease;
+  }
+
+  .post-card:hover {
+    border-color: var(--color-accent);
+    box-shadow: 0 4px 16px rgba(139, 105, 20, 0.08);
+  }
+
+  .post-card-image {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 0;
+  }
+
+  .post-card-body {
+    padding: 1.25rem;
+  }
+
+  .post-card-title {
+    font-family: var(--font-display);
+    font-size: 1.0625rem;
+    font-weight: 600;
+    color: var(--color-dark);
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+  }
+
+  .post-card-desc {
+    font-size: 0.875rem;
+    color: var(--color-text-light);
+    line-height: 1.6;
+    margin-bottom: 0.75rem;
+  }
+
+  .post-card-meta {
+    font-family: var(--font-sans);
+    font-size: 0.8125rem;
+    color: var(--color-text-muted);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .post-card-cats {
+    font-size: 0.75rem;
+    background: var(--color-bg-alt);
+    padding: 0.15rem 0.5rem;
+    border-radius: 3px;
+  }
+
+  @media (max-width: 768px) {
+    .posts-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

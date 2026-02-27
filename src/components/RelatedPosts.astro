@@ -1,0 +1,100 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  currentSlug: string;
+  currentCategories: string[];
+}
+
+const { currentSlug, currentCategories } = Astro.props;
+
+const allPosts = await getCollection('posts', ({ data }) => {
+  return import.meta.env.PROD ? !data.draft : true;
+});
+
+// Find related by category overlap, fallback to recent
+let related = allPosts
+  .filter(p => p.slug !== currentSlug)
+  .filter(p => {
+    const cats = p.data.categories || [];
+    return cats.some(c => currentCategories.includes(c) && c !== 'Uncategorized');
+  })
+  .sort((a, b) => new Date(b.data.rawDate || b.data.date).getTime() - new Date(a.data.rawDate || a.data.date).getTime())
+  .slice(0, 3);
+
+// Fallback to recent posts if not enough category matches
+if (related.length < 3) {
+  const recent = allPosts
+    .filter(p => p.slug !== currentSlug && !related.some(r => r.slug === p.slug))
+    .sort((a, b) => new Date(b.data.rawDate || b.data.date).getTime() - new Date(a.data.rawDate || a.data.date).getTime())
+    .slice(0, 3 - related.length);
+  related = [...related, ...recent];
+}
+---
+
+{related.length > 0 && (
+  <section class="related-posts">
+    <h3 class="related-heading">相關文章</h3>
+    <div class="related-grid">
+      {related.map(post => (
+        <a href={`/${post.slug}/`} class="related-card">
+          <h4 class="related-title">{post.data.title}</h4>
+          <span class="related-date">{post.data.date}</span>
+        </a>
+      ))}
+    </div>
+  </section>
+)}
+
+<style>
+  .related-posts {
+    padding: 3rem 0 1rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .related-heading {
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    color: var(--color-dark);
+    margin-bottom: 1.5rem;
+  }
+
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+  }
+
+  .related-card {
+    padding: 1.25rem;
+    background: var(--color-bg-alt);
+    border-radius: 8px;
+    transition: all 0.2s ease;
+    display: block;
+  }
+
+  .related-card:hover {
+    background: var(--color-border);
+  }
+
+  .related-title {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-dark);
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+  }
+
+  .related-date {
+    font-family: var(--font-sans);
+    font-size: 0.8125rem;
+    color: var(--color-text-muted);
+  }
+
+  @media (max-width: 768px) {
+    .related-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
