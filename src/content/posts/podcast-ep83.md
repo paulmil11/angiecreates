@@ -13,15 +13,26 @@ categories:
 
 My guest today is Lucy Liang, who was also the guest of Ep. 77. Yes, we are mothers now! It's been a wild ride since discovering we were pregnant on the same day, with due dates a week apart. In this episode, we discussed:
 
-Our desire to be mothers.Our pregnancy journey through the three trimesters.Our unexpected delivery experiences.The postpartum days and baby blues no one tells you about.Our reflections on who we are now and what motherhood means to us.*This episode was recorded in June when our babies were three months old. Lucy and I recently recorded another episode for her podcast, Meet Yourself. Check it out!
+- Our desire to be mothers.
+
+- Our pregnancy journey through the three trimesters.
+
+- Our unexpected delivery experiences.
+
+- The postpartum days and baby blues no one tells you about.
+
+- [Our reflections on who we are now and what motherhood means to us.*This episode was recorded in June when our babies were three months old. Lucy and I recently recorded another episode for her podcast, Meet Yourself](https://www.lucyliang.com/podcast/)
 
 About Lucy
 
- Lucy Liang is a former big tech software engineer turned health, fitness, and mindset coach - now on a discovery journey to learning more about the human condition through interacting with life and other like-hearted people. Her own weight-loss journey + working with 100s of clients over the years have taught her that any lesson, whether it be in health & fitness or otherwise, can be applied to all other areas of life. 
+Lucy Liang is a former big tech software engineer turned health, fitness, and mindset coach - now on a discovery journey to learning more about the human condition through interacting with life and other like-hearted people. Her own weight-loss journey + working with 100s of clients over the years have taught her that any lesson, whether it be in health & fitness or otherwise, can be applied to all other areas of life. 
 
 - [Lucy's website](https://www.lucyliang.com/)
+
 - [Meet Yourself Podcast](https://www.lucyliang.com/podcast/)
+
 - [Coach Vivas' Badass Body Boss Program](https://www.coachviva.com/product/online-weight-loss-coaching)
+
 
 
 

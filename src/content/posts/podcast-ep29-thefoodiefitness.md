@@ -49,9 +49,4 @@ Jessica Lin是The Foodie Fitness 享吃吧的創辦人，她在本集中與我�
 -   [kresser institute](https://kresserinstitute.com/)
 -   [脆弱的力量](https://www.books.com.tw/products/0010610327)
 
-**了解更多：**
-
--   [好奇槓鈴未來活動](/blog/)
--   [Facebook](https://www.facebook.com/angiewangcreates/)
--   [IG](https://www.instagram.com/angiewangcreates/)
--   E-mail: [angiewangcreates@gmail.com](mailto:angiewangcreates@gmail.com)
+- [好奇槓鈴未來活動](/blog/)

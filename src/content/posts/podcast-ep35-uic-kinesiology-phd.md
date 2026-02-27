@@ -65,9 +65,6 @@ categories:
 -   [chhuang0906@gmail.com](mailto:chhuang0906@gmail.com)
 -   FB：Chun-Hao Huang
 -   [運動科學海外人社團](https://www.facebook.com/groups/666490810818917/)
--   [Facebook](https://www.facebook.com/angiewangcreates/)
--   [IG](https://www.instagram.com/angiewangcreates/)
--   E-mail: [angiewangcreates@gmail.com](mailto:angiewangcreates@gmail.com)
 
 ### 馬上訂閱好奇槓鈴，不錯過任何精采訪談！
 

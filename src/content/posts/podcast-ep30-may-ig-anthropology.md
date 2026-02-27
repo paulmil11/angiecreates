@@ -40,14 +40,5 @@ tags:
 -   給其他想成為網紅的人有什麼建議？
 -   如果你喜歡May的人類學嗎？快私訊告訴他！
 
-## Connect with us!
-
--   [加入好奇槓鈴Email](https://mit886.substack.com/)
 -   [May IG ＠may8572fit](https://www.instagram.com/may8572fit/)
 -   [May 研究論文-你 follow 她了嗎？Instagram 網紅的人類學觀察](http://ianthro.ioe.sinica.edu.tw/wp-content/uploads/2019/01/FM26-1.pdf)
-
-## 追蹤好奇槓鈴：
-
--   [IG](https://www.instagram.com/angiewangcreates/)
--   [Facebook](https://www.facebook.com/angiewangcreates/)
--   E-mail: [angiewangcreates@gmail.com](mailto:angiewangcreates@gmail.com)

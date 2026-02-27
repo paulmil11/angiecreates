@@ -22,9 +22,13 @@ categories:
 Follow 心之悅翎:
 
 - [D Card](https://www.dcard.tw/@ptformom)
-- [Tiktok](https://www.tiktok.com/@user7554795487195)
+
+- [Tiktok](https://www.tiktok.com/@user7554795487195?_t=8j9OLhX4QJl&_r=1)
+
 - [IG](https://www.instagram.com/ptformom)
+
 - [FB](https://www.facebook.com/ptformom)
+
 - [網站](https://www.ptformom.com/)
 
 

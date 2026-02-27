@@ -35,8 +35,6 @@ categories:
 -   推動運動性別平等常見的挑戰是什麼
 -   如何能在教練中帶起更多性別議題的意識與討論
 
-### **了解更多運動與性別：**
-
 -   填寫問卷一起加入討論：
 -   [You can play](http://youcanplayproject.org/)
 -   [Outsports](https://www.outsports.com/)

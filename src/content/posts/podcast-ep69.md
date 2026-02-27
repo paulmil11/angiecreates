@@ -2,9 +2,11 @@
 title: "#69 顳顎關節、情緒與動作控制的關係是？ ft. 陳怡穎 (下集）"
 description: "陳怡穎是台北東鴻牙醫的牙醫師，我們的促膝長談分成上下兩集，本集他與我們分享： 
 
-牙齒和咀嚼肌如何影響我們的動作控制 NKT (Neurokinetic Therapy) 神經動能療法、P-DTR (Proprioceptive - Deep Tendon Reflex) 深層肌腱反射是什麼 情緒和訓練的關係 怡穎的IG @yingjoyc 
+- 牙齒和咀嚼肌如何影響我們的動作控制 
+- NKT (Neurokinetic Therapy) 神經動能療法、P-DTR (Proprioceptive - Deep Tendon Reflex) 深層肌腱反射是什麼 
+- 情緒和訓練的關係 怡穎的IG @yingjoyc
 
-<這個 Podcast 已改名為 Angie ..."
+<這個 Podcast 已改名為..."
 date: "July 24, 2021"
 rawDate: "2021-07-24 01:00:00"
 author: "Angie Wang"
@@ -17,7 +19,11 @@ categories:
 
 陳怡穎是台北東鴻牙醫的牙醫師，我們的促膝長談分成上下兩集，本集他與我們分享： 
 
-牙齒和咀嚼肌如何影響我們的動作控制 NKT (Neurokinetic Therapy) 神經動能療法、P-DTR (Proprioceptive - Deep Tendon Reflex) 深層肌腱反射是什麼 情緒和訓練的關係 怡穎的IG @yingjoyc 
+- 牙齒和咀嚼肌如何影響我們的動作控制 
+
+- NKT (Neurokinetic Therapy) 神經動能療法、P-DTR (Proprioceptive - Deep Tendon Reflex) 深層肌腱反射是什麼 
+
+- 情緒和訓練的關係 怡穎的IG @yingjoyc
 
 
 

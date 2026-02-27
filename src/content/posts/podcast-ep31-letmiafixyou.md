@@ -33,10 +33,5 @@ categories:
 -   要將健身推廣到爸媽甚至阿公阿罵的腦袋裡是非常困難的事，但女力士修理的人也是正港台味的阿公阿嬤和在地子民，請問在推廣的路上有沒有沒印象深刻的事及挑戰？
 -   在都市裡健身已慢慢較能為主流所接受，但在三合院普遍的鄉鎮李大家對於健身女性的想像是？（aka 阿母有沒有阻止過你？）
 
-## Connect with us!
-
 -   Mia FB: [女子力量實驗室 Ladies’ Strength Lab](https://www.facebook.com/%E5%A5%B3%E5%AD%90%E5%8A%9B%E9%87%8F%E5%AF%A6%E9%A9%97%E5%AE%A4-Ladies-Strength-Lab-107933021030138/) 
 -   Mia IG: [@letmiafixyou](https://www.instagram.com/letmiafixyou/) 
--   [加入好奇槓鈴Email](https://mit886.substack.com/) 
--   [好奇槓鈴IG](https://www.instagram.com/angiewangcreates/) 
--   [好奇槓鈴Facebook](https://www.facebook.com/angiewangcreates/)

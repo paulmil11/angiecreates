@@ -34,11 +34,6 @@ categories: []
 -   你如何看待疼痛
 -   第七感裡混亂與整合的觀點
 
-### Connect with us!
-
--   [加入好奇槓鈴Email](https://mit886.substack.com/)
--   [好奇槓鈴IG](https://www.instagram.com/angiewangcreates/)
--   [Facebook](https://www.facebook.com/angiewangcreates/)
 -   [Serena yoga](https://reurl.cc/lLAVAq)
 -   [Fb page](https://www.facebook.com/serenaprivateyoga/)
 -   [Fb group for yoga and somatic movement teachers](https://www.facebook.com/groups/yogateachergrowth/)

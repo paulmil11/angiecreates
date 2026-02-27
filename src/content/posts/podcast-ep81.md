@@ -15,9 +15,8 @@ categories:
 
 本集我們聊到甲思敏如何成為華語老師、踏上數位遊牧生活、他怎麼安排生活/旅遊/探索，以及未來的計畫．
 
-- [甲思敏遊牧生活 podcast](https://open.spotify.com/show/1w9O1vcb2Vhu9mAfNVbNPF甲思敏)
-- [IG](https://www.instagram.com/jasjourney115/從0到1線上華語實戰課)
-- https://jasjourney.com/course/
-
+- [甲思敏遊牧生活 podcast](https://open.spotify.com/show/1w9O1vcb2Vhu9mAfNVbNPF)
+- [甲思敏 IG](https://www.instagram.com/jasjourney115/)
+- [從0到1線上華語實戰課](https://jasjourney.com/course/)
 
 **收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)

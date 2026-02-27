@@ -15,13 +15,24 @@ My guest today is Rychelle Moses! Rychelle is currently pursuing her Ph.D. in cr
 
 Last year, she realized that going the traditional route and working in academia wasn't what she wanted to do, so she started exploring the online creator space. She has been writing a weekly online newsletter for almost a year. Her writing focuses on empowering women and advocating for those who can't advocate for themselves. In this episode, we talked about:
 
-jiu-jitsu training and how to find your fitness and martial arts communityher domestic violence prevention workour experiences of saying no to leaving abusive relationshipswhat it is like to pursue various interests like writing, art, powerlifting, jiu-jitsuand much more!
+- jiu-jitsu training and how to find your fitness and martial arts community
+
+- her domestic violence prevention work
+
+- our experiences of saying no to leaving abusive relationships
+
+- what it is like to pursue various interests like writing, art, powerlifting, jiu-jitsuand much more!
 
 Follow Rychelle:
 
-- [Website](https://rychellemoses.ghost.io/Newsletter:)
-- https://womenempowered.substack.com/Twitter:
-- https://twitter.com/RychelleMoses
+- [Website](https://rychellemoses.ghost.io/)
+
+- [Newsletter](https://womenempowered.substack.com/)
+
+- [Twitter](https://twitter.com/RychelleMoses)
+
+
+
 
 
 

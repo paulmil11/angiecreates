@@ -77,11 +77,10 @@ Serena yoga
 
 你也想要把專業的運動科學知識介紹給一般大眾，卻不知道怎麼翻譯生澀難懂的科學論文嗎？
 
-好奇槓鈴和專業英文學習品牌 [賓狗單字 Bingo Bilingual](https://www.facebook.com/bingobilingual/)，帶你一探翻譯的秘訣，以及如何快速成長與經營高互動度的知識型品牌！
+- [賓狗單字 Bingo Bilingual](https://www.facebook.com/bingobilingual/)
 
 \[時間\] 本週六台北時間晚上8點  
 \[哪裡\] 好奇槓鈴及賓狗單字IG限動直播  
-[好奇槓鈴 IG](https://www.instagram.com/angiewangcreates/?fbclid=IwAR0mHRtiTOMa_95HtgOFJURHMvDOmNM3opjv_t8k8w3t6WXMZ6tWEYrDS-Q)  
 [賓狗單字IG](https://www.instagram.com/bingobilingual_bb/?fbclid=IwAR3qGkeCSrBZjEYtm6PYUOt8rGcdkQbZAns8vIAa5T-SLOfGLhyo-6CO5fk)
 
 <<賓狗單字介紹>>  
@@ -97,9 +96,9 @@ Serena yoga
 
 ## 美國運動科學碩士、籃球隊＆留學文化生活應分享 ft. Eric Liu
 
-4/27 22:30 (台北時間) 好奇槓鈴的主持人Angie將與正在加州念運動科學碩班的 [Eric Liu](https://www.facebook.com/eric07118) 進行線上LIVE訪談！
+- [Eric Liu](https://www.facebook.com/eric07118)
 
-[本次訪談將在好奇槓鈴的粉專上進行直播，如果對美國碩班求學或是留學生活有興趣的人，也歡迎到下面的表單註冊一同加入zoom會議室與Eric互動的機會：](https://zoom.us/meeting/register/upIsd-2hrDMohT8yjlW5_k2J91ansrFJ2A?fbclid=IwAR0-gctiCQqJVUHgdqGbsv9o7CK0lKKARV-DStox20Woed-xxDaKbMAy63o)
+- [本次訪談將在好奇槓鈴的粉專上進行直播，如果對美國碩班求學或是留學生活有興趣的人，也歡迎到下面的表單註冊一同加入zoom會議室與Eric互動的機會：](https://zoom.us/meeting/register/upIsd-2hrDMohT8yjlW5_k2J91ansrFJ2A?fbclid=IwAR0-gctiCQqJVUHgdqGbsv9o7CK0lKKARV-DStox20Woed-xxDaKbMAy63o)
 
 本次訪談我們將討論：  
 • Eric 從台灣高中到美國念運動科學學士、碩士的路程  

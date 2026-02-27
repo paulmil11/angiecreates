@@ -41,13 +41,9 @@ Candice Tsuei 是新加坡Vaga Wellness 的創辦人，她在台灣出生、加�
 
 ![](/images/posts/a-a16c2l6.jpg)
 
-## 在其他下平台收聽：
-
 -   [Spotify](https://spoti.fi/2qeqEfT)
 -   [Apple Podcast](https://apple.co/2pPzr7K)
 -   Google Podcast, Overcast, Anchor、Castro、Pocket Cast, Breaker  
-    
-
 ## 延伸資源：
 
 -   [www.vagawellness.com/](http://www.vagawellness.com/)
@@ -57,6 +53,3 @@ Candice Tsuei 是新加坡Vaga Wellness 的創辦人，她在台灣出生、加�
 -   [Healing Addiction](https://www.tarabrach.com/healing-addiction/) by Tara Brach
 
 ## Follow:
-
--   Facebook & IG搜尋: Curious Barbell
--   E-mail: [angiewangcreates@gmail.com](mailto:angiewangcreates@gmail.com)

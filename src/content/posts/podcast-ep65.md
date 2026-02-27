@@ -18,7 +18,18 @@ categories:
 
 在這門課你會學到： 
 
-- [解鎖決定健身成效的九大訓練變數，學會動作進退階 掌握有效居家訓練要領，分析器材差異 以生物力學分析各模式的不同動作差異、選擇適合自己的動作 認識週期化概念，結合訓練量、頻率、強度，安排專屬自己的十週週期化課表 建立強健訓練心志 增肌減脂的關鍵飲食策略 👉 報名「做自己的健身教練課程」](https://course.curiousbarbell.com/)
+- 解鎖決定健身成效的九大訓練變數，學會動作進退階 
+
+- 掌握有效居家訓練要領，分析器材差異 
+
+- 以生物力學分析各模式的不同動作差異、選擇適合自己的動作 
+
+- 認識週期化概念，結合訓練量、頻率、強度，安排專屬自己的十週週期化課表 
+
+- 建立強健訓練心志 
+
+- 增肌減脂的關鍵飲食策略 
+
 
 
 **收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)

@@ -65,8 +65,6 @@ Physiomotionlab 動作實驗室-
 -   [PRI](https://www.posturalrestoration.com/)  
     
 
-**在其他下平台收聽：**
-
 -   [Spotify](https://spoti.fi/2qeqEfT)
 -   [Apple Podcast](https://apple.co/2pPzr7K)
 -   Google Podcast, Overcast, Anchor、Castro、Pocket Cast, Breaker

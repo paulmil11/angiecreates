@@ -34,5 +34,4 @@ categories:
 -   從彼此身上學到寶貴的事有哪些？
 -   給想要在運動相關領域裡，一起創業的情侶的建議
 
-[[野式夫妻IG](https://www.instagram.com/carpediem_wild_m_/?hl=zh-tw) 加入好奇槓鈴Email](https://mit886.substack.com/) 好奇槓鈴IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/) 好奇槓鈴Facebook [https://www.facebook.com/angiewangcreates/  
-[](](https://www.facebook.com/angiewangcreates/))
+- [野式夫妻IG](https://www.instagram.com/carpediem_wild_m_/)

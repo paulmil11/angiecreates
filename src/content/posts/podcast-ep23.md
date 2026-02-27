@@ -43,9 +43,3 @@ Wei胡哲瑋是一名健身教練，也是運動生物力學的博士生，就�
 -   運動科學海外台灣人交流網絡
 -   [Ｗei FB](https://www.facebook.com/fitnesswefit/)
 -   Wei IG: Fitness\_wefit1
-
-了解更多:
-
--   Facebook & IG搜尋: Curious Barbell
--   Website: angiecreates.io
--   E-mail: angiewangcreates@gmail.com

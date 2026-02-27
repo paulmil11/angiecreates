@@ -17,10 +17,13 @@ She now works with creators and companies on education strategy, instructional c
 
 Follow Kelly:
 
-- [Kelly's Twitter](https://twitter.com/Kelly_EdTechKelly's)
-- [website](https://kellydavis.xyz/Kelly’s)
-- [Newsletter](https://kdavis.substack.com/Walking)
-- [in Lisbon Newsletter](https://lisbon.substack.com/)
+- [Kelly's Twitter](https://twitter.com/Kelly_EdTech)
+
+- [Kelly's website](https://kellydavis.xyz/)
+
+- [Kelly’s Newsletter](https://kdavis.substack.com/)
+
+- [Walking in Lisbon Newsletter](https://lisbon.substack.com/)
 
 
 

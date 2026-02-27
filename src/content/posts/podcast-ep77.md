@@ -11,13 +11,13 @@ categories:
 
 <iframe src="https://share.transistor.fm/e/a7796287" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
-Our guest today is Lucy Liang! Lucy is a dear friend and the host of the Meet Yourself Podcast. She founded the empowering fitness coaching business Coachviva with her business partner Richa while they were both working at Microsoft. In this episode, we chatted about her path from quitting tech to becoming a coach, her advice on behavior change, and how to explore what we truly want in our lives. 
+Our guest today is Lucy Liang! Lucy is a dear friend and the host of the Meet Yourself Podcast. She founded the empowering fitness coaching business Coachviva with her business partner Richa while they were both working at Microsoft. In this episode, we chatted about her path from quitting tech to becoming a coach, her advice on behavior change, and how to explore what we truly want in our lives.
 
-About Lucy 
+About Lucy
 
-Lucy Liang is a former big tech software engineer turned health, fitness, and mindset coach - now on a discovery journey to learning more about the human condition through interacting with life and other like-hearted people. Her own weight-loss journey + working with 100s of clients over the years have taught her that any lesson, whether it be in health & fitness or otherwise, can be applied to all other areas of life. 
+Lucy Liang is a former big tech software engineer turned health, fitness, and mindset coach - now on a discovery journey to learning more about the human condition through interacting with life and other like-hearted people. Her own weight-loss journey + working with 100s of clients over the years have taught her that any lesson, whether it be in health & fitness or otherwise, can be applied to all other areas of life.
 
-Check out Lucy's projects: 
+Check out Lucy's projects:
 
 - [Lucy's website](https://www.lucyliang.com/)
 

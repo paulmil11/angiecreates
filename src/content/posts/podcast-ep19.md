@@ -48,9 +48,3 @@ tags:
 **本集相關連結:**
 
 [輔大運動防護中心](https://www.facebook.com/pg/%E8%BC%94%E5%A4%A7%E9%81%8B%E5%8B%95%E5%82%B7%E5%AE%B3%E9%98%B2%E8%AD%B7%E5%B0%88%E5%8D%80-503005336731359/about/?ref=page_internal)
-
-了解更多:
-
--   Facebook & IG搜尋: Curious Barbell
--   Website: angiecreates.io
--   E-mail: [angiewangcreates@gmail.com](mailto:angiewangcreates@gmail.com)

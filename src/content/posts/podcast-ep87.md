@@ -15,12 +15,14 @@ categories:
 
 (Note: this episode was recorded back in June 2023)
 
-My guest today is Valerie! Valerie is @vals_pals_ on Twitter. She is a computer science graduate,work in finance, and a writer. Valerie is relentless in mining her emotions. She writes personal essays about sticky, taboo topics that people don’t normally talk about, such as jealousy of fellow creatives or feeling like a failure for not winning at the status game. In this episode, we chatted about her creative journey, being an Asian female creator, Chinese family relationship, and so much more. 
+- [My guest today is Valerie! Valerie is @vals_pals_ on Twitter. She is a computer science graduate,work in finance, and a writer. Valerie is relentless in mining her emotions. She writes personal essays about sticky, taboo topics that people don’t normally talk about, such as jealousy of fellow creatives](https://valeriezhang.substack.com/p/all-the-ways-im-not-better-than-you?sd=pf)
+- [or feeling like a failure for not winning at the status game](https://valeriezhang.substack.com/p/why-are-you-such-a-big-failure)
 
 Follow Valerie:
 
-- [Valerie's Twitter](https://twitter.com/vals_pals_Valerie's)
-- [Newsletter](https://valspals.substack.com/)
+- [Valerie's Twitter](https://twitter.com/vals_pals_)
+
+- [Valerie's Newsletter](https://valspals.substack.com/)
 
 
 

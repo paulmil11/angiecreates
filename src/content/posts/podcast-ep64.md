@@ -32,5 +32,8 @@ categories:
 -給訓練新手、女性教練的建議 
 
 
+- IG: @movement_mexico 
+- IG @mariana_fletcher 
+- Email: movement.mexico@gmail.com 
 
 **收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)

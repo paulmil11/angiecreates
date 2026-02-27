@@ -44,7 +44,5 @@ tags:
 -   [《精準減脂》課程](https://www.facebook.com/events/1769899013317853/)
 -   [《安排自己的訓練課表》課程](https://www.facebook.com/events/916696638731950/)
 
-了解更多:
-
 -   [Spotify](https://spoti.fi/2qeqEfT)
 -   [Apple Podcast](https://apple.co/2pPzr7K)

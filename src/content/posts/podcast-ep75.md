@@ -2,14 +2,13 @@
 title: "#75 問教練：今年要如何最徹底的活出自己？年度反思＆新年期許 ft. Wei 教練"
 description: "本集我和 Wei 聊聊自己的工作和人生價值，以及從價值出發回顧去年的生活、並許下新年的新希望！
 
- 
-Wei @fitness_wefit1 
+Wei @ fitness_wefit1: https://www.instagram.com/fitness_wefit1/  
  
 <這個 Podcast 已改名為 Angie Creates!>
 
 Follow 安吉
 
-💌 訂閱我的電子報: https://mit886.substack.com/我的IG @angieeecreates我的Threads @angieee..."
+- 💌 訂閱我的電子報: https://mit886.substa..."
 date: "January 18, 2022"
 rawDate: "2022-01-18 02:12:01"
 author: "Angie Wang"
@@ -22,7 +21,7 @@ categories:
 
 本集我和 Wei 聊聊自己的工作和人生價值，以及從價值出發回顧去年的生活、並許下新年的新希望！
 
-Wei @fitness_wefit1 
+- [Wei @ fitness_wefit1](https://www.instagram.com/fitness_wefit1/)
 
 
 

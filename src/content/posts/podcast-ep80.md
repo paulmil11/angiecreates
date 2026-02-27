@@ -22,8 +22,8 @@ categories:
 
 " I’m the Course Director for Write of Passage (and formerly Building a Second Brain). Through my job I explore the wild west of online education. In my free time I explore language, literature, history, and philosophy. I review books and ideas on YouTube, and I publish daily vlogs on my "Will Learns Chinese" YouTube channel. I also host the "Will Learns Chinese" podcast, where I interview guests on a variety of topics. I lived in China for 6 months and I speak Mandarin comfortably. One day I’ll be fluent (working on it)."
 
-曉偉的Twitter @will_mannon曉偉的網站 will-mannon.com曉偉的 Youtube Will Learn Chinese
-
-
+- [曉偉的Twitter @will_mannon](https://twitter.com/will_mannon)
+- [曉偉的網站 will-mannon.com](https://www.will-mannon.com/)
+- [曉偉的 Youtube Will Learn Chinese](https://www.youtube.com/playlist?list=PLY31y3biojFy1OBM7xX7etov-cDfwqyEE)
 
 **收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)

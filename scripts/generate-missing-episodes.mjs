@@ -55,22 +55,51 @@ function formatRawDate(dateStr) {
   return d.toISOString().replace('T', ' ').replace(/\.\d+Z$/, '');
 }
 
-// ── Strip HTML to plain text ────────────────────────────────────────────────
+// ── Convert HTML to plain text with proper spacing ──────────────────────────
 
 function htmlToMarkdown(html) {
   if (!html) return '';
-  return html
-    .replace(/<br\s*\/?>/gi, '\n')
-    .replace(/<\/p>/gi, '\n\n')
-    .replace(/<[^>]+>/g, '')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&nbsp;/g, ' ')
-    .replace(/\n{3,}/g, '\n\n')
-    .trim();
+  let md = html;
+
+  // Convert <a> tags — preserve both text and URL with spacing to prevent jamming
+  md = md.replace(/<a\s+[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi, (match, href, text) => {
+    const cleanText = text.replace(/<[^>]+>/g, '').trim();
+    // If link text is the URL itself or empty, output just the URL
+    if (!cleanText || /^https?:\/\//.test(cleanText)) {
+      return ` ${href} `;
+    }
+    // Link text is a label — output "label: URL" so cleanup script can convert
+    return ` ${cleanText}: ${href} `;
+  });
+
+  // List items
+  md = md.replace(/<li[^>]*>/gi, '\n- ');
+  md = md.replace(/<\/li>/gi, '');
+
+  // Block elements to newlines
+  md = md.replace(/<br\s*\/?>/gi, '\n');
+  md = md.replace(/<\/p>/gi, '\n\n');
+  md = md.replace(/<\/div>/gi, '\n');
+  md = md.replace(/<\/h[1-6]>/gi, '\n\n');
+
+  // Strip remaining tags
+  md = md.replace(/<[^>]+>/g, '');
+
+  // HTML entities
+  md = md.replace(/&amp;/g, '&');
+  md = md.replace(/&lt;/g, '<');
+  md = md.replace(/&gt;/g, '>');
+  md = md.replace(/&quot;/g, '"');
+  md = md.replace(/&#39;/g, "'");
+  md = md.replace(/&nbsp;/g, ' ');
+
+  // Clean up whitespace
+  md = md.replace(/ {2,}/g, ' ');
+  md = md.replace(/\n /g, '\n');
+  md = md.replace(/ \n/g, '\n');
+  md = md.replace(/\n{3,}/g, '\n\n');
+
+  return md.trim();
 }
 
 // ── Get description (truncated for frontmatter) ─────────────────────────────

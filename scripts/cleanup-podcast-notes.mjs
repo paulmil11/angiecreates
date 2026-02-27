@@ -3,9 +3,11 @@
  * Clean up podcast show notes in blog posts:
  * - Remove Angie/Curious Barbell boilerplate contact sections
  * - Remove RSS-sourced Angie promo (Follow Angie, support prompts, etc.)
+ * - Remove standalone Angie boilerplate lines (anywhere in post)
  * - Convert bare URLs to inline markdown links (with bullets)
  * - Split jammed multi-URL lines into bullet lists
  * - Convert WordPress [URL](URL) to [Label](URL)
+ * - Handle broken WordPress nested markdown
  * - Update email addresses
  * - Keep guest-specific links and resources
  *
@@ -18,25 +20,36 @@ import path from 'path';
 const POSTS_DIR = path.resolve('src/content/posts');
 
 // ── Known social platform labels (used for splitting jammed links) ──────────
-const PLATFORM_LABELS = 'D\\s*Card|Tik[Tt]ok|IG|Instagram|FB|Facebook|Twitter|X|網站|Website|Email|E-?mail|LinkedIn|Youtube|Blog|Podcast|LINE|粉專';
+const PLATFORM_LABELS = 'D\\s*Card|Tik[Tt]ok|IG|Instagram|FB|Facebook|Twitter|X|網站|Website|Email|E-?mail|LinkedIn|Youtube|Blog|Podcast|LINE|粉專|Newsletter|Substack|Linktree';
 
-// ── Boilerplate section removal ─────────────────────────────────────────────
+// ── Angie URL detection ─────────────────────────────────────────────────────
+const ANGIE_URL_PATTERNS = [
+  /angiewangcreates/i,
+  /angieeecreates/i,
+  /angiecreates\.(io|substack)/i,
+  /mit886\.substack/i,
+  /curiousbarbell\.com/i,
+];
 
+function isAngieUrl(url) {
+  return ANGIE_URL_PATTERNS.some(re => re.test(url));
+}
+
+// ── Boilerplate section headers (with optional markdown heading/bold) ───────
 const SECTION_HEADERS = [
-  /^Contacts:\s*$/i,
-  /^Contact:\s*$/i,
-  /^\*\*Connect with us!?\*\*\s*$/i,
-  /^Connect with us!?\s*$/i,
-  /^瞭解更多關於好奇槓鈴/,
-  /^追蹤聯絡好奇槓鈴/,
-  /^追蹤好奇槓鈴/,
-  /^在其他.*平台/,
-  /^了解更多：\s*$/,
+  /^(#+\s+)?(\*\*)?Contacts?:?(\*\*)?\s*$/i,
+  /^(#+\s+)?(\*\*)?Connect with us!?(\*\*)?\s*$/i,
+  /^(#+\s+)?(\*\*)?瞭解更多關於好奇槓鈴/,
+  /^(#+\s+)?(\*\*)?追蹤(聯絡)?好奇槓鈴/,
+  /^(#+\s+)?(\*\*)?在其他.*平台/,
+  /^(#+\s+)?(\*\*)?了解更多.*[：:]\s*(\*\*)?\s*$/,
+  /^(#+\s+)?(\*\*)?了解更多\s*(\*\*)?\s*$/,
+  /^(#+\s+)?(\*\*)?認識我們[！!]?\s*(\*\*)?\s*$/,
   // Angie-specific follow sections
-  /^Follow 安吉\s*$/,
-  /^Follow Angie:?\s*$/i,
-  /^Follow Us:?\s*$/i,
-  /^Follow Me!?\s*$/i,
+  /^(#+\s+)?(\*\*)?Follow 安吉\s*(\*\*)?\s*$/,
+  /^(#+\s+)?(\*\*)?Follow Angie:?\s*(\*\*)?\s*$/i,
+  /^(#+\s+)?(\*\*)?Follow Us:?\s*(\*\*)?\s*$/i,
+  /^(#+\s+)?(\*\*)?Follow Me!?\s*(\*\*)?\s*$/i,
 ];
 
 const JUNK_LINES = [
@@ -76,11 +89,69 @@ function isSectionContent(line) {
   return false;
 }
 
+/**
+ * Check if a line is Angie-specific boilerplate (standalone, outside sections).
+ * This catches individual Angie links/text that appear anywhere in the post.
+ */
+function isAngieBoilerplateLine(line) {
+  const trimmed = line.trim();
+  const stripped = trimmed.replace(/^[-*]\s+/, '').replace(/^\*\*/, '').replace(/\*\*$/, '').trim();
+  if (!stripped) return false;
+
+  // Direct text patterns for Angie boilerplate
+  if (/^(Facebook|IG|Instagram)\s+(&|搜尋|and|:).*Curious Barbell/i.test(stripped)) return true;
+  if (/^Website:?\s*(angiecreates|https?:\/\/(www\.)?angiecreates)/i.test(stripped)) return true;
+  if (/^E-?mail:?\s*\[?angiewangcreates/i.test(stripped)) return true;
+  if (/^E-?mail:?\s*angiewangcreates/i.test(stripped)) return true;
+  if (/^Contacts?:?\s*(Facebook|IG|搜尋)/i.test(stripped)) return true;
+  if (/^(加入)?好奇槓鈴(IG|FB|Facebook|Email|Website|社團|$)/i.test(stripped)) return true;
+  if (/^訂閱E-?mail.*mit886\.substack/i.test(stripped)) return true;
+
+  // Markdown links to Angie URLs: - [label](angie-url)
+  const singleLink = stripped.match(/^\[([^\]]*)\]\(([^)]+)\)\s*$/);
+  if (singleLink && isAngieUrl(singleLink[2])) return true;
+
+  // Lines where ALL URLs are Angie URLs and the line is link-like
+  const urls = [...trimmed.matchAll(/https?:\/\/\S+/g)].map(m => m[0]);
+  if (urls.length > 0) {
+    const allAngie = urls.every(u => isAngieUrl(u));
+    if (allAngie) {
+      // All markdown links point to Angie URLs
+      const mdLinks = [...trimmed.matchAll(/\[([^\]]*)\]\(([^)]+)\)/g)];
+      if (mdLinks.length > 0 && mdLinks.every(m => isAngieUrl(m[2]))) return true;
+      // Bare URL lines with all Angie URLs (short lines = link-like, not paragraphs)
+      if (!mdLinks.length && trimmed.length < 200) return true;
+    }
+  }
+
+  return false;
+}
+
+// ── Broken WordPress markdown handler ───────────────────────────────────────
+
+/**
+ * Handle lines with broken WordPress markdown that mix guest and Angie links.
+ * Extract guest links and discard Angie boilerplate.
+ * Returns null if not applicable, '' to remove line, or replacement text.
+ */
+function extractGuestLinksFromBrokenMarkdown(line) {
+  const trimmed = line.trim();
+  // Only handle lines with Angie boilerplate mixed in
+  if (!/(好奇槓鈴|angiewangcreates|mit886\.substack)/.test(trimmed)) return null;
+  if (!/\[.*?\]\(.*?\)/.test(trimmed)) return null;
+
+  // Extract all markdown links
+  const links = [...trimmed.matchAll(/\[([^\]]*)\]\(([^)]+)\)/g)];
+  const guestLinks = links.filter(m => !isAngieUrl(m[2]) && m[1].trim());
+
+  if (guestLinks.length === 0) return ''; // Remove line entirely
+  return guestLinks.map(m => `- [${m[1]}](${m[2]})`).join('\n');
+}
+
 // ── Inline link conversion ──────────────────────────────────────────────────
 
 /**
  * Split jammed multi-URL lines into bullet lists with inline links.
- * Uses lookahead at known platform label boundaries to properly delimit URLs.
  */
 function splitJammedLinks(line) {
   const trimmed = line.trim();
@@ -161,22 +232,41 @@ function cleanupPost(content) {
   let body = content.slice(frontmatter.length);
   const lines = body.split('\n');
   const cleaned = [];
-  let skipSection = false;
+  let inBoilerplateSection = false;
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
 
+    // Check for boilerplate section headers
     if (isBoilerplateSectionHeader(line)) {
-      skipSection = true;
+      inBoilerplateSection = true;
       continue;
     }
 
-    if (skipSection) {
-      if (isSectionContent(line)) continue;
-      else skipSection = false;
+    // In a boilerplate section — remove Angie lines, keep guest lines
+    if (inBoilerplateSection) {
+      if (line.trim() === '') continue;
+      if (isSectionContent(line)) {
+        if (isAngieBoilerplateLine(line)) continue;
+        // Non-Angie content — keep it, stay in section mode
+        // (more Angie lines may follow after guest lines)
+      } else {
+        inBoilerplateSection = false;
+      }
     }
 
+    // Remove standalone Angie boilerplate lines (outside sections too)
+    if (isAngieBoilerplateLine(line)) continue;
+
+    // Remove junk lines
     if (isJunkLine(line)) continue;
+
+    // Handle broken WordPress markdown with mixed content
+    const brokenFix = extractGuestLinksFromBrokenMarkdown(line);
+    if (brokenFix !== null) {
+      if (brokenFix) cleaned.push(brokenFix);
+      continue;
+    }
 
     let cleanedLine = line;
 
@@ -188,11 +278,24 @@ function cleanupPost(content) {
     cleanedLine = cleanedLine.replace(/Follow Angie:?\s*$/i, '');
     cleanedLine = cleanedLine.replace(/Follow 安吉\s*$/, '');
 
+    // Strip inline Angie promo text
+    cleanedLine = cleanedLine.replace(/＊馬上訂閱好奇槓鈴[^＊]*[＊.]*/g, '');
+
     // Convert WordPress [URL](URL) to [Label](URL)
     cleanedLine = convertWordPressLinks(cleanedLine);
 
     // Convert bare URLs to inline links with bullets
     cleanedLine = convertBareUrls(cleanedLine);
+
+    // Re-check converted lines for Angie boilerplate
+    if (cleanedLine.includes('\n')) {
+      // Multi-line result from jammed link splitting — filter each line
+      const sublines = cleanedLine.split('\n').filter(l => !isAngieBoilerplateLine(l));
+      if (!sublines.some(l => l.trim())) continue;
+      cleanedLine = sublines.join('\n');
+    } else if (isAngieBoilerplateLine(cleanedLine)) {
+      continue;
+    }
 
     cleaned.push(cleanedLine);
   }
