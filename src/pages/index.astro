@@ -15,9 +15,6 @@ const recentPosts = posts
   <!-- Book Hero -->
   <section class="book-hero section">
     <div class="book-hero-inner container">
-      <div class="book-hero-image">
-        <img src="/images/mit-book-cover.png" alt="臺灣製造" />
-      </div>
       <div class="book-hero-text">
         <h1>《臺灣製造》</h1>
         <p class="book-subtitle">出走，才能回家——從臺中菜市場到紐約常春藤，愛、恐懼與成為的故事</p>
@@ -27,6 +24,9 @@ const recentPosts = posts
           <a href="https://www.books.com.tw/products/0011045853?sloc=main" target="_blank" rel="noopener" class="btn btn-primary">立即購買</a>
           <a href="https://mit886.com" target="_blank" rel="noopener" class="btn btn-outline">了解更多</a>
         </div>
+      </div>
+      <div class="book-hero-image">
+        <img src="/images/mit-book-cover.png" alt="臺灣製造" />
       </div>
     </div>
   </section>
@@ -99,7 +99,7 @@ const recentPosts = posts
 
   .book-hero-inner {
     display: grid;
-    grid-template-columns: auto 1fr;
+    grid-template-columns: 1fr auto;
     gap: 4rem;
     align-items: center;
   }
