@@ -6,8 +6,8 @@ rawDate: "2021-02-15 13:49:03"
 author: "Angie Wang"
 image: "/images/posts/115825833_288331999068521_6073354170290229729_n.jpg"
 categories:
-  - "Training Note 訓練筆記"
-  - "做自己的健身教練課程"
+  - "訓練筆記"
+  - "做自己的健身教練"
   - "訓練精神喊話"
   - "重訓新手入門系列"
 tags:
@@ -46,6 +46,6 @@ tags:
 
 所以不要忘了回歸成長心態，提醒自己這樣的探索與試驗的學習過程本身就是成功．
 
-#### 更多健身目標設定和心志鍛鍊都在「[做自己的健身教練](https://curiousbarbell.com/courses/)」課程裡．
+#### 更多健身目標設定和心志鍛鍊都在「[做自己的健身教練](/blog/)」課程裡．
 
-![](/images/posts/%E5%AE%8C%E6%95%B4%E7%B7%9A%E4%B8%8A%E8%87%AA%E5%AD%B8%E5%AE%8C%E6%95%B4%E7%B7%9A%E4%B8%8A%E8%87%AA%E5%AD%B8%E8%AA%B2%E7%A8%8B-1-1024x512.jpg)
+![](/images/posts/1-1024x512.jpg)

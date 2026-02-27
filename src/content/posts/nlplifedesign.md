@@ -6,7 +6,6 @@ rawDate: "2022-05-11 03:03:04"
 author: "Angie Wang"
 image: "/images/posts/rana-sawalha-W_-6PWGbYaU-unsplash-scaled-1.jpg"
 categories:
-  - "Email"
   - "人生人蔘"
 ---
 
@@ -60,7 +59,7 @@ PS: 能夠確切地知道做練習時當日20年後的確切時間點，對於�
 
 **步驟五、**從10年的時間點往回推，去看接來的5年、3年、1年、和這個月你必須要採取什麼行動、做什麼事，才能達到10年、20年的那個人生？
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/images/posts/Portfolio-%E7%9A%84%E8%A4%87%E6%9C%AC-%E7%9A%84%E8%A4%87%E6%9C%AC-3-1024x731.png" alt="life planning" class="wp-image-3796" width="512" height="366"></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/images/posts/portfolio-3-1024x731.png" alt="life planning" class="wp-image-3796" width="512" height="366"></figure></div>
 
 ## **NLP人生設計經驗分享**
 

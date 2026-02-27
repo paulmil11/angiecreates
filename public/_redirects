@@ -1,5 +1,76 @@
-# Cloudflare Pages redirects (also works on Netlify)
+# Cloudflare Pages redirects
+# Generated from WordPress XML export comparison with Astro content
+
+# ----- RSS / Feed -----
 /feed/ /rss.xml 301
 /feed /rss.xml 301
+/comments/feed/ /rss.xml 301
+/comments/feed /rss.xml 301
+
+# ----- Book page -----
+/books/ https://mit886.com 301
+/books https://mit886.com 301
+
+# ----- WordPress pages (non-post) -----
 /coaching/ / 301
+/coaching / 301
 /sample-page/ / 301
+/sample-page / 301
+/home/ / 301
+/home / 301
+
+# ----- WordPress category archives -> blog listing -----
+/category/* /blog/ 301
+
+# ----- WordPress tag archives -> blog listing -----
+/tag/* /blog/ 301
+
+# ----- WordPress author archives -> homepage -----
+/author/* / 301
+
+# ----- WordPress date archives -> blog listing -----
+/2018/* /blog/ 301
+/2019/* /blog/ 301
+/2020/* /blog/ 301
+/2021/* /blog/ 301
+/2022/* /blog/ 301
+/2023/* /blog/ 301
+/2024/* /blog/ 301
+/2025/* /blog/ 301
+/2026/* /blog/ 301
+
+# ----- WordPress pagination -> blog listing -----
+/page/* /blog/ 301
+
+# ----- WordPress attachment pages -> homepage -----
+# These are WordPress-generated pages for uploaded media (not actual posts)
+/dsc05080-1-jpg/ / 301
+/yuri-shirota-p0hdztr46cw-unsplash-jpg/ / 301
+/jonathan-petersson-a6n685qlshq-unsplash-jpg/ / 301
+/tim-marshall-catzhuz7z8g-unsplash-1-jpg/ / 301
+/137225551_4238366022856800_4031443669413874286_n-1-jpg/ / 301
+/red-blue-white-circle-french-bastille-day-twitter-post-png/ / 301
+/img_2657-2-1-jpg/ / 301
+/fqw-uudxsaajddc-jpeg/ / 301
+/rishabh-dharmani-ivfas3qk64m-unsplash-jpg/ / 301
+/dylan-hunter-aumtlcqides-unsplash-jpg/ / 301
+/felipe-salgado-uc8lqij22me-unsplash-jpg/ / 301
+/untitled-design-7-jpg/ / 301
+/img_0385-webp/ / 301
+/image-2/ / 301
+/deadlift2/ / 301
+/ep-16-youtube-cover/ / 301
+/grey-condenser-microphone-164755-1/ / 301
+/img_0498_01/ / 301
+/daniel-zjv8ptygceo-unsplash/ / 301
+
+# ----- WordPress system paths -> homepage -----
+/wp-admin/* / 301
+/wp-login.php / 301
+/wp-content/* / 301
+/wp-includes/* / 301
+/wp-json/* / 301
+/xmlrpc.php / 301
+/wp-cron.php / 301
+/wp-signup.php / 301
+/wp-register.php / 301

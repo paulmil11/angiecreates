@@ -6,18 +6,18 @@ rawDate: "2020-09-06 23:46:00"
 author: "Angie Wang"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "女性創業與健身 Female Entrepreneurship and Training"
+  - "健身與運動醫學"
+  - "女性創業與健身"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/5e717fe9" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/5e717fe9" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 今天我們邀請到另一個Podcast主持人-女子健心室的Pei，來跟我們分享他從上班族變成自媒體工作者的心路歷程
 
-<iframe src="/images/posts/44--ft--Pei-eie9dh.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/44--ft--Pei-eie9dh.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 ## 女子健心室的發展路程
 

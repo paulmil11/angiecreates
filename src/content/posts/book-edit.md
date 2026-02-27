@@ -8,7 +8,7 @@ image: "/images/posts/IMG_8674-2-scaled.avif"
 categories:
   - "寫作"
 tags:
-  - "《臺灣製造》"
+  - "臺灣製造"
   - "寫作"
 ---
 
@@ -121,9 +121,9 @@ Tucker Max 分享回憶錄第一版應該是嘔吐稿 (Vomit Draft)，作者應�
 
 嗨，我是安吉，我會在電子報裡分享我們跨文化家庭故事、人生反思、創作心路歷程和回憶錄《臺灣製造》的書寫紀錄，歡迎追蹤閱讀更多故事．
 
-<div class="gb-element-c3b9fc96"><iframe src="/images/posts/embed.jpg" width="480" height="150" solid="" #eee;"="" frameborder="0" scrolling="no"></iframe></div>
+![](/images/posts/embed.jpg)
 
-![](/images/posts/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cdb6282-45d1-446d-8433-3b0b3f518830_1410x2250.png)
+![](/images/posts/5cdb6282-45d1-446d-8433-3b0b3f518830_1410x2250.png)
 
 ### **《臺灣製造 : 最難的不是出走，而是回家》**
 

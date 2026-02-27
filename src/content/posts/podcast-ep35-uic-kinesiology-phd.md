@@ -7,20 +7,20 @@ author: "Angie Wang"
 image: "/images/posts/5.png"
 categories:
   - "Podcast"
-  - "海外留學工作 Overseas Research and Careers"
-  - "運動健身訓練知識 Sports Science"
+  - "海外留學"
+  - "運動科學"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/5a6cbb57" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/5a6cbb57" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 黃俊豪是高雄醫學大學運動醫學系及南加大USC Biokinesiology and Physical Therapy碩士畢業，現在是University of Illinois at Chicago (UIC)的Kinesiology 博士生，主要研究退化性關節炎相關失能的生物力學和臨床因子的控制，幫助建立老年髖關節退化性關節炎病人治療方法、促進其步態效率．本集為俊豪的完整訪談，他分享碩博士求學之路，以及給予美國攻讀博班的建議．
 
 <div class="wp-block-image"><figure class="aligncenter size-medium"><img src="/images/posts/5-300x300.png" alt="UIC Kinesiology PhD" class="wp-image-3199"></figure></div>
 
-<iframe src="/images/posts/35--UIC-Kinesiology--ft-ef30l9.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/35--UIC-Kinesiology--ft-ef30l9.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 ## **一、USC碩班＆UIC博班簡介**
 
@@ -65,9 +65,9 @@ categories:
 -   [chhuang0906@gmail.com](mailto:chhuang0906@gmail.com)
 -   FB：Chun-Hao Huang
 -   [運動科學海外人社團](https://www.facebook.com/groups/666490810818917/)
--   Facebook [https://www.facebook.com/curiousbarbell/](https://www.facebook.com/curiousbarbell/)
--   IG [https://www.instagram.com/curiousbarbell/](https://www.instagram.com/curiousbarbell/)
--   E-mail: [curiousbarbell@gmail.com](mailto:angie@curiousbarbell.com)
+-   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
+-   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
 
 ### 馬上訂閱好奇槓鈴，不錯過任何精采訪談！
 

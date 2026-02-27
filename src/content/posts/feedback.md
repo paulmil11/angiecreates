@@ -4,8 +4,7 @@ date: "April 6, 2022"
 rawDate: "2022-04-06 22:08:41"
 author: "Angie Wang"
 image: "/images/posts/Red-Blue-White-Circle-French-Bastille-Day-Twitter-Post.png"
-categories:
-  - "Uncategorized"
+categories: []
 ---
 
 Write of Passage (WOP), an online writing course and community changed my perspective on feedback. I started writing online in Chinese in 2021. I wrote about my journey as a digital nomad, as well as broader reflections on life. As much as I loved learning about myself through writing, I struggled to balance both excitement and fear whenever I hit publish. I hoped my article would inspire people facing the same challenges but please, I prayed to God, DON’T GIVE ME ANY FEEDBACK.

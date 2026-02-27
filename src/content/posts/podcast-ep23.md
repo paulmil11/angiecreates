@@ -7,7 +7,7 @@ author: "Angie Wang"
 image: "/images/posts/Wei-Youtube.png"
 categories:
   - "Podcast"
-  - "海外留學工作 Overseas Research and Careers"
+  - "海外留學"
 tags:
   - "健身教練"
   - "博士"
@@ -16,14 +16,14 @@ tags:
   - "醫學工程"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/bfc47846" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/bfc47846" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 Wei胡哲瑋是一名健身教練，也是運動生物力學的博士生，就讀皇家墨爾本理工學院(RMIT)的醫學工程與維也納大學(University of Vienna)的運動科學，目前在澳洲墨爾本生活。主要研究足部的生物力學並且開發扁平足鞋墊。
 
-<iframe src="/images/posts/23--ft--RMIT-Wei-ebovpk.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/23--ft--RMIT-Wei-ebovpk.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 今天Wei與我們分享作為雙學位博士生的研究、生活、心理內心話，包括：
 
@@ -47,8 +47,8 @@ Wei胡哲瑋是一名健身教練，也是運動生物力學的博士生，就�
 了解更多:
 
 -   Facebook & IG搜尋: Curious Barbell
--   Website: curiousbarbell.com
--   E-mail: curiousbarbell@gmail.com
+-   Website: angiecreates.io
+-   E-mail: angie@angiecreates.io
 
 在其他下平台收聽：
 

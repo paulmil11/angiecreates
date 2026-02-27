@@ -4,8 +4,7 @@ date: "November 9, 2022"
 rawDate: "2022-11-09 03:59:14"
 author: "Angie Wang"
 image: "/images/posts/Untitled-design-7-.jpg"
-categories:
-  - "Uncategorized"
+categories: []
 ---
 
 At 6 a.m. on July 4th, 2022, before the parade happened in the small town of Connecticut, I found out I was pregnant. I ran into the room and jumped on the bed to wake my husband, “I’m going to be a mommy! I’m going to be a mommy!”  

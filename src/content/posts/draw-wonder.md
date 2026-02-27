@@ -4,10 +4,9 @@ date: "April 12, 2022"
 rawDate: "2022-04-12 02:15:46"
 author: "Angie Wang"
 image: "/images/posts/IMG_2657-2-1.jpg"
-categories:
-  - "Uncategorized"
+categories: []
 tags:
-  - "Creativity"
+  - "創作"
 ---
 
 Over the past year, I've gotten more and more into drawing, particularly botanical drawing.  In the past couple of months, I've been bringing a notebook with me when I go for walk.   By drawing what I see, I've opened myself up to the beauty that is all around us.

@@ -8,11 +8,11 @@ image: "/images/posts/EP-16-Youtube-cover.png"
 categories:
   - "Podcast"
   - "人生人蔘"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "女性創業與健身 Female Entrepreneurship and Training"
+  - "健身與運動醫學"
+  - "女性創業與健身"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/5307b3a5" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/5307b3a5" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 本集是我和Girlpowertalk女力心聲的主持人 Anne對談的第二集，如果你想知道我們創立節目過程各種心酸血淚，以及每一集訪談的背後製作過程，請務必聆聽第15集的內容!在本集中我們分享：
@@ -26,9 +26,9 @@ categories:
 -   節目未來發展-不只是個Podcast!
 -   好奇槓鈴即將播出節目預告
 
-<iframe src="/images/posts/16--Podcast-X-GRL-PWR-TALKS-eb0u47.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/16--Podcast-X-GRL-PWR-TALKS-eb0u47.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 ＊馬上訂閱好奇槓鈴！聆聽更多運動健身領域的教練、創業家、醫療專業人員、以及運動研究工作者分享訓練相關的專業知識以及他們的人生故事．延伸資源：
 
@@ -46,8 +46,8 @@ categories:
 Contacts:
 
 -   Facebook & IG搜尋: Curious Barbell
--   Website: curiousbarbell.com
--   E-mail: [angie@curiousbarbell.com](mailto:angie@curiousbarbell.com)
+-   Website: angiecreates.io
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
 
 在其他下平台收聽：
 

@@ -6,7 +6,7 @@ rawDate: "2019-03-18 00:28:59"
 author: "Angie Wang"
 image: "/images/posts/universe.jpeg"
 categories:
-  - "Training Note 訓練筆記"
+  - "訓練筆記"
   - "訓練精神喊話"
 tags:
   - "anatomy"

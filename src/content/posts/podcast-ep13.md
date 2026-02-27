@@ -7,7 +7,7 @@ author: "Angie Wang"
 image: "/images/posts/Sign-Youtube-cover.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
+  - "健身與運動醫學"
 tags:
   - "3d maps"
   - "cafs"
@@ -16,16 +16,16 @@ tags:
   - "物理治療"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/763a125c" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/763a125c" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 Sign-李思翰．思翰畢業於陽明物理治療系．他是NKT神經動能療法亞洲區負責人之一，也是GRAY Institute 格雷學院3Dmaps 動態分析以及CAFS 應用功能性科學課程的講師．思翰除了在各大健身房擔任動作評估、動作訓練優化講師外，也在台北的誠星物理治療所擔任治療師，並且擅長於建力、健美、自行車、CrossFit、鐵人三項等項目的神經動作優化訓練,擁有多方面領域的授課經驗。
 
 ＊本集是思翰訪談的第一部分，想知道他講授的NKT、3D Maps 、CAFS及其他課程，請聆聽EP14唷！
 
-<iframe src="/images/posts/13---Sign-eanq3s.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/13---Sign-eanq3s.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 **思翰在本集中分享到他：**
 

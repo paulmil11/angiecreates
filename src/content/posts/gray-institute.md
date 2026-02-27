@@ -4,8 +4,7 @@ date: "April 4, 2022"
 rawDate: "2022-04-04 02:59:35"
 author: "Angie Wang"
 image: "/images/posts/tim-marshall-cAtzHUz7Z8g-unsplash-1.jpg"
-categories:
-  - "Uncategorized"
+categories: []
 ---
 
 Ego dominates the fitness world. Voices are screaming “I’m right! You are wrong!”. But there is one man humbly dedicating his life to empowering others despite all the noise.

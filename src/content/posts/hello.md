@@ -5,11 +5,11 @@ date: "July 23, 2025"
 rawDate: "2025-07-23 08:29:59"
 author: "Angie Wang"
 image: "/images/posts/Untitled-design-5.avif"
-categories:
-  - "Uncategorized"
+categories: []
+draft: true
 ---
 
-![](/images/posts/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa76d514e-aed8-459c-8e0e-7e61f560c989_1640x924.png)
+![](/images/posts/a76d514e-aed8-459c-8e0e-7e61f560c989_1640x924.png)
 
 嗨～我是安吉，我正在寫**《臺灣製造：最難的不是出走，而是回家》** 這本書．這是一本講述我從放牛學生誤闖菁英校園、留學後的身份衝擊、從傳統成功道路到追求創作、數位遊牧跟跨文化婚姻，以及成為母親的回憶錄．不過你知道嗎？寫作這件事對六年前的我來說，是無法想像的．
 
@@ -50,4 +50,4 @@ Podcast 創作讓打開了我和創造力的連結，但我仍努力的在跟我
 3.  創作者的心路歷程
 4.  《臺灣製造》的書寫與出版過程紀錄
 
-<iframe src="/images/posts/embed.jpg" width="480" height="150" solid="" #eee;"="" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/embed.jpg)

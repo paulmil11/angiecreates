@@ -4,8 +4,7 @@ date: "March 17, 2022"
 rawDate: "2022-03-17 00:44:26"
 author: "Angie Wang"
 image: "/images/posts/yuri-shirota-p0hDztR46cw-unsplash.jpg"
-categories:
-  - "Uncategorized"
+categories: []
 ---
 
 No one loves you like the way you do.

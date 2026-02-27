@@ -7,20 +7,20 @@ author: "Angie Wang"
 image: "/images/posts/Podcast-IG-Template-6.jpg"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "女性創業與健身 Female Entrepreneurship and Training"
+  - "健身與運動醫學"
+  - "女性創業與健身"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/cb902430" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/cb902430" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 本集來賓是Wild Couple Fitness 瑜伽體能工作室創辦人賢哥 ＆瑪G！相信能和浪漫關係的伴侶合創事業是許多地球人的夢想，今天就請賢哥與瑪G來為大家用這集充滿歡笑與感人、史上最可愛又害羞浪漫與勵志的故事分享來開啟2021年吧!（結論就是要有個好伴侶？）
 
 ![wild couple fitness](/images/posts/Youtube-cover-4-1024x576.jpg)
 
-<iframe src="/images/posts/59--ft--Wild-Couple-Fitness--G-eomji3.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/59--ft--Wild-Couple-Fitness--G-eomji3.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 ## 野式夫妻的創業之路：
 
@@ -36,5 +36,5 @@ categories:
 
 **Connect With Us!**
 
-野式夫妻IG [https://www.instagram.com/carpediem\_wild\_m\_/?hl=zh-tw](https://www.instagram.com/carpediem_wild_m_/?hl=zh-tw) 加入好奇槓鈴Email [https://curiousbarbell.com/subscribe/](https://curiousbarbell.com/subscribe/) 好奇槓鈴IG [https://www.instagram.com/curiousbarbell/](https://www.instagram.com/curiousbarbell/) 好奇槓鈴Facebook [https://www.facebook.com/curiousbarbell/  
-](https://www.facebook.com/curiousbarbell/)[](https://www.facebook.com/dialog/share?app_id=446611785530020&href=https://anchor.fm/curiousbarbell/episodes/59--ft--Wild-Couple-Fitness--G-eomji3&redirect_uri=https://anchor.fm/curiousbarbell/episodes/59--ft--Wild-Couple-Fitness--G-eomji3)[](https://twitter.com/intent/tweet?text=Listen%20to%20%22#59%20%E9%87%8E%E5%BC%8F%E5%A4%AB%E5%A6%BB%E5%90%88%E9%96%8B%E7%91%9C%E4%BC%BD%E9%AB%94%E8%83%BD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%B9%8B%E8%B7%AF%20ft.%20Wild%20Couple%20Fitness%20%E8%B3%A2%E5%93%A5%20%EF%BC%86%E7%91%AAG%22%20by%20Curious%20Barbell%20%E5%A5%BD%E5%A5%87%E6%A7%93%E9%88%B4-%E5%81%A5%E8%BA%AB%E8%88%87%E4%BA%BA%E7%94%9F%E7%9A%84%E5%B0%8D%E8%A9%B1.%20%E2%9A%93%20https://anchor.fm/curiousbarbell/episodes/59--ft--Wild-Couple-Fitness--G-eomji3)
+野式夫妻IG [https://www.instagram.com/carpediem\_wild\_m\_/?hl=zh-tw](https://www.instagram.com/carpediem_wild_m_/?hl=zh-tw) 加入好奇槓鈴Email [https://mit886.substack.com/](https://mit886.substack.com/) 好奇槓鈴IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/) 好奇槓鈴Facebook [https://www.facebook.com/angiewangcreates/  
+](https://www.facebook.com/angiewangcreates/)[](https://www.facebook.com/dialog/share?app_id=446611785530020&href=https://anchor.fm/curiousbarbell/episodes/59--ft--Wild-Couple-Fitness--G-eomji3&redirect_uri=https://anchor.fm/curiousbarbell/episodes/59--ft--Wild-Couple-Fitness--G-eomji3)[](https://twitter.com/intent/tweet?text=Listen%20to%20%22#59%20%E9%87%8E%E5%BC%8F%E5%A4%AB%E5%A6%BB%E5%90%88%E9%96%8B%E7%91%9C%E4%BC%BD%E9%AB%94%E8%83%BD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%B9%8B%E8%B7%AF%20ft.%20Wild%20Couple%20Fitness%20%E8%B3%A2%E5%93%A5%20%EF%BC%86%E7%91%AAG%22%20by%20Curious%20Barbell%20%E5%A5%BD%E5%A5%87%E6%A7%93%E9%88%B4-%E5%81%A5%E8%BA%AB%E8%88%87%E4%BA%BA%E7%94%9F%E7%9A%84%E5%B0%8D%E8%A9%B1.%20%E2%9A%93%20https://anchor.fm/curiousbarbell/episodes/59--ft--Wild-Couple-Fitness--G-eomji3)

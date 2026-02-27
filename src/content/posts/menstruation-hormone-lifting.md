@@ -7,8 +7,8 @@ author: "Angie Wang"
 image: "/images/posts/ava-sol-5raXLWyxE7Q-unsplash-scaled-1.jpg"
 categories:
   - "人生人蔘"
-  - "冥想 Meditation"
-  - "女性創業與健身 Female Entrepreneurship and Training"
+  - "冥想"
+  - "女性創業與健身"
   - "訓練精神喊話"
 ---
 

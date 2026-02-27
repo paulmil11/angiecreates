@@ -5,8 +5,7 @@ date: "August 3, 2018"
 rawDate: "2018-08-03 15:16:27"
 author: "Angie Wang"
 image: "/images/posts/image-hn73.png"
-categories:
-  - "Unpublished"
+categories: []
 ---
 
 ## 前情提要

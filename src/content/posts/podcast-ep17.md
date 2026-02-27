@@ -7,10 +7,10 @@ author: "Angie Wang"
 image: "/images/posts/grey-condenser-microphone-164755-1.jpg"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
+  - "健身與運動醫學"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/9e7d59bd" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/9e7d59bd" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 ![GYMEFIT 楊浚泯](/images/posts/EP17-Youtube-1024x579.png)
@@ -19,9 +19,9 @@ categories:
 
 本集GYMEFIT 創辦人Jimmy楊浚泯分享 他怎麼踏上健美選手之路、創辦了我之前服務的台北知名私人工作室品牌GYMEFIT以及結合重訓和極限體能王訓練的場館GYMEFIT NINJA:
 
-<iframe src="/images/posts/17--GYMEFIT--ft--GYMEFIT-Jimmy-eb4vef.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/17--GYMEFIT--ft--GYMEFIT-Jimmy-eb4vef.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 -   健身緣起、捷克時期的健美訓練
 -   從工程師轉職的過程、入行時的懷疑與期許

@@ -6,16 +6,16 @@ description: "本集將向大家介紹Curious Barbell好奇槓鈴的緣起、我
 date: "December 12, 2019"
 rawDate: "2019-12-12 07:11:39"
 author: "Angie Wang"
-image: "/images/posts/Curious-Barbell-%E5%A5%BD%E5%A5%87%E6%A7%93%E9%88%B4-logo-FB-scaled.png"
+image: "/images/posts/curious-barbell-logo-fb-scaled.png"
 categories:
   - "Podcast"
 ---
 
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="/images/posts/DSC01805_1-1024x706.jpg" alt="" class="wp-image-3281"></figure></div>
 
-<iframe src="/images/posts/a-a11rfbo.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/a-a11rfbo.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 Curious Barbell 好奇槓鈴的Podcast，我是主持人郁秀Angie，在本節目，邀請運動健身領域的教練、創業家、醫療專業人員、以及運動研究工作者分享訓練相關的專業知識以及他們的人生故事．
 
@@ -35,17 +35,17 @@ Curious Barbell 好奇槓鈴的Podcast，我是主持人郁秀Angie，在本節�
 
 感謝你收聽這一集好奇槓鈴節目，你可以在下方，找到我們本集討論到的/相關資源，以及好奇槓鈴的youtube和官方連結．
 
-如果你對節目內容/有任何想法，歡迎你到Curious Barbell 的粉專留言，或寫信到我的email信箱 angie@curiousbarll.com，告訴我你希望/在未來/聽到什麼樣的主題或哪一位專家的分享．
+如果你對節目內容/有任何想法，歡迎你到Curious Barbell 的粉專留言，或寫信到我的email信箱 angie@angiecreates.io，告訴我你希望/在未來/聽到什麼樣的主題或哪一位專家的分享．
 
 如果你喜歡我們的節目內容，別忘了推建給你周遭的朋友，也歡迎你在我們的粉專或你的收聽平台留下評論，你的支持能讓好奇槓鈴的節目被更多人聽見，也讓我們可以在未來邀請你想深入認識的專家，到節目上分享他們專業知識與人生故事．那再次感謝你的收聽，我們下次見囉！
 
-<div class="wp-block-embed__wrapper">https://youtu.be/beD4KSRC-5I</div>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/beD4KSRC-5I" frameborder="0" allowfullscreen></iframe>
 
 延伸資源：
 
--   [AI產品規劃到健身教練的轉職路](https://curiousbarbell.com/tech-to-coach-career-transition/)
+-   [AI產品規劃到健身教練的轉職路](/tech-to-coach-career-transition/)
 
 Contacts:
 
--   Facebook & IG搜尋: [Curious Barbell](https://www.instagram.com/curiousbarbell/)
--   E-mail: [angie@curiousbarbell.com](mailto:angie@curiousbarbell.com)
+-   Facebook & IG搜尋: [Curious Barbell](https://www.instagram.com/angiewangcreates/)
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)

@@ -7,10 +7,10 @@ author: "Angie Wang"
 image: "/images/posts/EP5-Youtube-cover.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
+  - "健身與運動醫學"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/bf4c825a" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/bf4c825a" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 袖舒教練是台大社會系與台大運動設施與健康管理碩士畢業，也是是在GYMEFIT給我學科、術科、和當教練路上心靈層面很多mentorship的教練．我們在本集中討論到：
@@ -20,13 +20,13 @@ categories:
 -   教練與學生的關係，怎麼找到適合學生形狀的方式，如拼圖一般與學生做連結，進一步找到面對學生不同個體性時的適合的指導或鼓勵方式
 -   如何辨別辨認自主慾望或社會期待，讓學生掌握身體的自主權
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 對於袖舒來說，教練不是上對下的權威式教導，而是平等地、真心地去關懷他作為一個人的需要，觀察學生身體的陳述型與非陳述型記憶、給予適切的幫助，因為學生不只是一個課堂上想運動的客戶，教練不僅只是教好動作、帶他訓練就好，而是關心他其他生活部分的樣貌、習慣與心理狀態，給予心理支持與回饋．
 
 ＊馬上訂閱好奇槓鈴！聆聽更多運動健身領域的教練、創業家、醫療專業人員、以及運動研究工作者分享訓練相關的專業知識以及他們的人生故事．
 
-<iframe src="/images/posts/EP5----e9geci.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/EP5----e9geci.jpg)
 
 延伸資源:
 
@@ -38,8 +38,8 @@ categories:
 瞭解更多關於好奇槓鈴：
 
 -   Facebook & IG搜尋: Curious Barbell
--   Website: curiousbarbell.com
--   E-mail: [angie@curiousbarbell.com](mailto:angie@curiousbarll.com)
+-   Website: angiecreates.io
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
 
 在其他下平台收聽：
 

@@ -7,10 +7,10 @@ author: "Angie Wang"
 image: "/images/posts/Youtube-cover-18.png"
 categories:
   - "Podcast"
-  - "女性創業與健身 Female Entrepreneurship and Training"
+  - "女性創業與健身"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/8faff930" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/8faff930" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 In this episode, I interviewed my awesome coach in Mexico- **Mariana Fletcher**!
@@ -21,9 +21,9 @@ Mariana co-founded **[Movement Mexico](https://www.instagram.com/movement__mexic
 
 ![](/images/posts/Youtube-cover-18-1024x576.png)
 
-<iframe src="/images/posts/63-Movement-coaching--motherhood--female-empowerment-ft--Mariana-Fletcher-e10ebek.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/63-Movement-coaching--motherhood--female-empowerment-ft--Mariana-Fletcher-e10ebek.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 ## Movement coaching, motherhood & female empowerment
 

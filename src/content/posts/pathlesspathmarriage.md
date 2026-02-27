@@ -6,7 +6,7 @@ rawDate: "2025-07-07 11:04:25"
 author: "Angie Wang"
 categories:
   - "人生人蔘"
-  - "數位遊牧 Digital Nomad"
+  - "數位遊牧"
 tags:
   - "無路之路"
 ---
@@ -19,9 +19,9 @@ tags:
 >   
 > 現在，我正在寫一本回憶錄《臺灣製造》，紀錄我在台美文化衝擊、數位遊牧和成為母親的過程中，一路上和冒牌者對抗並選擇成為真正自我之路，預計2025年10月出版．如果你有興趣，歡迎在下面訂閱我的電子報唷！
 
-![台灣製造圖示版](/images/posts/%E5%8F%B0%E7%81%A3%E8%A3%BD%E9%80%A0%E5%9C%96%E7%A4%BA%E7%89%88-642x1024.avif)
+![台灣製造圖示版](/images/posts/taiwan-made-cover-642x1024.avif)
 
-<div style="display: flex; justify-content: center; margin: 40px 0;"><iframe src="/images/posts/embed.jpg" width="480" height="120" style="border:1px solid #EEE; border-radius: 4px;" frameborder="0" scrolling="no"></iframe></div>
+![](/images/posts/embed.jpg)
 
 ---
 
@@ -330,7 +330,7 @@ The Artist Way 是一個以12週的自我探索為核心書籍，每週除了以
 
 現在的我只能感恩米寶在一開始看到的，就只有那個值得被愛的我．沒有在黑暗到想要放棄關係時就離我而去；也感謝幫助我一同完成健身課程夢想的 Wei 教練，在我坦承那個一文不值的自己根本不配一起合作的時候，告訴我他才不會相信我編造的這些自我懷疑的謊言．
 
-至於這些靈性體驗是什麼，我還沒有準備好分享．一是因這些體驗本質上是不能被被理性思維所理解的，所以再怎麼用語言描述都是枉然．二是因為我曾[經歷過一段過度詮釋象徵的階段](https://curiousbarbell.com/meditation-teacher/)，知道在那樣急於尋求生命解答狀態的自己，非常容易被看似給予你希望的人所左右；而我不希望自己在沒有完整的地圖的情況下，就鼓勵別人嘗試，讓他們被丟到一個自己無法分辨的脆弱情境裡．但是如果你也在靈性追求的路上，我想跟你說，必須**傾聽你內心（而不是你腦袋）的聲音，才在對別有意圖的人感到恐懼的時候，有意識地拒絕讓自己陷入危險情境裡．並在幫助你的人出現的時候、勇敢地踏出接受幫助的那一步**．
+至於這些靈性體驗是什麼，我還沒有準備好分享．一是因這些體驗本質上是不能被被理性思維所理解的，所以再怎麼用語言描述都是枉然．二是因為我曾[經歷過一段過度詮釋象徵的階段](/meditation-teacher/)，知道在那樣急於尋求生命解答狀態的自己，非常容易被看似給予你希望的人所左右；而我不希望自己在沒有完整的地圖的情況下，就鼓勵別人嘗試，讓他們被丟到一個自己無法分辨的脆弱情境裡．但是如果你也在靈性追求的路上，我想跟你說，必須**傾聽你內心（而不是你腦袋）的聲音，才在對別有意圖的人感到恐懼的時候，有意識地拒絕讓自己陷入危險情境裡．並在幫助你的人出現的時候、勇敢地踏出接受幫助的那一步**．
 
 ### 從模仿、競爭與嫉妒到走出自己的路
 
@@ -423,7 +423,7 @@ The Artist Way 是一個以12週的自我探索為核心書籍，每週除了以
 
 ---
 
-![](/images/posts/%E5%8F%B0%E7%81%A3%E8%A3%BD%E9%80%A0%E5%9C%96%E7%A4%BA%E7%89%88-642x1024-ml9a.avif)
+![](/images/posts/taiwan-made-cover-642x1024-ml9a.avif)
 
 *嗨，我在寫[《臺灣製造》](https://angiecreates.io/books/)，一本記錄了我在台美文化衝擊、數位遊牧和成為母親的過程中，一路上和冒牌者對抗並選擇成為真正自我之路的回憶錄．*
 
@@ -431,4 +431,4 @@ The Artist Way 是一個以12週的自我探索為核心書籍，每週除了以
 
 *如果你對我的書有興趣，歡迎訂閱我的電子報唷！*
 
-<div style="display: flex; justify-content: center; margin: 40px 0;"><iframe src="/images/posts/embed.jpg" width="480" height="120" style="border:1px solid #EEE; border-radius: 4px;" frameborder="0" scrolling="no"></iframe></div>
+![](/images/posts/embed.jpg)

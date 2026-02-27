@@ -7,11 +7,11 @@ author: "Angie Wang"
 image: "/images/posts/Serena-IG1.jpg"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "女性創業與健身 Female Entrepreneurship and Training"
+  - "健身與運動醫學"
+  - "女性創業與健身"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/6ffda58d" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/6ffda58d" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 本集是牙醫師轉瑜珈老師的楊祖寧的訪談上集，這集祖寧與我們分享他怎麼從牙醫這個領域踏入瑜珈，他將在下集帶我們認識冥想和疼痛這兩個主題． 我們在這裡聊到他在轉到瑜珈個過程中對自己生命經驗的重新認識，和與家人的關係演變。如果你也正在摸索如何打造一個不同於傳統社會金字塔地職涯，相信你一定會對這一集非常有共鳴。
@@ -20,9 +20,9 @@ categories:
 
 楊祖寧 Serena [Serena yoga](https://www.facebook.com/groups/741587392643133/) 是一名牙醫及私人瑜伽老師，他致力於致培養更多專業老師，期望讓身心動作教育以及身心靈的概念可以不再那麼玄妙、難以理解，可以非常落地而簡單的被理解與實踐，並受到更多台灣人的重視．今天訪談Serena 會分享從牙醫轉行到瑜珈老師的過程，他對於冥想、身心靈健康、瑜伽的想法．
 
-<iframe src="/images/posts/45--ft--Serena-Yoga-ej539u.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/45--ft--Serena-Yoga-ej539u.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 ## **祖寧訪談 Highlights**：
 
@@ -38,9 +38,9 @@ categories:
 
 **Connect with us!**
 
--   加入好奇槓鈴Email [https://curiousbarbell.com/subscribe/](https://curiousbarbell.com/subscribe/)
--   好奇槓鈴IG [https://www.instagram.com/curiousbarbell/](https://www.instagram.com/curiousbarbell/)
--   Facebook [https://www.facebook.com/curiousbarbell/](https://www.facebook.com/curiousbarbell/)
+-   加入好奇槓鈴Email [https://mit886.substack.com/](https://mit886.substack.com/)
+-   好奇槓鈴IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
+-   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
 -   Serena yoga [https://reurl.cc/lLAVAq](https://reurl.cc/lLAVAq)
 -   Fb page [https://www.facebook.com/serenaprivateyoga/](https://www.facebook.com/serenaprivateyoga/)
 -   Fb group for yoga and somatic movement teachers [https://www.facebook.com/groups/yogateachergrowth/](https://www.facebook.com/groups/yogateachergrowth/)

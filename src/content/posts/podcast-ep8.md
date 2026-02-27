@@ -7,19 +7,19 @@ author: "Angie Wang"
 image: "/images/posts/Martin-Youtube-Cover.png"
 categories:
   - "Podcast"
-  - "海外留學工作 Overseas Research and Careers"
+  - "海外留學"
 tags:
-  - "海外留學工作"
+  - "海外留學"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/41ec42d6" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/41ec42d6" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 Martin Chiang 曾以一個月考取美國健身教練四大進階證照在PTT跟台灣健身教練界引起一陣炫風．他大學時期在台大念生或科技學系、並且創立台大健身美體社社長，畢業後在紐約哥倫比亞大學攻讀運動生理學碩士，擁有有美國頂尖連鎖健身房Equinox和Life Time Athletic的工作經驗，現在是曼哈頓Life Time Athletic at Sky的運動生理分析師與教練．
 
-<iframe src="/images/posts/EP8-e9v5mj.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/EP8-e9v5mj.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 在本集中我們討論到：
 

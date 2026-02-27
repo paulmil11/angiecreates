@@ -6,8 +6,8 @@ author: "Angie Wang"
 image: "/images/posts/Jess-IG.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "女性創業與健身 Female Entrepreneurship and Training"
+  - "健身與運動醫學"
+  - "女性創業與健身"
   - "訓練精神喊話"
 tags:
   - "健康教練"
@@ -15,7 +15,7 @@ tags:
   - "女性創業"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/0ca829a5" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/0ca829a5" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 Jessica Lin是The Foodie Fitness 享吃吧的創辦人，她在本集中與我們分享從台灣到加拿大的人生轉變、對創業與健康的想法，以及怎麼進行自己的人生目標探索：
@@ -24,9 +24,9 @@ Jessica Lin是The Foodie Fitness 享吃吧的創辦人，她在本集中與我�
 
 ## Listen To The Episode / Subscribe Links
 
-<iframe src="/images/posts/29--ft---The-Foodie-Fitness-Jessica-ecqpfs.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/29--ft---The-Foodie-Fitness-Jessica-ecqpfs.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 ## Highlights of the Episode
 
@@ -51,7 +51,7 @@ Jessica Lin是The Foodie Fitness 享吃吧的創辦人，她在本集中與我�
 
 **了解更多：**
 
--   好奇槓鈴未來活動  [https://curiousbarbell.com/events/](https://curiousbarbell.com/events/)
--   Facebook [https://www.facebook.com/curiousbarbell/](https://www.facebook.com/curiousbarbell/)
--   IG [https://www.instagram.com/curiousbarbell/](https://www.instagram.com/curiousbarbell/)
--   E-mail: [curiousbarbell@gmail.com](mailto:angie@curiousbarbell.com)
+-   好奇槓鈴未來活動  [/blog/](/blog/)
+-   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
+-   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)

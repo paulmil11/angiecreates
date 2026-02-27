@@ -8,19 +8,19 @@ image: "/images/posts/EP3.-Youtube-cover-Jennifer.png"
 categories:
   - "Podcast"
   - "人生人蔘"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "女性創業與健身 Female Entrepreneurship and Training"
+  - "健身與運動醫學"
+  - "女性創業與健身"
   - "訓練精神喊話"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/1b9f2396" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/1b9f2396" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 珍珍教練從台大工商管理系畢業、過去曾在知名跨國企業P&G寶僑工作，我們在本集一起討論關於轉職健身教練這檔事：為什麼我們選擇轉職、如何進行轉職時不同職涯選項的探索．以及在正式轉職後，健身教練這份工作的之於我們的意義與轉變．我們了解到轉職只是開啟一個方向的道路，在這個道路上你還是會有無數個抉擇、還是有不確定性、還是會徬徨．
 
-<iframe src="/images/posts/EP3-callingpathless-path-e92ng3.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/EP3-callingpathless-path-e92ng3.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 因此，如轉職這樣的轉換並不是人生道路上「靠勇氣做抉擇就可以從此人生完美」的跳火圈式的、一次性的英雄式犧牲、而是透過克服完美主義、不斷的實驗並持續探索人生新方向的過程．
 
@@ -38,8 +38,8 @@ categories:
 Contacts:
 
 -   Facebook & IG搜尋: Curious Barbell
--   Website: curiousbarbell.com
--   E-mail: [angie@curiousbarbell.com](mailto:angie@curiousbarll.com)
+-   Website: angiecreates.io
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
 
 你也可以在以下平台收聽Curious Barbell的節目：
 

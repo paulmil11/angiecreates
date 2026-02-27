@@ -6,7 +6,7 @@ rawDate: "2021-10-18 15:28:31"
 author: "Angie Wang"
 image: "/images/posts/chris-montgomery-smgTvepind4-unsplash-1-scaled-1.jpg"
 categories:
-  - "做自己的健身教練課程"
+  - "做自己的健身教練"
 ---
 
 2021年「做自己的健身教練」完整學期制課程正式上線！開設這門給健身愛好者的完整進階訓練知識課程完成了我從科技業轉職健身教練一直以來的心願，也是我經營好奇槓鈴Podcast的自媒體數位遊牧重大里程碑．
@@ -30,7 +30,7 @@ categories:
 
 這門課有: (1) 17個小時、系統化學會進階健身知識預錄影片課程 (2) 每兩週進行一次、共四次的線上團體教學與QA討論時間 (Live Sessions)．Live Sessions 為期2個月，所有購買課程的學生都有一年整年無限次觀看課程的權限．
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/images/posts/%E5%81%9A%E8%87%AA%E5%B7%B1%E7%9A%84%E5%81%A5%E8%BA%AB%E6%95%99%E7%B7%B4%E8%AA%B2%E7%A8%8B-Youtube-Cover-1024x576.png" alt="做自己的健身教練課程 " class="wp-image-3547" width="768" height="432"><figcaption>做自己的健身教練完整版文宣</figcaption></figure></div>
+![做自己的健身教練完整版文宣](/images/posts/fitness-coach-course-youtube-cover.png)
 
 ## 為什麼要辦健身線上課程？
 

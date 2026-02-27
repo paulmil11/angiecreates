@@ -6,7 +6,7 @@ rawDate: "2019-10-13 09:36:19"
 author: "Angie Wang"
 image: "/images/posts/deadlift2.jpeg"
 categories:
-  - "Training Note 訓練筆記"
+  - "訓練筆記"
 tags:
   - "periodization"
   - "powerlifting"
@@ -17,7 +17,7 @@ tags:
 
 *想知道來自教練和醫療專業人員的訓練專業知識？馬上訂閱好奇槓鈴Podcast!*
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 <div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:50.00000%"><figure class="tiled-gallery__item"><img alt="" data-height="333" data-id="5629" data-link="https://gymefit.tw/?attachment_id=5629" data-url="https://gymefit.tw/wp-content/uploads/2019/09/squat.jpeg" data-width="500" src="/images/posts/squat.jpeg" data-amp-layout="responsive"></figure></div><div class="tiled-gallery__col" style="flex-basis:50.00000%"><figure class="tiled-gallery__item"><img alt="" data-height="333" data-id="5631" data-link="https://gymefit.tw/?attachment_id=5631" data-url="https://gymefit.tw/wp-content/uploads/2019/09/bench-1.jpeg" data-width="500" src="/images/posts/bench-1.jpeg" data-amp-layout="responsive"></figure></div></div></div></div>
 
@@ -61,13 +61,13 @@ tags:
 
 ### **除了健力三項，輔助動作也很重要！**
 
-曾經有一位訓練超過一年一上、以健力三項為目標的學員詢問，為什麼上課不是狂練深蹲、硬舉、臥推主要動作就好，硬舉變強還要加入划船等練背的動作，槓鈴握推還要練啞鈴胸推、[伏地挺身](https://curiousbarbell.com/podcast-ep18/)這些好像沒有太直接關聯的項目？
+曾經有一位訓練超過一年一上、以健力三項為目標的學員詢問，為什麼上課不是狂練深蹲、硬舉、臥推主要動作就好，硬舉變強還要加入划船等練背的動作，槓鈴握推還要練啞鈴胸推、[伏地挺身](/podcast-ep18/)這些好像沒有太直接關聯的項目？
 
 如果你的目標是拉高健力三項的成績，這三項要能破PR，很大部分視你可以把在做這三項不足的弱點補強多少而定．以下面這張硬舉使用到的肌肉解剖圖硬舉需要的除了下肢的肌力外，還需要你有夠強大的背闊、穩定的肩胛、堅固的核心來支撐，沒有這三樣東西的輔助，在狂練腿不練背、上下肢與核心肌力不平衡的情況下做硬舉，你可能可以因為超強腿力將大重量離地，但撐不起相對重量的核心、無法讓你穩固緊繃的背闊與失去穩定的肩胛，可能讓你在舉起重量的過程中造成核心崩塌、甚至受傷的情況！
 
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img src="/images/posts/image-1-7too.png" alt="" class="wp-image-5639" width="462" height="342"></figure></div>
 
-所以除了3個主要的健力動作外，你應該要錄影、做紀錄，不只是以今天的感覺去練，而是清楚的掌握自己的狀況．知道自己在第幾下、第幾組的時候失敗、失敗的可能因素有哪些．了解自己的狀況後，你才能進一步去依各個輔助性訓練的訓練肌群與目的，挑選應該做的輔助訓練，針對缺乏活動度的部分去做[筋膜放鬆](https://curiousbarbell.com/podcast-ep20/)、靜態伸展與活動度訓練，針對[肌力不平衡](https://curiousbarbell.com/podcast-ep14/)的肌群作訓練，甚至[改善你的呼吸模式](https://curiousbarbell.com/podcast-ep11/)，讓整體的狀況提升後，才能在安全不受傷的的情況下達成個人階段性的最佳目標．
+所以除了3個主要的健力動作外，你應該要錄影、做紀錄，不只是以今天的感覺去練，而是清楚的掌握自己的狀況．知道自己在第幾下、第幾組的時候失敗、失敗的可能因素有哪些．了解自己的狀況後，你才能進一步去依各個輔助性訓練的訓練肌群與目的，挑選應該做的輔助訓練，針對缺乏活動度的部分去做[筋膜放鬆](/podcast-ep20/)、靜態伸展與活動度訓練，針對[肌力不平衡](/podcast-ep14/)的肌群作訓練，甚至[改善你的呼吸模式](/podcast-ep11/)，讓整體的狀況提升後，才能在安全不受傷的的情況下達成個人階段性的最佳目標．
 
 參考資訊：
 

@@ -25,7 +25,7 @@ tags:
 
 2006年，Julie Rice跟Elizabeth在紐約創建他們理想中的飛輪工作室SoulCycle時，當時僅有的資金只夠租一間紐約上西區一間原殯儀館的舊址，並且沒有多餘的行銷預算．2011年，SoulCycle被Equinox收購．2016年，兩人正式辭離SoulCycle的那天，各抱回了9000萬美金回家．2019年，[SoulCycle](https://www.soul-cycle.com/)已是在北美及英國有92個據點的精品飛輪品牌．
 
-<div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=Z-DKmQUKA0M</div>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Z-DKmQUKA0M" frameborder="0" allowfullscreen></iframe>
 
 Video Credit: [Sound by SoulCycle](https://www.youtube.com/watch?v=Z-DKmQUKA0M&feature=youtu.be)
 

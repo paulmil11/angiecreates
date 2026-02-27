@@ -7,24 +7,24 @@ author: "Angie Wang"
 image: "/images/posts/EP6_-Youtube-Cover-Candice-Tsui.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "女性創業與健身 Female Entrepreneurship and Training"
-  - "海外留學工作 Overseas Research and Careers"
+  - "健身與運動醫學"
+  - "女性創業與健身"
+  - "海外留學"
 tags:
-  - "podcast"
+  - "Podcast"
   - "singapore"
   - "vaga wellness"
   - "wellness coaching"
   - "健身"
-  - "海外留學工作"
+  - "海外留學"
   - "音頻"
 ---
 
-<div class="wp-block-embed__wrapper">https://youtu.be/OKuSgL3q2FA</div>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/OKuSgL3q2FA" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="/images/posts/6---e9j9nl.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/6---e9j9nl.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 Candice Tsuei 是新加坡Vaga Wellness 的創辦人，她在台灣出生、加拿大長大，並在新加坡創業，擁有不同文化的教育與工作經驗．Candice因為在新創忙碌工作時對於自己健康問題的意識，開始轉職到健康領域．在這個非常有趣、多元面向的訪談裡，我們談到：
 
@@ -40,7 +40,7 @@ Candice Tsuei 是新加坡Vaga Wellness 的創辦人，她在台灣出生、加�
 
 ## **Listen Here:**
 
-<iframe src="/images/posts/a-a16c2l6.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/a-a16c2l6.jpg)
 
 ## 在其他下平台收聽：
 
@@ -61,4 +61,4 @@ Candice Tsuei 是新加坡Vaga Wellness 的創辦人，她在台灣出生、加�
 ## Follow:
 
 -   Facebook & IG搜尋: Curious Barbell
--   E-mail: [angie@curiousbarbell.com](mailto:angie@curiousbarbell.com)
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)

@@ -4,8 +4,7 @@ date: "April 6, 2022"
 rawDate: "2022-04-06 21:59:56"
 author: "Angie Wang"
 image: "/images/posts/137225551_4238366022856800_4031443669413874286_n-1.jpg"
-categories:
-  - "Uncategorized"
+categories: []
 ---
 
 Can you proudly tell people you are thriving? Or do you feel powerless to create the life you want? If you sadly identify with the latter, I propose that you start trying a creative activity. Why? Because through engaging with these creative activities, you will be able to connect with your creative power and further propel the change you need in life.
@@ -43,7 +42,7 @@ Looking straight into the eyes of my opponent as if the whole world has stopped,
 >   
 > Friends in Austin come play with me! [pic.twitter.com/5UxbrIZ7ej](https://t.co/5UxbrIZ7ej)
 > 
-> — Angie Wang (@curiousbarbell) [April 5, 2022](https://twitter.com/curiousbarbell/status/1511157706551398408?ref_src=twsrc%5Etfw)
+> — Angie Wang (@angieeecreates) [April 5, 2022](https://x.com/angiewangcreate/status/1511157706551398408?ref_src=twsrc%5Etfw)
 
 When I am caught under a kick from my opponent, I’m faced with endless ways to escape the attack. But in a millisecond, I will find myself intuitively performing a movement sequence as if an invisible force is guiding my body. Instead of moving “inside” my body, I look at my body moving across the space from outside as if I was part of the cheering crowd. I witness myself creating a mystical flow of movement that is impossible to plan.
 

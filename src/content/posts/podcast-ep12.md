@@ -4,22 +4,22 @@ description: "你曾經考慮攻讀過運動管理的研究所、好奇研究所
 date: "January 31, 2020"
 rawDate: "2020-01-31 03:32:04"
 author: "Angie Wang"
-image: "/images/posts/EP12-Youtube%E5%BC%B5%E5%AE%B6%E6%A6%AE.png"
+image: "/images/posts/ep12-youtube.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
+  - "健身與運動醫學"
 tags:
   - "研究所"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/bbbd7db9" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/bbbd7db9" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 張家榮大學就讀台大的工商管理學系，在台大完成了運動設施與健康管理碩士後，現在除了在師大的運動休閒與餐旅管理攻讀博士外，現在也是宜蘭國民運動中心的執行長．
 
-<iframe src="/images/posts/12----eai2ti.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/12----eai2ti.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 家榮在這次訪談中毫不藏私的分享到：
 
@@ -56,7 +56,7 @@ tags:
 Contacts:
 
 -   Facebook & IG搜尋: Curious Barbell
--   E-mail: [angie@curiousbarbell.com](mailto:angie@curiousbarbell.com)
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
 
 在其他下平台收聽：
 

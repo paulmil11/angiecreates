@@ -7,7 +7,7 @@ author: "Angie Wang"
 image: "/images/posts/WhatsApp-Image-2020-12-26-at-9.21.29-PM.jpeg"
 categories:
   - "人生人蔘"
-  - "冥想 Meditation"
+  - "冥想"
 tags:
   - "冥想"
 ---

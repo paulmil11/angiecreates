@@ -7,21 +7,21 @@ author: "Angie Wang"
 image: "/images/posts/Podcast-IG-Template-1-6a53.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "女性創業與健身 Female Entrepreneurship and Training"
+  - "健身與運動醫學"
+  - "女性創業與健身"
   - "訓練精神喊話"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/6ee01c72" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/6ee01c72" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 曾郁嫻老師是運動員、也是台大教授，在台大開設運動與性別及籃球、重訓等多門運動課程．他曾到全美大學體育協會（NCAA）實行，並執行全球運動督導計畫（GSMP）的女力We Can 專案系列計畫．
 
 ![](/images/posts/Podcast-IG-Template-1.png)
 
-<iframe src="/images/posts/EP31-ft-edeps6.jpg" height="102px" width="400px"></iframe>
+![](/images/posts/EP31-ft-edeps6.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 ### 本集我們探討：
 
@@ -45,11 +45,11 @@ categories:
 
 **Connect with us!**
 
--   加入好奇槓鈴Email [https://curiousbarbell.com/subscribe/](https://curiousbarbell.com/subscribe/)
--   IG [https://www.instagram.com/curiousbarbell/](https://www.instagram.com/curiousbarbell/)
--   Facebook [https://www.facebook.com/curiousbarbell/](https://www.facebook.com/curiousbarbell/)
--   官網 [https://curiousbarbell.com](https://curiousbarbell.com/)
--   E-mail: [curiousbarbell@gmail.com](mailto:angie@curiousbarbell.com)
+-   加入好奇槓鈴Email [https://mit886.substack.com/](https://mit886.substack.com/)
+-   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
+-   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
+-   官網 [https://angiecreates.io](https://angiecreates.io)
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
 
 **在其他平台上收聽：**
 

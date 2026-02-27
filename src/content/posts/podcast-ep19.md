@@ -7,22 +7,22 @@ author: "Angie Wang"
 image: "/images/posts/EP19-YT.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "運動健身訓練知識 Sports Science"
-  - "運動訓練與傷害防護Athletic Training and Sports Injuries"
+  - "健身與運動醫學"
+  - "運動科學"
+  - "運動傷害防護"
 tags:
   - "物理治療"
   - "運動防護"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/4b9c9ef0" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/4b9c9ef0" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 今天我們邀請到來賓是張耘齊運動物理治療師aka黑熊．黑熊現在是陽明大學物理治療博士班的學生，他有豐富的運動競賽隨隊經驗，現在也是輔仁大學體育系的兼任講師與運動防護中心的專職物理治療師．黑熊將在本集分享他在運動物理治療的經驗、並在第20集討論筋膜研究與訓練的主題．
 
-<iframe src="/images/posts/19-ft-ebfful.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/19-ft-ebfful.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 本集黑熊分享：
 
@@ -52,5 +52,5 @@ tags:
 了解更多:
 
 -   Facebook & IG搜尋: Curious Barbell
--   Website: curiousbarbell.com
--   E-mail: [angie@curiousbarbell.com](mailto:angie@curiousbarbell.com)
+-   Website: angiecreates.io
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)

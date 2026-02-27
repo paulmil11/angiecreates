@@ -6,19 +6,18 @@ rawDate: "2020-08-02 16:36:59"
 author: "Angie Wang"
 image: "/images/posts/daniel-zjV8ptYgcEo-unsplash-scaled-1.jpg"
 categories:
-  - "Uncategorized"
   - "訓練精神喊話"
-  - "運動健身訓練知識 Sports Science"
-  - "閱讀＆Podcast 推薦 Book and Podcast Recommendation"
+  - "運動科學"
+  - "閱讀推薦"
 ---
 
 你也在探索健身重訓的道路上嗎？好奇槓鈴幫你整理了過去Podcast來賓推薦和其實用的訓練資源，讓你探索的路上效率加倍！當然好奇槓鈴也不斷推出關於訓練知識和職涯的訪談，別忘了在下方訂閱收聽唷！
 
 **＊文章陸續更新中，建議收藏到書籤方便查看唷！**
 
-<iframe src="/images/posts/embed-n98g.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/embed-n98g.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 ## **心志鍛練**
 

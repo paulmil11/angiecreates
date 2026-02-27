@@ -6,7 +6,7 @@ author: "Angie Wang"
 image: "/images/posts/brett-jordan-D44kHt8Ex14-unsplash-scaled-1.jpg"
 categories:
   - "人生人蔘"
-  - "數位遊牧 Digital Nomad"
+  - "數位遊牧"
 ---
 
 2019年，我因為熱愛重訓，放棄哥倫比亞大學學歷必進的高薪穩定的科技業工作，轉職健身教練．2021的現在，我在花蓮數位遊牧，依有著蔚藍海景與油亮棕梠樹的窗邊，寫下這篇文章．這一切現在看起來理所當然的生活光景，卻是如果當初留在科技業的話，大概不會達到的夢想．
@@ -39,7 +39,7 @@ categories:
 
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/images/posts/brett-jordan-D44kHt8Ex14-unsplash-1024x768.jpg" alt="self-reflection" class="wp-image-3590" width="768" height="576"><figcaption>我們該問得不是「這個機會有多好？」，而是「我們到底是誰？」</figcaption></figure></div>
 
-當我聽到這個問題時，我感覺像被閃電擊中一樣、一股強烈的電流一樣流過我的身體！「如果我我今天沒有這個金融專案，我願意花多捨代價獲得它？」答案是「0」，我不會投資任何一毛錢、耗費任何一個力氣或呼吸去爭取這個工作．在那個時候，雖然還不知道自己未來會朝哪個方向去，但我心裡已經很清楚的知道，我已經沒有待在原工作的任合理由，剩下的只是默默的等時間的醞釀，等著[情緒、機緣的來臨](https://curiousbarbell.com/tech-to-coach-career-transition/)．
+當我聽到這個問題時，我感覺像被閃電擊中一樣、一股強烈的電流一樣流過我的身體！「如果我我今天沒有這個金融專案，我願意花多捨代價獲得它？」答案是「0」，我不會投資任何一毛錢、耗費任何一個力氣或呼吸去爭取這個工作．在那個時候，雖然還不知道自己未來會朝哪個方向去，但我心裡已經很清楚的知道，我已經沒有待在原工作的任合理由，剩下的只是默默的等時間的醞釀，等著[情緒、機緣的來臨](/tech-to-coach-career-transition/)．
 
 在看職涯選擇時，我們很容易被「現狀偏差（status quo bias)」所綁架，也就是我們只能以現狀為基準思考，任何偏離現狀的可能性好像都變成一種損失．但是當我們回到最原始的狀態來看，反而更能從更內心的深處來觀照現在這個人生選擇，到底是不是我們真心渴望的．
 

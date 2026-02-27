@@ -7,12 +7,12 @@ author: "Angie Wang"
 image: "/images/posts/IMG_4551-e1632321699235.jpg"
 categories:
   - "人生人蔘"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "女性創業與健身 Female Entrepreneurship and Training"
-  - "數位遊牧 Digital Nomad"
+  - "健身與運動醫學"
+  - "女性創業與健身"
+  - "數位遊牧"
 ---
 
-自從去年農曆過年開始準備遊牧的各種事項：賣傢俱、打疫苗、收行李、搬離台北回台中和家中兩老說再見，到現在在台中完成這篇回顧時，自西班牙、美國、墨西哥遊牧也差不多將近一年了．雖然說自從30歲那年決定[從科技業轉職當健身教練](https://curiousbarbell.com/tech-to-coach-career-transition/)後人生變動的劇烈程度大概是有生之最，但開始數位遊牧的 2020年又創了另一個新的巔峰，除了因為podcast 讓我認識了改變我人許多改變我對人生想像的好友外（謝謝你們！），也意外在西班牙創了[運動科學海外人社團](https://www.facebook.com/groups/666490810818917/) 、回到美國後和在澳洲Wei教練辦了第一場的[「做自己的健身教練課程」](https://curiousbarbell.com/courses/)的先導工作坊．一直到後來到經歷burnt out、在水壩露營區的營火中找回初衷，並在墨西哥的海邊小鎮開始冥想的[曼陀羅繪畫](https://www.instagram.com/meditativecreation/)，和在[Movement Mexico](https://www.instagram.com/movement__mexico/)找到現階段最適合自己的訓練形式．
+自從去年農曆過年開始準備遊牧的各種事項：賣傢俱、打疫苗、收行李、搬離台北回台中和家中兩老說再見，到現在在台中完成這篇回顧時，自西班牙、美國、墨西哥遊牧也差不多將近一年了．雖然說自從30歲那年決定[從科技業轉職當健身教練](/tech-to-coach-career-transition/)後人生變動的劇烈程度大概是有生之最，但開始數位遊牧的 2020年又創了另一個新的巔峰，除了因為podcast 讓我認識了改變我人許多改變我對人生想像的好友外（謝謝你們！），也意外在西班牙創了[運動科學海外人社團](https://www.facebook.com/groups/666490810818917/) 、回到美國後和在澳洲Wei教練辦了第一場的[「做自己的健身教練課程」](/blog/)的先導工作坊．一直到後來到經歷burnt out、在水壩露營區的營火中找回初衷，並在墨西哥的海邊小鎮開始冥想的[曼陀羅繪畫](https://www.instagram.com/meditativecreation/)，和在[Movement Mexico](https://www.instagram.com/movement__mexico/)找到現階段最適合自己的訓練形式．
 
 而這一切都在從單身踏入婚姻的新婚狀態、在全球疫情中同時在世界不同角落不斷遷移的過程中發生！今天這篇是個非常長的回顧，希望能藉由我的經歷，給同在訓練與作為solopreneur (自雇者）的紅塵中打滾的大家一些鼓勵．
 
@@ -39,7 +39,7 @@ categories:
 
 雖然後來在Puerto Escondido 找到了我的社群，但漸漸地我也才理解，是自己把數位遊牧社群想像的太單一了，我忘了不管是種族、文化還是特定生活形式的事情，同質性本來就是自己想像出來的；每個人都是獨特的個體，那些曾經遇過的美好人類之所以美好是因「他們是誰」，而不是因為他們是digital nomad．也因此，我學會了不要對生活抱有太僵化的期待，也真正懂得珍惜那些一路上遇到的那些獨特的美好靈魂．
 
-<iframe title="vimeo-player" src="/images/posts/446392613.jpg" width="640" height="360" frameborder="0" allowfullscreen=""></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/446392613" width="100%" height="360" frameborder="0" allowfullscreen></iframe>
 
 （附上我們游牧滿月時，在Canary的[Co-living CWC](https://www.repeople.co/en/coliving/) 分享游牧原因的影片）
 
@@ -114,6 +114,6 @@ categories:
 
 因此今年，還有往後人生的每一年每一日每一刻，最重要的任務都是學會在人生所有情境裡，「不管做什麼，一定要好玩！」．
 
-<div class="wp-block-embed__wrapper">https://www.instagram.com/p/CKqGm6EsKUc/</div>
+[Instagram 貼文](https://www.instagram.com/p/CKqGm6EsKUc/)
 
 非常努力地不要讓曼陀羅石頭的樂趣也變成「不好玩」的「工作」

@@ -6,25 +6,25 @@ author: "Angie Wang"
 image: "/images/posts/Jeff-YT-1.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "肌力與體能訓練 Strength &amp; Conditioning"
-  - "運動健身訓練知識 Sports Science"
+  - "健身與運動醫學"
+  - "肌力與體能訓練"
+  - "運動科學"
 tags:
   - "S&amp;C"
   - "校隊訓練"
   - "肌力與體能訓練"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/e63f449b" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/e63f449b" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 Jeff 陳玠言教練曾在台北私人工作室GYMEFIT擔任私人教練，之後他在結合物理治療的訓練中心運動前線Sportsline與賦能運動科學擔任肌力與體能教練，並且有在多項運動擔任教練．Jeff現在是大台北地區的自由教練．今天Jeff與我們分享他關於運動員肌力與體能訓練的經驗：
 
 ![](/images/posts/Jeff-YT.png)
 
-<iframe src="/images/posts/25--ft--Jeff-Chen-ecd00q.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/25--ft--Jeff-Chen-ecd00q.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 本集我們聊到：
 
@@ -51,9 +51,9 @@ Jeff 陳玠言教練曾在台北私人工作室GYMEFIT擔任私人教練，之�
 
 追蹤聯絡好奇槓鈴:
 
--   Facebook [https://www.facebook.com/curiousbarbell/](https://www.facebook.com/curiousbarbell/)
--   IG [https://www.instagram.com/curiousbarbell/](https://www.instagram.com/curiousbarbell/)
--   E-mail: [curiousbarbell@gmail.com](mailto:angie@curiousbarbell.com)
+-   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
+-   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
 
 在其他平台聆聽：
 

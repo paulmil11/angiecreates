@@ -7,22 +7,22 @@ author: "Angie Wang"
 image: "/images/posts/youtube-orson.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
+  - "健身與運動醫學"
 tags:
-  - "podcast"
+  - "Podcast"
   - "自由教練"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/682c16bb" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/682c16bb" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 你對教練工作感到心動嗎？你也因為台灣社會對於崇文重於崇武的體育想像對發展相關職涯感到猶豫嗎？你想知道自由教練生活型態是什麼樣子嗎？那你一定要來聽聽Orson教練的分享！
 
 Orson Lee曾擔任World Gym大安店的管理職位，在轉為自由健身教練前，他也曾是露營地及民宿的主人．今天我們會來跟Orson聊聊他從連鎖健身房全台前5%業績的教練，變成現在當自由教練的工作與生活型態差異、他其他產業的工作體驗和作為自由教練的發展建議．
 
-<iframe src="/images/posts/10-ea82ls.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/10-ea82ls.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 本集中我們聊到：
 
@@ -46,8 +46,8 @@ Orson 教練IG: [https://www.instagram.com/orsonleekeepfit/](https://www.instagr
 Contacts:
 
 -   Facebook & IG搜尋: Curious Barbell
--   Website: curiousbarbell.com
--   E-mail: [angie@curiousbarbell.com](mailto:angie@curiousbarbell.com)
+-   Website: angiecreates.io
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
 
 在其他下平台收聽：
 

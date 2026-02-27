@@ -6,7 +6,7 @@ rawDate: "2019-08-17 12:32:48"
 author: "Angie Wang"
 image: "/images/posts/fitness-goal-setting.jpeg"
 categories:
-  - "Training Note 訓練筆記"
+  - "訓練筆記"
   - "訓練精神喊話"
 ---
 

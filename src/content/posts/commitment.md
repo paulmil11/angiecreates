@@ -4,8 +4,7 @@ date: "October 13, 2022"
 rawDate: "2022-10-13 03:11:01"
 author: "Angie Wang"
 image: "/images/posts/felipe-salgado-uC8lqij22mE-unsplash.jpg"
-categories:
-  - "Uncategorized"
+categories: []
 ---
 
 ### The uncertainty of being a solo creator

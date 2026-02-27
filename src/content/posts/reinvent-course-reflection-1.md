@@ -7,7 +7,7 @@ author: "Angie Wang"
 image: "/images/posts/conversation-under-tree.jpeg"
 categories:
   - "人生人蔘"
-  - "閱讀＆Podcast 推薦 Book and Podcast Recommendation"
+  - "閱讀推薦"
 ---
 
 經過轉職快一年，我開始反思這一年所經歷過的轉變與未來的方向，為了讓這些思緒不會像浮雲流水一般走過不留痕跡並化為可實踐的行動，我加入了Paul的[Reinvent: Life & Work Beyond The Default Path](https://reinvent.think-boundless.com/courses/reinvent-course)的線上課程，期待透過跟世界各地的人進行連結並一起為各自人人生做些什麼．今天第一次課程結束後思緒大爆發深覺不能不分享啊！以下就是上課到現在的心得～

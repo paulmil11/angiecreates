@@ -5,17 +5,17 @@ rawDate: "2020-04-13 20:57:22"
 author: "Angie Wang"
 categories:
   - "Podcast"
-  - "海外留學工作 Overseas Research and Careers"
+  - "海外留學"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/f8bac2f3" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/f8bac2f3" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 ＊本次訪談為好奇槓鈴第一次線上LIVE錄影訪談的音檔版，有包括美國和歐洲運動科學的教授與博班學生等多人參與訪談及Q&A！EP28為Sam的道博班申請經驗分享，想知道公費申請內容，請收聽EP27! 影片檔請到youtube 收看唷！Sam Chen 陳林生今年暑假即將去美國UT-Austin攻讀運動生理博士，也是教育部公費留學獎學金-運動與健康學門的108獲獎者。
 
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="/images/posts/Sam-WP28-1.png" alt="" class="wp-image-2895"></figure></div>
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 本集Sam 分享：
 
@@ -32,11 +32,11 @@ categories:
 
 \[運動科學海外留學生活資源\]
 
--   訂閱最新活動訊息 [https://curiousbarbell.com/subscribe/](https://curiousbarbell.com/subscribe/)
--   運動科學海外人交流網絡 [https://curiousbarbell.com/overseas/](https://curiousbarbell.com/overseas/)
+-   訂閱最新活動訊息 [https://mit886.substack.com/](https://mit886.substack.com/)
+-   運動科學海外人交流網絡 [/blog/](/blog/)
 -   四月份線上meet-up [https://www.facebook.com/events/1121129544906245/](https://www.facebook.com/events/1121129544906245/)
 -   FB社團 [https://www.facebook.com/groups/666490810818917/](https://www.facebook.com/groups/666490810818917/)
--   最新活動 [https://curiousbarbell.com/events/](https://curiousbarbell.com/overseas/)
+-   最新活動 [/blog/](/blog/)
 -   Grad Café [https://www.thegradcafe.com/](https://www.thegradcafe.com/)
 -   Sam FB [https://www.facebook.com/profile.php?id=100000293510339](https://www.facebook.com/profile.php?id=100000293510339)
 -   Email- samas9944@gmail.com
@@ -44,5 +44,5 @@ categories:
 認識好奇槓鈴：
 
 -   Facebook & IG搜尋: Curious Barbell
--   Website: curiousbarbell.com
--   E-mail:curiousbarbell@gmail.com
+-   Website: angiecreates.io
+-   E-mail:angie@angiecreates.io

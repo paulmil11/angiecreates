@@ -1,15 +1,14 @@
 ---
 title: "EP47 健身轉職創業-德國Online Business Coach的觀點 ft. FEM 女創業家與我 Irene Yu"
-description: "<!-- wp:paragraph -->
-<p>你對健身充滿熱情，也想轉職健身產業嗎？你厭倦了在健身房工作，想自己出來當自由教練或當老闆嗎？有什麼事情是你需要考量的呢？本集的來賓是創業教練 Irene Yu，也是女創業家與我Podcast節目的主持人．Irene 2010年離開台灣到歐洲，在柏林跟巴黎念管理碩士，並在柏林科技新創公司工作後，2015辭職創業，Bootstrapping開了一間科技"
+description: "你對健身充滿熱情，也想轉職健身產業嗎？你厭倦了在健身房工作，想自己出來當自由教練或當老闆嗎？有什麼事情是你需要考量的呢？本集的來賓是創業教練 Irene Yu，也是女創業家與我Podcast節目的主持人．Irene 2010年離開台灣到歐洲，在柏林跟巴黎念管理碩士，並在柏林科技新創公司工作後，2015辭職創業，Bootstrapping開了一間科技"
 date: "September 17, 2020"
 rawDate: "2020-09-17 13:04:00"
 author: "Angie Wang"
 image: "/images/posts/Irene-IG.jpg"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "女性創業與健身 Female Entrepreneurship and Training"
+  - "健身與運動醫學"
+  - "女性創業與健身"
 ---
 
 你對健身充滿熱情，也想轉職健身產業嗎？你厭倦了在健身房工作，想自己出來當自由教練或當老闆嗎？有什麼事情是你需要考量的呢？本集的來賓是創業教練 Irene Yu，也是女創業家與我Podcast節目的主持人．Irene 2010年離開台灣到歐洲，在柏林跟巴黎念管理碩士，並在柏林科技新創公司工作後，2015辭職創業，Bootstrapping開了一間科技社群公司。
@@ -18,7 +17,7 @@ categories:
 
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/images/posts/Irene-IG.jpg" alt="" class="wp-image-3391" width="300" height="300"></figure></div>
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 ## 女創業家與我的成立
 

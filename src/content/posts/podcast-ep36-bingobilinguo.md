@@ -7,15 +7,15 @@ author: "Angie Wang"
 image: "/images/posts/Bingo-IG.jpg"
 categories:
   - "Podcast"
-  - "海外留學工作 Overseas Research and Careers"
-  - "運動健身訓練知識 Sports Science"
+  - "海外留學"
+  - "運動科學"
 ---
 
 面對專業的解剖學和運動科學專有名詞英文，你覺得頭痛、不知該如何學起嗎？你也想要把專業的運動科學知識介紹給一般大眾，卻不知道怎麼翻譯生澀難懂的科學論文嗎？好奇槓鈴和專業英文學習品牌 賓狗單字創辦兼主持人賓果/aka Angie台大外文系的好友，帶你一探科學英文學習與翻譯的秘訣!
 
-<iframe src="/images/posts/36-IG--ft-ef9cjs.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/36-IG--ft-ef9cjs.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
   
 在你將學到：

@@ -5,7 +5,7 @@ rawDate: "2019-10-13 09:24:49"
 author: "Angie Wang"
 image: "/images/posts/muaythai.jpeg"
 categories:
-  - "Training Note 訓練筆記"
+  - "訓練筆記"
 tags:
   - "muaythai"
   - "training"

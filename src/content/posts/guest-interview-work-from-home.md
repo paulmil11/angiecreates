@@ -3,8 +3,7 @@ title: "Challenging cultural expectations to live the life you want"
 date: "November 16, 2020"
 rawDate: "2020-11-16 17:45:44"
 author: "Angie Wang"
-categories:
-  - "Uncategorized"
+categories: []
 ---
 
 I was happy to be asked to appear as a guest on the [Working From Home podcast](https://link.chtbl.com/cGJ2uBim) with Nelson Jordan. 

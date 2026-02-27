@@ -4,8 +4,7 @@ date: "April 16, 2022"
 rawDate: "2022-04-16 00:38:59"
 author: "Angie Wang"
 image: "/images/posts/FQW-UuDXsAAjddC.jpeg"
-categories:
-  - "Uncategorized"
+categories: []
 ---
 
 I was running away from shame my entire life. It was not until I made one change that I started to move towards a state of thriving.

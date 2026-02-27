@@ -6,21 +6,21 @@ rawDate: "2021-02-20 10:19:23"
 author: "Angie Wang"
 image: "/images/posts/Youtube-cover-3.jpg"
 categories:
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "女性創業與健身 Female Entrepreneurship and Training"
-  - "海外留學工作 Overseas Research and Careers"
+  - "健身與運動醫學"
+  - "女性創業與健身"
+  - "海外留學"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/045a0bf9" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/045a0bf9" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 今天帶大家到正港三合院鄉鎮，拜訪舉重健力雙棲的力量選手Mia! Mia 是英國運動管理碩士畢業，她在研究所健身房訓練時，被當地教練發現是練武奇材而被引薦到舉重隊，之後更在（不知道自己）手斷掉的情況下拿下英國舉重冠軍！
 
 ![](/images/posts/Youtube-cover-3-1024x576.jpg)
 
-<iframe src="/images/posts/61---ft---Mia-eqltu7.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/61---ft---Mia-eqltu7.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 ## 女力士修理你訪談摘要：
 
@@ -37,6 +37,6 @@ categories:
 
 -   Mia FB: [女子力量實驗室 Ladies’ Strength Lab](https://www.facebook.com/%E5%A5%B3%E5%AD%90%E5%8A%9B%E9%87%8F%E5%AF%A6%E9%A9%97%E5%AE%A4-Ladies-Strength-Lab-107933021030138/) 
 -   Mia IG: [@letmiafixyou](https://www.instagram.com/letmiafixyou/) 
--   加入好奇槓鈴Email [https://curiousbarbell.com/subscribe/](https://curiousbarbell.com/subscribe/) 
--   好奇槓鈴IG [https://www.instagram.com/curiousbarbell/](https://www.instagram.com/curiousbarbell/) 
--   好奇槓鈴Facebook [https://www.facebook.com/curiousbarbell/](https://www.facebook.com/curiousbarbell/)[](https://www.facebook.com/dialog/share?app_id=446611785530020&href=https://anchor.fm/curiousbarbell/episodes/61---ft---Mia-eqltu7&redirect_uri=https://anchor.fm/curiousbarbell/episodes/61---ft---Mia-eqltu7)[](https://twitter.com/intent/tweet?text=Listen%20to%20%22#61%20%E9%82%8A%E9%AA%A8%E6%8A%98%E9%82%8A%E6%8B%BF%E8%8B%B1%E5%9C%8B%E8%88%89%E9%87%8D%E5%86%A0%E8%BB%8D-%E5%9C%A8%E7%94%9F%E5%91%BD%E7%9A%84%E7%9B%A1%E9%A0%AD%E7%9C%8B%E5%88%B0%E8%BD%89%E6%A9%9F%20ft.%20%E5%A5%B3%E5%8A%9B%E5%A3%AB%20Mia%22%20by%20Curious%20Barbell%20%E5%A5%BD%E5%A5%87%E6%A7%93%E9%88%B4-%E5%81%A5%E8%BA%AB%E8%88%87%E4%BA%BA%E7%94%9F%E7%9A%84%E5%B0%8D%E8%A9%B1.%20%E2%9A%93%20https://anchor.fm/curiousbarbell/episodes/61---ft---Mia-eqltu7)
+-   加入好奇槓鈴Email [https://mit886.substack.com/](https://mit886.substack.com/) 
+-   好奇槓鈴IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/) 
+-   好奇槓鈴Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)[](https://www.facebook.com/dialog/share?app_id=446611785530020&href=https://anchor.fm/curiousbarbell/episodes/61---ft---Mia-eqltu7&redirect_uri=https://anchor.fm/curiousbarbell/episodes/61---ft---Mia-eqltu7)[](https://twitter.com/intent/tweet?text=Listen%20to%20%22#61%20%E9%82%8A%E9%AA%A8%E6%8A%98%E9%82%8A%E6%8B%BF%E8%8B%B1%E5%9C%8B%E8%88%89%E9%87%8D%E5%86%A0%E8%BB%8D-%E5%9C%A8%E7%94%9F%E5%91%BD%E7%9A%84%E7%9B%A1%E9%A0%AD%E7%9C%8B%E5%88%B0%E8%BD%89%E6%A9%9F%20ft.%20%E5%A5%B3%E5%8A%9B%E5%A3%AB%20Mia%22%20by%20Curious%20Barbell%20%E5%A5%BD%E5%A5%87%E6%A7%93%E9%88%B4-%E5%81%A5%E8%BA%AB%E8%88%87%E4%BA%BA%E7%94%9F%E7%9A%84%E5%B0%8D%E8%A9%B1.%20%E2%9A%93%20https://anchor.fm/curiousbarbell/episodes/61---ft---Mia-eqltu7)

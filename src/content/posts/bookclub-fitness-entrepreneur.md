@@ -4,11 +4,11 @@ description: "運動產業創業讀書會由好奇槓鈴Podcast 主持人 Angie�
 date: "May 15, 2020"
 rawDate: "2020-05-15 15:55:09"
 author: "Angie Wang"
-image: "/images/posts/%E9%81%8B%E5%8B%95%E5%89%B5%E6%A5%AD%E7%AE%A1%E7%90%86Podcast%E8%AE%80%E6%9B%B8%E6%9C%83.png"
+image: "/images/posts/podcast.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "閱讀＆Podcast 推薦 Book and Podcast Recommendation"
+  - "健身與運動醫學"
+  - "閱讀推薦"
 ---
 
 ## **讀書會目的**
@@ -17,7 +17,7 @@ categories:
 
 不管你的背景為何，我們相信你都帶來了由你經驗滋養出的獨特視角，因此我們希望參與的人都能有表達自己想法的機會，透過互相鼓勵支持的方式，一起在運動產業的道路．
 
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><figure class="wp-block-image size-large"><img src="/images/posts/%E9%81%8B%E5%8B%95%E5%89%B5%E6%A5%AD%E7%AE%A1%E7%90%86Podcast%E8%AE%80%E6%9B%B8%E6%9C%83-1024x576.png" alt="運動產業創業讀書會" class="wp-image-3090"></figure></div></div>
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><figure class="wp-block-image size-large"><img src="/images/posts/podcast-1024x576.png" alt="運動產業創業讀書會" class="wp-image-3090"></figure></div></div>
 
 ## **每週進度與準備內容：**
 

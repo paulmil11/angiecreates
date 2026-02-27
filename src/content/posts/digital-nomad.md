@@ -3,11 +3,10 @@ title: "數位遊牧的真相-第一年學到的事 (Digital Nomad Reflections)"
 date: "October 18, 2023"
 rawDate: "2023-10-18 14:59:03"
 author: "Angie Wang"
-categories:
-  - "Uncategorized"
+categories: []
 ---
 
-自從去年農曆過年開始準備遊牧的各種事項：賣傢俱、打疫苗、收行李、搬離台北回台中和家中兩老說再見，到現在在台中完成這篇回顧時，自西班牙、美國、墨西哥遊牧也差不多將近一年了．雖然說自從30歲那年決定[從科技業轉職當健身教練](https://curiousbarbell.com/tech-to-coach-career-transition/)後人生變動的劇烈程度大概是有生之最，但開始數位遊牧的 2020年又創了另一個新的巔峰，除了因為podcast 讓我認識了改變我人許多改變我對人生想像的好友外（謝謝你們！），也意外在西班牙創了[運動科學海外人社團](https://www.facebook.com/groups/666490810818917/) 、回到美國後和在澳洲Wei教練辦了第一場的[「做自己的健身教練課程」](https://curiousbarbell.com/courses/)的先導工作坊．一直到後來到經歷burnt out、在水壩露營區的營火中找回初衷，並在墨西哥的海邊小鎮開始冥想的[曼陀羅繪畫](https://www.instagram.com/meditativecreation/)，和在[Movement Mexico](https://www.instagram.com/movement__mexico/)找到現階段最適合自己的訓練形式．
+自從去年農曆過年開始準備遊牧的各種事項：賣傢俱、打疫苗、收行李、搬離台北回台中和家中兩老說再見，到現在在台中完成這篇回顧時，自西班牙、美國、墨西哥遊牧也差不多將近一年了．雖然說自從30歲那年決定[從科技業轉職當健身教練](/tech-to-coach-career-transition/)後人生變動的劇烈程度大概是有生之最，但開始數位遊牧的 2020年又創了另一個新的巔峰，除了因為podcast 讓我認識了改變我人許多改變我對人生想像的好友外（謝謝你們！），也意外在西班牙創了[運動科學海外人社團](https://www.facebook.com/groups/666490810818917/) 、回到美國後和在澳洲Wei教練辦了第一場的[「做自己的健身教練課程」](/blog/)的先導工作坊．一直到後來到經歷burnt out、在水壩露營區的營火中找回初衷，並在墨西哥的海邊小鎮開始冥想的[曼陀羅繪畫](https://www.instagram.com/meditativecreation/)，和在[Movement Mexico](https://www.instagram.com/movement__mexico/)找到現階段最適合自己的訓練形式．
 
 而這一切都在從單身踏入婚姻的新婚狀態、在全球疫情中同時在世界不同角落不斷遷移的過程中發生！今天這篇是個非常長的回顧，希望能藉由我的經歷，給同在訓練與作為solopreneur (自雇者）的紅塵中打滾的大家一些鼓勵．
 
@@ -35,7 +34,7 @@ categories:
 
 雖然後來在Puerto Escondido 找到了我的社群，但漸漸地我也才理解，是自己把數位遊牧社群想像的太單一了，我忘了不管是種族、文化還是特定生活形式的事情，同質性本來就是自己想像出來的；每個人都是獨特的個體，那些曾經遇過的美好人類之所以美好是因「他們是誰」，而不是因為他們是digital nomad．也因此，我學會了不要對生活抱有太僵化的期待，也真正懂得珍惜那些一路上遇到的那些獨特的美好靈魂．
 
-<iframe title="vimeo-player" src="/images/posts/446392613.jpg" width="640" height="360" frameborder="0" allowfullscreen="" style="box-sizing: border-box; margin: 0px 0px 1.85714em; padding: 0px; width: 750px; min-height: 0px; border: none; word-break: break-word; border-radius: 6px; color: rgb(102, 102, 102); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/446392613" width="100%" height="360" frameborder="0" allowfullscreen></iframe>
 
 （附上我們游牧滿月時，在Canary的[Co-living CWC](https://www.repeople.co/en/coliving/) 分享游牧原因的影片）
 

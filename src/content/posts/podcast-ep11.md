@@ -7,22 +7,22 @@ author: "Angie Wang"
 image: "/images/posts/EP11-I-chen-Youtube-.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "海外留學工作 Overseas Research and Careers"
-  - "運動健身訓練知識 Sports Science"
-  - "運動訓練與傷害防護Athletic Training and Sports Injuries"
+  - "健身與運動醫學"
+  - "海外留學"
+  - "運動科學"
+  - "運動傷害防護"
 tags:
-  - "海外留學工作"
+  - "海外留學"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/833541d1" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/833541d1" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 劉奕辰是美國物理治療博士、紐約Physiomotion Lab動作控制實驗室創辦人，也是TMSA台灣動作專家協會的總顧問．他除了是NKT神經動能療法與精繪解剖的助理講師外，也在美國與台灣開授許多關於呼吸、肌動學、與動力鍊分析的講座．今天我們會請奕辰和我們分享他在紐約執業的生活、美國物理治療產業、他的講師之路以及針對呼吸主題的探討．
 
-<iframe src="/images/posts/11----Physiomotion-lab-eac958.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/11----Physiomotion-lab-eac958.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 **主題一、紐約物理治療師執業與台灣工作的生活**
 

@@ -39,12 +39,6 @@ const readingTime = getReadingTime(content);
       )}
     </div>
 
-    {image && (
-      <div class="post-image container">
-        <img src={image} alt={title} loading="lazy" />
-      </div>
-    )}
-
     <div class="post-content container">
       <slot />
     </div>
@@ -205,6 +199,10 @@ const readingTime = getReadingTime(content);
     max-width: 100%;
     margin: 2rem 0;
     border-radius: 8px;
+  }
+
+  .post-content :global(iframe[src*="transistor"]) {
+    background: var(--color-bg);
   }
 
   .post-content :global(iframe[src*="youtube"]) {

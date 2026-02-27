@@ -6,9 +6,9 @@ author: "Angie Wang"
 image: "/images/posts/Justin-IG.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "肌力與體能訓練 Strength &amp; Conditioning"
-  - "運動健身訓練知識 Sports Science"
+  - "健身與運動醫學"
+  - "肌力與體能訓練"
+  - "運動科學"
 tags:
   - "ace"
   - "coaching"
@@ -16,16 +16,16 @@ tags:
   - "跳耀力"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/55d92ce8" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/55d92ce8" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 Justin Lu賈教練著有「把私人教練帶回家」一書，也是台大醫院減重班特聘講師，經常至各大院校、醫院演講．他曾為KAT Know & Apply Training的體適能講師以及美國運動協會ACE證照講師．Justin 在本集與我們分享他的教練與講師之路，他對於推廣健身的看法，以及關於跳躍力訓練的討論．
 
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="/images/posts/Justin-YT-2.jpg" alt="" class="wp-image-2876"></figure></div>
 
-<iframe src="/images/posts/26--ACE--ft--Justin-Lu-ecivjh.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/26--ACE--ft--Justin-Lu-ecivjh.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 ## **主題一、教練職涯與教學**
 
@@ -70,10 +70,10 @@ Justin Lu賈教練著有「把私人教練帶回家」一書，也是台大醫�
 
 了解更多:
 
--   Facebook [https://www.facebook.com/curiousbarbell/](https://www.facebook.com/curiousbarbell/)
--   IG [https://www.instagram.com/curiousbarbell/](https://www.instagram.com/curiousbarbell/)
--   Website: [https://curiousbarbell.com](https://curiousbarbell.com)
--   E-mail: [curiousbarbell@gmail.com](mailto:angie@curiousbarbell.com)
+-   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
+-   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
+-   Website: [https://angiecreates.io](https://angiecreates.io)
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
 
 在其他平台聆聽：
 

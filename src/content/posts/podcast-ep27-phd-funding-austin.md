@@ -6,13 +6,13 @@ rawDate: "2020-04-12 13:06:07"
 author: "Angie Wang"
 categories:
   - "Podcast"
-  - "海外留學工作 Overseas Research and Careers"
+  - "海外留學"
 tags:
   - "公費"
   - "運動生理"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/644d9f17" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/644d9f17" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 ＊本次訪談為好奇槓鈴第一次**線上LIVE錄影訪談**的音檔版，有包括美國和歐洲運動科學的教授與博班學生等多人參與訪談及Q&A！EP27為Sam的公費申請分享，想知道博班申請流程的請收聽EP28! 影片檔請到youtube 收看唷！
@@ -21,9 +21,9 @@ tags:
 
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="/images/posts/Sam-IG-gov-fund-1.png" alt="" class="wp-image-2889"></figure></div>
 
-<iframe src="/images/posts/28--ft--Sam-ecmhub.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/28--ft--Sam-ecmhub.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 -   公費規定簡介
 -   申請的流程、為期多久
@@ -40,16 +40,16 @@ tags:
 
 \[運動科學海外留學生活資源\]
 
--   最新活動 [https://curiousbarbell.com/events/](https://curiousbarbell.com/overseas/)
--   運動科學海外人交流網絡 [https://curiousbarbell.com/overseas/](https://curiousbarbell.com/overseas/)
+-   最新活動 [/blog/](/blog/)
+-   運動科學海外人交流網絡 [/blog/](/blog/)
 -   四月份線上meet-up [https://www.facebook.com/events/1121129544906245/](https://www.facebook.com/events/1121129544906245/)
 -   FB社團 [https://www.facebook.com/groups/666490810818917/](https://www.facebook.com/groups/666490810818917/)
 -   公費留學簡章[https://www.scholarship.moe.gov.tw/files/MOE%20108%20Scholarship.pdf](https://www.scholarship.moe.gov.tw/files/MOE%20108%20Scholarship.pdf)
--   Sam的聯絡方式：[https://www.facebook.com/profile.php?id=100000293510339](https://curiousbarbell.com/podcast-ep19/)
+-   Sam的聯絡方式：[https://www.facebook.com/profile.php?id=100000293510339](/podcast-ep19/)
 -   email: samas9944@gmail.com
 
 了解更多：
 
 -   Facebook & IG搜尋: Curious Barbell
--   Website: curiousbarbell.com
--   E-mail:curiousbarbell@gmail.com
+-   Website: angiecreates.io
+-   E-mail:angie@angiecreates.io

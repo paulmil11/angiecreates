@@ -8,10 +8,10 @@ image: "/images/posts/EP-15-Youtube-cover.png"
 categories:
   - "Podcast"
   - "人生人蔘"
-  - "女性創業與健身 Female Entrepreneurship and Training"
+  - "女性創業與健身"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/9a37505b" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/9a37505b" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 你曾經想過好奇槓鈴節目幕後的準備過程是什麼嗎？製作一個Podcast，對於主持人來說又有什麼內心的挑戰需要克服呢？在這個跟Girlpowertalk 女力心聲的主持人Anne地對談裡，我們將大揭密各種Podcast節目製作血淚史(!?)這次與Anne的對談將分成上下兩集，本集我們討論
@@ -22,9 +22,9 @@ categories:
 -   約訪來賓、準備訪問以及編輯訪談的各種內心戲
 -   吸粉的撇步（！？）（騙你的）
 
-<iframe src="/images/posts/15--Podcast--ft--X-GRL-PWR-TALKS-eb0tg0.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/15--Podcast--ft--X-GRL-PWR-TALKS-eb0tg0.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 下一集，我們將分享
 
@@ -51,8 +51,8 @@ categories:
 Contacts:
 
 -   Facebook & IG搜尋: Curious Barbell
--   Website: curiousbarbell.com
--   E-mail: [angie@curiousbarbell.com](mailto:angie@curiousbarbell.com)
+-   Website: angiecreates.io
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
 
 在其他下平台收聽：
 

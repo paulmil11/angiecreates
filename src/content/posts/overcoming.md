@@ -4,13 +4,12 @@ date: "May 9, 2022"
 rawDate: "2022-05-09 04:24:19"
 author: "Angie Wang"
 image: "/images/posts/dylan-hunter-AuMTlCQIDes-unsplash.jpg"
-categories:
-  - "Uncategorized"
+categories: []
 ---
 
 I emailed the FOUNDER of my DREAM COMPANY! This was what happened.
 
-<div class="wp-block-embed__wrapper">https://www.youtube.com/embed/vu4vV9XC6PQ</div>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/vu4vV9XC6PQ" frameborder="0" allowfullscreen></iframe>
 
 ### The Scary Action
 

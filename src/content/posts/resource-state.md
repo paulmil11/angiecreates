@@ -4,8 +4,7 @@ date: "May 1, 2022"
 rawDate: "2022-05-01 03:28:58"
 author: "Angie Wang"
 image: "/images/posts/rishabh-dharmani-IvfAs3Qk64M-unsplash.jpg"
-categories:
-  - "Uncategorized"
+categories: []
 ---
 
 You’ve been preparing for an important interview for the whole week. You are confident and ready to kick ass. But when you are about to join the zoom room for the interview, suddenly your fight or flight response is activated. You tried to stay calm but nothing works. You blank out during the whole interview. The worst part is that this unexpected turn of the event was not the first time it happened. You feel powerless because it seems like there’s nothing you can do.

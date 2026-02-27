@@ -6,8 +6,7 @@ rawDate: "2019-06-22 05:52:03"
 author: "Angie Wang"
 image: "/images/posts/foot-anatomy-cover-photo.jpeg"
 categories:
-  - "Training Note 訓練筆記"
-  - "Uncategorized"
+  - "訓練筆記"
 tags:
   - "ankle mobility"
   - "assessment"
@@ -26,7 +25,7 @@ I couldn't properly walk anymore! This first happened 2 months ago when I carele
 
 大概兩個月前我在忍者團課進行吊環擺盪時玩耍的太開心，跳下著地時沒落好，從那時開始左腳就一直呈現半跛腳狀態．
 
-<div class="wp-block-embed__wrapper">https://www.instagram.com/p/BvQlvbqnNCI/</div>
+[Instagram 貼文](https://www.instagram.com/p/BvQlvbqnNCI/)
 
 I was hit by a wave of numbness all over my left foot but nothing painful. However, it started to get swollen after a few hours. I did my job to ice patch it for two days then just being lazy. Despite a little pain while walking and some decreased range of motion of my left ankle because of the swollen instep, nothing too dramatic happened, so I just left it as it is hoping it will recover by itself.
 
@@ -60,7 +59,7 @@ I felt normal waking up. But as the day progressed, my foot turned stiff, swolle
 
 Last night reached the peak of my impatience toward this minor-discomfort-but-so-annoying-I-can’t-ignore-anymore foot problem. Finally, I asked our Kinesiology instructor [Jimmy](https://www.facebook.com/chunmin/) for help. After improving my ankle range of motion with some corrective exercises, we adopted the big toe test to see if my big toe joint could be the cause of the problem. But nope, my big toe has no problem bending all the way to my nose lol
 
-過了這麼久，昨晚認真到了我對這個沒什麼大礙但卻弄得我心煩意亂的掰咖問題容忍極限，終於我向[G動學](https://curiousbarbell.com/2019/03/18/dunning-krugger-effect/)講師[吉米](https://www.facebook.com/chunmin/)求救．在做了幾個改善腳踝活動度的動作後，我們轉向第一蹠趾指關節活動次測試看看我的大姆哥是否就是罪魁禍首，結果他超彎一路翻到天lol
+過了這麼久，昨晚認真到了我對這個沒什麼大礙但卻弄得我心煩意亂的掰咖問題容忍極限，終於我向[G動學](/dunning-krugger-effect/)講師[吉米](https://www.facebook.com/chunmin/)求救．在做了幾個改善腳踝活動度的動作後，我們轉向第一蹠趾指關節活動次測試看看我的大姆哥是否就是罪魁禍首，結果他超彎一路翻到天lol
 
 #### Dorsal Fascia Stretch & Metabolic Waste Reduction
 

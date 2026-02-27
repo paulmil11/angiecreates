@@ -5,7 +5,7 @@ rawDate: "2020-08-21 13:33:09"
 author: "Angie Wang"
 image: "/images/posts/pexels-christina-morillo-1181560.jpg"
 categories:
-  - "Advice"
+  - "人生人蔘"
 ---
 
 Vivamus integer non suscipit taciti etiam at primis tempor sagittis euismod libero facilisi aptent elementum felis blandit cursus gravida sociis erat ante eleifend lectus nullam dapibus netus feugiat curae curabitur. Massa curae fringilla porttitor quam sollicitudin iaculis aptent leo ligula euismod dictumst orci penatibus mauris eros etiam praesent erat volutpat posuere. Metus fringilla nec ullamcorper odio aliquam lacinia conubia mauris tempor etiam ultricies proin quisque lectus sociis tristique integer phasellus inceptos taciti pretium adipiscing praesent lobortis morbi cras magna vivamus per risus fermentum tortor sagittis ligula.

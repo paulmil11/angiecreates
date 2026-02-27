@@ -7,26 +7,26 @@ author: "Angie Wang"
 image: "/images/posts/May-IG.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "女性創業與健身 Female Entrepreneurship and Training"
+  - "健身與運動醫學"
+  - "女性創業與健身"
   - "訓練精神喊話"
 tags:
   - "女性創業"
   - "性別"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/3ee33e34" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/3ee33e34" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 你追蹤May @may8572fit的健身歷程、跟Angie一樣透過May的健身食譜書創造美味的健康餐點，但是你知道在20萬人粉絲健身網紅角色之外，他的台大人類學訓練也讓他擁有深刻地看世界與自己IG網紅身份的框架嗎？May將帶你進入人類學的世界，探索前所未見的IG健身網紅新面向．
 
 ![](/images/posts/May-YT.png)
 
-<iframe src="/images/posts/30-May-ft--May-Liu-ed5ddc.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/30-May-ft--May-Liu-ed5ddc.jpg)
 
 ## 訂閱好奇槓鈴Podcast
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 ## 本集May分享：
 
@@ -42,15 +42,15 @@ tags:
 
 ## Connect with us!
 
--   加入好奇槓鈴Email [https://curiousbarbell.com/subscribe/](https://curiousbarbell.com/subscribe/)
+-   加入好奇槓鈴Email [https://mit886.substack.com/](https://mit886.substack.com/)
 -   May IG ＠may8572fit [https://www.instagram.com/may8572fit/](https://www.instagram.com/may8572fit/)
 -   May 研究論文-你 follow 她了嗎？Instagram 網紅的人類學觀察[http://ianthro.ioe.sinica.edu.tw/wp-content/uploads/2019/01/FM26-1.pdf](http://ianthro.ioe.sinica.edu.tw/wp-content/uploads/2019/01/FM26-1.pdf)
 
 ## 追蹤好奇槓鈴：
 
--   IG [https://www.instagram.com/curiousbarbell/](https://www.instagram.com/curiousbarbell/)
--   Facebook [https://www.facebook.com/curiousbarbell/](https://www.facebook.com/curiousbarbell/)
--   E-mail: [curiousbarbell@gmail.com](mailto:angie@curiousbarbell.com)
+-   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
+-   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
 
 在其他平台上收聽：
 

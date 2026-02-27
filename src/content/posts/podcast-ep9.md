@@ -7,19 +7,19 @@ author: "Angie Wang"
 image: "/images/posts/EP9-Youtube-Cover-Ohya.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
+  - "健身與運動醫學"
 tags:
   - "轉職健身教練"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/ebd627a9" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/ebd627a9" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 韓成志aka歐耶教練具有生物生理與分子生物學的學術背景，畢業後是台北醫學院體系的工程師，現在除了是GMEFIT的教練外，也是北醫體系頭頸科臨床實驗的顧問，負責醫學產學合作的專案．
 
-<iframe src="/images/posts/EP9----ea1vp3.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/EP9----ea1vp3.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 歐耶教練在本集中分享：
 
@@ -44,8 +44,8 @@ tags:
 Contacts:
 
 -   Facebook & IG搜尋: Curious Barbell
--   Website: curiousbarbell.com
--   E-mail: [angie@curiousbarbell.com](mailto:angie@curiousbarbell.com)
+-   Website: angiecreates.io
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
 
 在其他下平台收聽：
 

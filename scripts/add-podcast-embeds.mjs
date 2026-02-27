@@ -74,7 +74,7 @@ async function main() {
     if (link.includes('transistor.fm')) {
       // Extract episode path and build share URL
       const urlParts = new URL(link);
-      const episodePath = urlParts.pathname.replace('/episodes/', '');
+      const episodePath = urlParts.pathname.replace(/^\//, '').replace('episodes/', '');
       shareUrl = `https://share.transistor.fm/e/${episodePath}`;
     }
 

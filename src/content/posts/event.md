@@ -6,11 +6,11 @@ author: "Angie Wang"
 image: "/images/posts/fitness-events.jpeg"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "女性創業與健身 Female Entrepreneurship and Training"
-  - "海外留學工作 Overseas Research and Careers"
-  - "運動健身訓練知識 Sports Science"
-  - "運動訓練與傷害防護Athletic Training and Sports Injuries"
+  - "健身與運動醫學"
+  - "女性創業與健身"
+  - "海外留學"
+  - "運動科學"
+  - "運動傷害防護"
 ---
 
 ## Upcoming Event
@@ -35,7 +35,6 @@ Anita 現在是美國威斯康辛大學 （University of Wisconsin-Eau Claire）
 
 ## 牙醫師到瑜伽老師-楊祖寧的身心靈探索之旅
 
-![](blob:https://curiousbarbell.com/f065457f-0563-4177-b0c9-5afb00259f17)
 
 楊祖寧 Serena [Serena yoga](https://www.facebook.com/groups/741587392643133/) 是一名牙醫及私人瑜伽老師，他致力於致培養更多專業老師，期望讓身心動作教育以及身心靈的概念可以不再那麼玄妙、難以理解，可以非常落地而簡單的被理解與實踐，並受到更多台灣人的重視．
 
@@ -51,7 +50,7 @@ Serena yoga
 
 ### 5月份運動創業管理讀書會
 
-![](/images/posts/%E9%81%8B%E5%8B%95%E5%89%B5%E6%A5%AD%E7%AE%A1%E7%90%86Podcast%E8%AE%80%E6%9B%B8%E6%9C%83-214w.png)
+![](/images/posts/podcast-214w.png)
 
 你對運動產業創業有興趣嗎？或者你也正在思考自己的人生定位，想發揮自己在產業更大影響力嗎？歡迎加入我們的運動產業創業Podcast 輕鬆無負擔(?)讀書會！
 
@@ -82,7 +81,7 @@ Serena yoga
 
 \[時間\] 本週六台北時間晚上8點  
 \[哪裡\] 好奇槓鈴及賓狗單字IG限動直播  
-好奇槓鈴 IG [https://www.instagram.com/curiousbarbell/](https://www.instagram.com/curiousbarbell/?fbclid=IwAR0mHRtiTOMa_95HtgOFJURHMvDOmNM3opjv_t8k8w3t6WXMZ6tWEYrDS-Q)  
+好奇槓鈴 IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/?fbclid=IwAR0mHRtiTOMa_95HtgOFJURHMvDOmNM3opjv_t8k8w3t6WXMZ6tWEYrDS-Q)  
 賓狗單字IG [https://www.instagram.com/bingobilingual\_bb/](https://www.instagram.com/bingobilingual_bb/?fbclid=IwAR3qGkeCSrBZjEYtm6PYUOt8rGcdkQbZAns8vIAa5T-SLOfGLhyo-6CO5fk)
 
 <<賓狗單字介紹>>  
@@ -111,7 +110,7 @@ Serena yoga
 Eric 在喬西咖啡沙龍的訪談分享：  
 [https://apple.co/3b4iQiP](https://l.facebook.com/l.php?u=https%3A%2F%2Fapple.co%2F3b4iQiP%3Ffbclid%3DIwAR0j5FmCzgrinrfGT93JKUcxdirgpRC6AzBPRewVTVkg8_H6AFeGHLthFhs&h=AT0lYb22WvdMDqs-cwM91emy-9UbayK3senXyy-6wEyCE7nnaJ1sL524rPlsTTn01BhiN5gVFJ7LaveQteqHHe7SN1nzjrwgfopYlfarD17VG6ERTzLN_W33lCIr_jf0HEU86x4)
 
-![](/images/posts/Dr.-M-%E5%BE%A9%E5%81%A5%E7%A7%91%E9%86%AB%E5%B8%AB%E7%9A%84%E9%81%8B%E5%8B%95%E9%86%AB%E5%AD%B8%E4%B9%8B%E8%B7%AF.png)
+![](/images/posts/dr.-m.png)
 
 美國運動科學碩士、籃球隊＆留學文化生活應分享 ft. Eric Liu**描述**4/27 22:30 (台北時間) 好奇槓鈴的主持人Angie將與正在念碩班的Eric Liu 進行線上LIVE訪談！
 
@@ -178,7 +177,7 @@ Eric 在喬西咖啡沙龍的訪談分享：
 
 ## **3/27** 運動科學海外台灣人1st Meet Up
 
-<div class="wp-block-embed__wrapper">https://youtu.be/7J1ZmRnTU7k</div>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/7J1ZmRnTU7k" frameborder="0" allowfullscreen></iframe>
 
 這次的線上Zoom 聚會有約8位位於紐約、西班牙、澳洲、加州、明尼蘇達和亞利桑納以及台灣時區的同好們一起進行．
 

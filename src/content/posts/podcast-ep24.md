@@ -7,8 +7,8 @@ author: "Angie Wang"
 image: "/images/posts/Bruce-YT.png"
 categories:
   - "Podcast"
-  - "海外留學工作 Overseas Research and Careers"
-  - "運動健身訓練知識 Sports Science"
+  - "海外留學"
+  - "運動科學"
 tags:
   - "海外留學"
   - "減重"
@@ -16,14 +16,14 @@ tags:
   - "高間歇"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/c651bf9e" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/c651bf9e" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 Bruce林佳佑是一名ACE教練、目前是美國亞利桑那州立大學運動生理學碩士生，同時也在學校擔任老師教導運動生理學，跟隨知名教授Glenn Gaesser研究肥胖以高強度間歇運動.  
 
-<iframe src="/images/posts/a-a1pc0vn.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/a-a1pc0vn.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 本集我們討論
 
@@ -38,7 +38,7 @@ Bruce林佳佑是一名ACE教練、目前是美國亞利桑那州立大學運動
 
 本集相關連結：
 
--   海外運動科學台灣人的交流網絡[https://curiousbarbell.com/overseas/](https://curiousbarbell.com/overseas/)
+-   海外運動科學台灣人的交流網絡[/blog/](/blog/)
 -   預約加入Sam Chen UT Austin運動生理學博士班公費留學線上訪談
 -   Bruce臉書[https://www.facebook.com/profile.php?id=1678254915](https://www.facebook.com/profile.php?id=1678254915)
 -   Bruce e-mail- clin172@asu.edu       

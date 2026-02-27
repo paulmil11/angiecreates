@@ -4,9 +4,8 @@ description: "David Perell 的 Write of Passage 課程讓我不只能夠開始�
 date: "May 10, 2022"
 rawDate: "2022-05-10 03:38:23"
 author: "Angie Wang"
-image: "/images/posts/Portfolio-%E7%9A%84%E8%A4%87%E6%9C%AC-%E7%9A%84%E8%A4%87%E6%9C%AC-3.jpg"
+image: "/images/posts/portfolio-3.jpg"
 categories:
-  - "Email"
   - "人生人蔘"
 ---
 
@@ -74,7 +73,7 @@ WOP學費要價是驚人的4000美元，而我是以非常巧合的緣分(?)獎�
 因為想和大家一起寫作和玩耍，我開始組織不同的線下 coworking 群組．我們每週一起在咖啡廳寫作、一起冥想、參加 Breathwork．因為在 mentor session 突破了自己的限制型信念，我也開始在線上組織像是Bilingual Creator Networking 和 Drawing for Writing 的活動．一開始我只是覺得好玩，直到一個朋友告訴我 「安吉，你真的是個把大家串起來的人耶」，我才驚訝的發現：天啊！我已經突破自己覺得作為第一代移民所侷限得小小的生活圈軀殼了！**​  
 **
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/images/posts/Portfolio-%E7%9A%84%E8%A4%87%E6%9C%AC-%E7%9A%84%E8%A4%87%E6%9C%AC-2-1024x731.jpg" alt="Write of passage event" class="wp-image-3782" width="768" height="548"></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/images/posts/portfolio-2-1024x731.jpg" alt="Write of passage event" class="wp-image-3782" width="768" height="548"></figure></div>
 
 ### **女性友誼**
 
@@ -92,7 +91,7 @@ WOP 也是我活到30幾個年頭，第一次刻意的建立女性友誼．在�
 
 -   我的英文網站: [Angie Creates](https://www.angiecreates.io/)​
 -   我的英文雙週報 ：也是名為 [Angie Creates](https://angiecreates.substack.com/p/1-welcome-to-angie-creates?s=r)​
--   我的Twitter: [@curiousbarbell](https://twitter.com/curiousbarbell)​
+-   我的Twitter: [@angieeecreates](https://x.com/angiewangcreate)​
 
 ​
 
@@ -104,7 +103,7 @@ WOP 也是我活到30幾個年頭，第一次刻意的建立女性友誼．在�
 
 安吉
 
-對了，這篇文章是我的個人訂閱信件「好奇週報」的其中一刊，如果你喜歡的話，歡迎[到這裡訂閱](https://curiousbarbell.com/subscribe)唷！  
+對了，這篇文章是我的個人訂閱信件「好奇週報」的其中一刊，如果你喜歡的話，歡迎[到這裡訂閱](https://mit886.substack.com/)唷！  
 ​
 
 ![](/images/posts/open.jpg)

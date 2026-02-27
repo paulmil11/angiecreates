@@ -7,11 +7,11 @@ author: "Angie Wang"
 image: "/images/posts/6-eufe.png"
 categories:
   - "Podcast"
-  - "運動健身訓練知識 Sports Science"
-  - "運動訓練與傷害防護Athletic Training and Sports Injuries"
+  - "運動科學"
+  - "運動傷害防護"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/4b76bf05" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/4b76bf05" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 黃俊豪現在是University of Illinois at Chicago (UIC)的Kinesiology博士生，主要研究**退化性關節炎相關失能的生物力學**和臨床因子的控制，幫助建立老年**髖關節退化性關節炎病人治療方法、促進其步態效率**．
@@ -20,9 +20,9 @@ categories:
 
 ![](/images/posts/6.png)
 
-<iframe src="/images/posts/34---ft-ef1b7c.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/34---ft-ef1b7c.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 本集俊豪分享：
 

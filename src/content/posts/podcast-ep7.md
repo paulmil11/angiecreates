@@ -7,23 +7,23 @@ author: "Angie Wang"
 image: "/images/posts/EP7-Youtube-Cover-Kelly.png"
 categories:
   - "Podcast"
-  - "健身訓練＆運動醫學職涯與創業 Fitness and Sport Medicine Careers"
-  - "女性創業與健身 Female Entrepreneurship and Training"
-  - "運動健身訓練知識 Sports Science"
+  - "健身與運動醫學"
+  - "女性創業與健身"
+  - "運動科學"
 tags:
-  - "podcast"
+  - "Podcast"
 ---
 
-<iframe src="https://share.transistor.fm/e//s/fe06bd09" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
+<iframe src="https://share.transistor.fm/e/fe06bd09" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
 
 健美女大生-Kelly袁開昀是專職的健身教練跟作家，也是健身從深蹲開始這本書的作者．他是台大材料碩士畢業，在轉職當教練之前，也曾當過台積電工程師．
 
-<div class="wp-block-embed__wrapper">https://youtu.be/gIsL8zVk_0U</div>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/gIsL8zVk_0U" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="/images/posts/7----e9oolr.jpg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+![](/images/posts/7----e9oolr.jpg)
 
-\[podcast\_subscribe id="2512"\]
+**收聽本集 Podcast:** [Spotify](https://open.spotify.com/show/775CHBC6MeTytNmFHCwDU0) · [Apple Podcasts](https://podcasts.apple.com/tw/podcast/angie-creates/id1485860187) · [所有平台](https://angiecreates.transistor.fm)
 
 在本集專訪，我們聊到Kelly:
 
@@ -46,9 +46,9 @@ tags:
 
 Contacts:
 
--   Facebook [https://www.facebook.com/curiousbarbell/](https://www.facebook.com/curiousbarbell/)
--   IG [https://www.instagram.com/curiousbarbell/](https://www.instagram.com/curiousbarbell/)
--   E-mail: [curiousbarbell@gmail.com](mailto:angie@curiousbarbell.com)
+-   Facebook [https://www.facebook.com/angiewangcreates/](https://www.facebook.com/angiewangcreates/)
+-   IG [https://www.instagram.com/angiewangcreates/](https://www.instagram.com/angiewangcreates/)
+-   E-mail: [angie@angiecreates.io](mailto:angie@angiecreates.io)
 
 了解更多:
 
