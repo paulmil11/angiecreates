@@ -6,7 +6,8 @@ rawDate: "2026-02-28 00:00:00"
 author: "Angie Wang"
 image: "https://i.ytimg.com/vi/Y8QzlEdxP_c/hqdefault.jpg"
 categories:
-  - "Podcast"
+  - "人生人蔘"
+  - "無路之路"
 ---
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Y8QzlEdxP_c?si=Wkbnk1-i52DXFly0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -35,6 +36,21 @@ categories:
 
 > "We can ultimately surrender to our own nature. And this is what this book is about. And that journey may not be pretty. It may not be perfect. It may not be smooth. But it can be the most beautiful journey you take in your life."
 > — Paul Millerd
+
+## 關於來賓
+
+兩對走在無路之路上的夫妻，一起暢聊工作、愛情、創業與人生設計。Paul從麥肯錫顧問到自出版作家，Angie從科技業到健身教練到創作者，雷蒙從18歲網路接案到打造雷蒙三十品牌，柚子從戲劇系到數位媒體到一起經營品牌——四個人走的路都不一樣，但都選擇了不被預設道路定義的人生。
+
+**Paul Millerd** — 《無路之路 The Pathless Path》作者，全球暢銷超過60,000冊
+- [個人網站 pmillerd.com](https://pmillerd.com/)
+- [《無路之路》中文版](https://pathlesspath.com/chinese/)
+- [《無路之路》英文版 Amazon](https://www.amazon.com/Pathless-Path-Imagining-Story-Work/dp/B09QF6Q421)
+
+**雷蒙 & 柚子** — 雷蒙三十品牌創辦人，專注於數位工作術、Notion、AI 生產力教學
+- [雷蒙三十官網 raymondhouch.com](https://raymondhouch.com/)
+- [關於雷蒙 & 柚子](https://raymondhouch.com/about/)
+- [Instagram @yuiraymond](https://www.instagram.com/yuiraymond/)
+- [Instagram @raymond0917](https://www.instagram.com/raymond0917/)
 
 ---
 
