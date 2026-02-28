@@ -11,6 +11,8 @@ categories:
 
 <iframe src="https://share.transistor.fm/e/8e2cad77" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/y8Xm7sZI5_Y" frameborder="0" allowfullscreen></iframe>
+
 My guest today is Kelly Davis. Kelly is from the U.S and is currently based in Lisbon, Portugal. Before Lisbon, she spent the last ten years in Asia, especially in Taiwan and South Korea. Kelly is an independent learning coach, ed-tech consultant, and previous cofounder of an online self-directed ed-tech startup, Kubrio.
 
 She now works with creators and companies on education strategy, instructional course design, and project management, as well as with students and families from around the world. She writes two newsletters on substack Walking in Lisbon and Kelly’s Newsletter.

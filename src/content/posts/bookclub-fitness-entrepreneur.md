@@ -11,6 +11,8 @@ categories:
   - "閱讀推薦"
 ---
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/r9dh-Sr5kzw" frameborder="0" allowfullscreen></iframe>
+
 ## **讀書會目的**
 
 歡迎你加入運動產業創業讀書會！這個讀書會由好奇槓鈴Podcast 主持人 Angie負責籌劃、澳洲RMIT PhD& 健身教練Wei協辦，我們希望藉由聆聽他人的創業故事、以及全球頂尖的ＢBusiness thought leaders 訪談，一起交流對於運動產業創業與營運的想法．

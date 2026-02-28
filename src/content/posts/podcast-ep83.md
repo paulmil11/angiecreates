@@ -11,6 +11,8 @@ categories:
 
 <iframe src="https://share.transistor.fm/e/963d5de3" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dcN1r7Thd94" frameborder="0" allowfullscreen></iframe>
+
 My guest today is Lucy Liang, who was also the guest of Ep. 77. Yes, we are mothers now! It's been a wild ride since discovering we were pregnant on the same day, with due dates a week apart. In this episode, we discussed:
 
 - Our desire to be mothers.

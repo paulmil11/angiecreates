@@ -15,6 +15,8 @@ categories:
 
 <iframe src="https://share.transistor.fm/e/5c5136da" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Y7yxaUSwmBQ" frameborder="0" allowfullscreen></iframe>
+
 曾經也在科技業的紅塵打滾了七年、甚至當上行銷主管的Karen，因為對健身的熱愛投入健身產業，並創立了「 我健客 Fitworks」 podcast．是什麼原因讓 Karen做轉職的決定、而轉職前後的他又經歷了什麼樣的轉變呢？Karen在本集和我們分享： 
 
 - 轉職前害怕的是什麼？怎麼做準備？後來這些事有成真嗎？ 

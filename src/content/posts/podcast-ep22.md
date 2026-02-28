@@ -13,6 +13,8 @@ categories:
 
 <iframe src="https://share.transistor.fm/e/0a48bc9b" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/TREk2km4VN0" frameborder="0" allowfullscreen></iframe>
+
 今天這集是我與Taiwanese Diaspora 台灣人 Podcast 的 Cynthia 合作的Nomadic 台灣廊系列第一集！
 
 作為土生土長台灣人的Angie和美國華裔第二代的Cynthia在今天這一集，我們聊到我們家庭背景的教育觀念、在異地時因為這些成長文化而有的衝擊、在台灣英文這個語言被行銷時的所使用的詭異邏輯、 以及各種政治不正確的自身體驗(?)

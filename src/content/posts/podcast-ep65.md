@@ -12,6 +12,8 @@ categories:
 
 <iframe src="https://share.transistor.fm/e/e2a56afc" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/OT_Ii-ZSSP8" frameborder="0" allowfullscreen></iframe>
+
 正在居家訓練的你，是否遇到各種自主訓練的問題：器材間的差異是什麼？動作做幾組幾下的差異是什麼？不知道怎麼替換動作？不懂深蹲、硬舉、弓步走的差別是什麼？抓不到安全姿勢，練完身體怪怪的？不知道怎麼設計「屬於自己」的課表？網路資訊查不完、看不懂？ 
 
 在這個單集，我們將告訴你安吉和Wei教練和開的「做自己的健身教練」能夠怎麼幫助你系統化學會健身，以及作為教練兼創作者的我們，如何突破自己撞牆期的幕後秘辛㊙️ 

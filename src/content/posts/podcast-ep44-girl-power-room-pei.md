@@ -12,6 +12,8 @@ categories:
 
 <iframe src="https://share.transistor.fm/e/5e717fe9" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%;height:180px;"></iframe>
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VEnVXiMTZU0" frameborder="0" allowfullscreen></iframe>
+
 
 今天我們邀請到另一個Podcast主持人-女子健心室的Pei，來跟我們分享他從上班族變成自媒體工作者的心路歷程
 
