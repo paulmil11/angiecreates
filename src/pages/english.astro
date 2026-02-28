@@ -171,6 +171,13 @@ import Layout from '../layouts/Layout.astro';
   .col-card iframe {
     border: none;
     margin-top: 1rem;
+    border-radius: 8px;
+  }
+
+  .col-card:has(iframe) {
+    background: #fff;
+    border-radius: 8px;
+    padding: 1.25rem;
   }
 
   .learn-more {
