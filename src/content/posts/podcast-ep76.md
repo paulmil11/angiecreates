@@ -7,7 +7,7 @@ description: "Tica Lin現為哈佛大學博士候選人，主攻數據視覺化�
 date: "April 12, 2022"
 rawDate: "2022-04-11 16:50:23"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/vOyENS82x-4_8l64ZDFjCTSgXRLU3-8Tk0fwd-sP-Wg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwODkv/MTY2MjMyNzU1NC1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

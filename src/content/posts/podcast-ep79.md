@@ -9,7 +9,7 @@ Follow 安吉
 date: "September 3, 2022"
 rawDate: "2022-09-02 22:05:10"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/kWOF-A4WfEL7kID0IprESksVVkO9PXnu2ep-51YwnA8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwOTIv/MTY2MjMyNzU1OS1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

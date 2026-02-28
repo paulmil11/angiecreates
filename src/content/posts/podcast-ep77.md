@@ -4,7 +4,7 @@ description: "Our guest today is Lucy Liang! Lucy is a dear friend and the host 
 date: "May 9, 2022"
 rawDate: "2022-05-09 03:57:21"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/0b9_UVc74uvSULxvB9YtqSnW-8BVbZe9lvwEndQXCyE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwOTAv/MTY2MjMyNzU1Ny1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

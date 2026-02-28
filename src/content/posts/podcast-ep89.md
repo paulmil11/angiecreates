@@ -6,7 +6,7 @@ description: "I'm so honored to have Mestre Pinga Fogo ( Gui Torres) from Ben√ß√
 date: "April 3, 2024"
 rawDate: "2024-04-03 03:19:08"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/zQdCTexIQzlrV0Edmxi9WN1pYGhCmnDMqcIi4YiwrMo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE4Mjg3MDYv/MTcxMjExNDM0OC1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---
