@@ -9,7 +9,7 @@ description: "今天我們邀請到來賓是張耘齊運動物理治療師aka黑
 date: "March 14, 2020"
 rawDate: "2020-03-13 16:02:24"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/DzBA5WG6VGIx5bHwvSCLOh5Ef0llhWz-l_2EJW9_stA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwMzAv/MTY2MjMyNzQwMS1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

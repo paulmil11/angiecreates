@@ -10,7 +10,7 @@ description: "陳怡穎是台北東鴻牙醫的牙醫師，我們的促膝長談
 date: "July 24, 2021"
 rawDate: "2021-07-24 01:00:00"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/V1WTIVvbhdreGnQbP3COQd6xF76g1VkVVAAgEE4jGIM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwODIv/MTY2MjMyNzUzMS1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

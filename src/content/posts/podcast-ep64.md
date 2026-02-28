@@ -10,7 +10,7 @@ description: "大家疫情保重啊！ 
 date: "May 22, 2021"
 rawDate: "2021-05-22 00:00:00"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/lnCIRYQYAPXhgZ6Xqe9g31NC26T5VPwzl16PruhQ3ko/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwNzUv/MTY2MjMyNzUxNi1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

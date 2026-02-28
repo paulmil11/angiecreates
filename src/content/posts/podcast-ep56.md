@@ -9,7 +9,7 @@ description: "本集又是身體與人生的探討再一發！這次請到的來
 date: "December 2, 2020"
 rawDate: "2020-12-02 00:00:00"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/fbpO2AcrRUeaEI8K4IoZnwX2USqT8Bx6wa672kiXs0M/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwNjYv/MTY2MjMyNzQ5NC1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

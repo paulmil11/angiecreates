@@ -4,7 +4,7 @@ description: "Candice在台灣出生、加拿大長大，並在新加坡創業�
 date: "May 11, 2020"
 rawDate: "2020-05-11 12:30:05"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/vwqExlI1rLPEIGX76qfh0vRD7VutXWVSkWpt5dw8KHk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwNDIv/MTY2MjMyNzQzNS1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

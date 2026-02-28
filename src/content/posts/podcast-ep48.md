@@ -4,7 +4,7 @@ description: "好奇槓鈴訪談即將撥出訓練知識精選單集，夏天的
 date: "September 22, 2020"
 rawDate: "2020-09-22 00:00:00"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/dMW59AywH47WEti-d7qDfCDZMOn0lIWcc8gYcLCe1Vw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwNTgv/MTY2MjMyNzQ3OS1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

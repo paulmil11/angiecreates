@@ -9,7 +9,7 @@ description: "Anita Huang 黃昱倫是美國威斯康辛大學 （University of 
 date: "August 9, 2020"
 rawDate: "2020-08-09 01:00:00"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/xVvMqTaaHgji6D8tQl0TLv8iaIcoZ9F_L74jp_FXi_U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwNTIv/MTY2MjMyNzQ2Mi1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

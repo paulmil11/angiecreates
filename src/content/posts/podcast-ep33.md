@@ -4,7 +4,7 @@ description: "孔令竹aka竹子是知名部落格與工作室-竹子的體育�
 date: "May 22, 2020"
 rawDate: "2020-05-21 20:50:56"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/PLs8OtbXSCjW5cG-if-nckxJBqRJ_cs1Ra-KNzmndD0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwNDMv/MTY2MjMyNzQzNy1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

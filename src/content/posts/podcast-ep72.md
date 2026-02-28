@@ -6,7 +6,7 @@ description: "今天的來賓是經營知名知識型IG帳號 @vin_training: htt
 date: "October 13, 2021"
 rawDate: "2021-10-13 07:14:58"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/_sevyj2CEzRxxqWYVWoXFfJKZZctijkymeMQEqQT0hQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwODUv/MTY2MjMyNzU0Mi1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

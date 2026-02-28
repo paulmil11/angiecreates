@@ -8,7 +8,7 @@ description: "Follow 安吉
 date: "July 1, 2020"
 rawDate: "2020-07-01 10:21:15"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/Nh8odYxyFhZZtIcCH5NmObZ3D1JWTqDkVzR932TDg-U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwNTEv/MTY2MjMyNzQ1OS1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

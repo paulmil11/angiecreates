@@ -7,7 +7,7 @@ description: "今天讓安吉求解人生大哉問的來賓是GYMEFIT的Dennis�
 date: "November 28, 2020"
 rawDate: "2020-11-28 00:00:00"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/TffVCpn7CGjzeaiYTF6ZW8x17wmjjJ14RS53tUZdULo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwNjUv/MTY2MjMyNzQ5Mi1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

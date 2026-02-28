@@ -7,7 +7,7 @@ description: "本集又是一個重新出發！安吉在台大旁驚喜的發現
 date: "September 2, 2021"
 rawDate: "2021-09-02 00:00:00"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/5vbuVdPc0SztwOZhTMVdHWQrE-k9l1kw0xkA3-4q9bI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwODQv/MTY2MjMyNzUzOC1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

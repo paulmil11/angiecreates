@@ -6,7 +6,7 @@ description: "本集 Podcast 是在6月錄製的單集，來賓是匯集奇妙�
 date: "October 21, 2021"
 rawDate: "2021-10-21 00:00:42"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/6vVT47xk2z_fT-3vjvhXUbK4B23fs_i_0QoqS0DEf4c/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwODYv/MTY2MjMyNzU0NS1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

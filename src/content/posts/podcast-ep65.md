@@ -5,7 +5,7 @@ description: "正在居家訓練的你，是否遇到各種自主訓練的問題
 date: "June 6, 2021"
 rawDate: "2021-06-06 12:53:02"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/Yy7y3hr9yYGSd8YqLG3erFkTe6rgPZHczC9fiscby28/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwNzYv/MTY2MjMyNzUxOS1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

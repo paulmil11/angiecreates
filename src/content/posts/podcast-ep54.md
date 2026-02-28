@@ -4,7 +4,7 @@ description: "這次我們邀請到在美國舊金山區域和各運動隊伍合
 date: "November 17, 2020"
 rawDate: "2020-11-17 00:00:00"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/JwMrqBto_sQg4V60rLKkezSIc3MreF8TD_guRgvn8Zs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwNjQv/MTY2MjMyNzQ4OS1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

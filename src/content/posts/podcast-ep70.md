@@ -5,7 +5,7 @@ description: "好奇槓鈴的全新系列出場了！這個新的「問教練」
 date: "August 29, 2021"
 rawDate: "2021-08-29 02:00:00"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/eBAPqoqNpn2SfYc2lBp6DQRUBsnwcPOrZUsM6VPfk6E/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwODMv/MTY2MjMyNzUzNC1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

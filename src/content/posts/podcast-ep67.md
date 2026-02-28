@@ -8,7 +8,7 @@ description: "曾經也在科技業的紅塵打滾了七年、甚至當上行銷
 date: "June 26, 2021"
 rawDate: "2021-06-26 07:44:48"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/LjaoQNT9KZt_2KbJzaxqM76-WGW8RnroHMvaZcx710s/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwNzkv/MTY2MjMyNzUyNS1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

@@ -4,7 +4,7 @@ description: "教練在訓練學生時常見的問題有哪些？而當訓練者
 date: "March 5, 2020"
 rawDate: "2020-03-05 13:07:48"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/S0a35pBVj_TVnCdmJKN6F0QTQIPxnqNYgUp56ATpmLI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwMjgv/MTY2MjMyNzM5Ni1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

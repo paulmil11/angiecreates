@@ -5,7 +5,7 @@ description: "終於可以回家在台中和大家拜年了！今年重要計畫
 date: "February 13, 2021"
 rawDate: "2021-02-13 06:00:00"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/XvjvncykgkpNe5xtPNAXNa7wZc0_QzinQeJW0Wlpdhw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwNzAv/MTY2MjMyNzUwNS1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---

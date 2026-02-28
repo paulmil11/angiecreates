@@ -12,7 +12,7 @@ Follow 安吉
 date: "January 18, 2022"
 rawDate: "2022-01-18 02:12:01"
 author: "Angie Wang"
-image: "/images/podcast-cover.jpg"
+image: "https://img.transistorcdn.com/MZsvqn8LdNRBdIep6iooGGXiL4YkQzI2l1gy7zvzRkQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzEwMTMwODgv/MTY2MjMyNzU1Mi1h/cnR3b3JrLmpwZw.jpg"
 categories:
   - "Podcast"
 ---
